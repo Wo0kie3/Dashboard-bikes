@@ -1,0 +1,5 @@
+# VScode stuff
+.vscode*
+
+# Jupyter checkpoints
+*.ipynb_checkpoints*
