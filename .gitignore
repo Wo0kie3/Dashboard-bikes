@@ -3,3 +3,6 @@
 
 # Jupyter checkpoints
 *.ipynb_checkpoints*
+
+# Do not include dataset due to extensive size 
+data/*.csv
