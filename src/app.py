@@ -5,10 +5,13 @@ import time
 
 import dash
 import dash_bootstrap_components as dbc
+from dash_bootstrap_components._components.Label import Label
+from dash_bootstrap_components._components.Row import Row
 import dash_core_components as dcc
 import dash_html_components as html
 import numpy as np
 import pandas as pd
+import dash_table
 import plotly.express as px
 import plotly.graph_objs as go
 from dash.dependencies import Input, Output
@@ -17,7 +20,10 @@ from dash_bootstrap_components._components.Container import Container
 
 # TODO: Move to main
 stations = pd.read_csv("data/stations.csv", index_col=0)
-stations = stations["name"].values
+stations = stations["Name"]
+
+data = pd.read_csv('data/dataframe.csv')
+data = data.rename(columns={'departure_name':'Station Name','departure_latitude':'Latitude','departure_longitude':'Longitude','count':'Count','traffic':'Traffic'})
 
 # Paths and themes
 external_stylesheets = [dbc.themes.SKETCHY]
@@ -48,29 +54,106 @@ app.layout = dbc.Container([
         id="tab-content", className="p-4"),
 ])
 
+button_group = html.Div(
+    [
+        dbc.RadioItems(
+            id="radios",
+            className="btn-group",
+            labelClassName="btn btn-secondary",
+            labelCheckedClassName="active",
+            options=[
+                {"label": "Spring", "value": 1},
+                {"label": "Summer", "value": 2},
+                {"label": "Autumn", "value": 3},
+                {"label": "Winter", "value": 4},
+            ],
+            value=1,
+        ),
+        html.Div(id="output"),
+        html.Br(),
+    ],
+    className="radio-group",
+)
+
+station_search_button = html.Div(
+    [
+        dbc.Input(id="input", placeholder="Station..", type="text"),
+        html.Br(),
+        html.P(id="output"),
+    ]
+)
+
 bikeslayout = html.Div([
     dbc.Row([
-        dbc.Col(html.Div("Test"), width=8),
-        dbc.Col(html.Div("Test1"), width=4),
-    ]),
-])
+        dbc.Col(html.Div("Test"), width=6),
+        dbc.Col([
+            dbc.Row(button_group),
+            dbc.Row([
+                dbc.Col(html.Div("Test"), width=6),
+                dbc.Col(html.Div("Test"), width=6)
+            ]),
+            dbc.Row([
+                dbc.Col(html.Div("Test"), width=6),
+                dbc.Col(html.Div("Test"), width=6)
+            ]),
+        ], 
+        width=6,
+        align="center",
+        ),
+        ]),
+    ])
+
+
+table = dash_table.DataTable(
+    data = data.to_dict('records'),
+    columns=[{'id': c, 'name': c} for c in data.columns],
+    virtualization=True,
+    editable=False,
+    row_selectable="single",
+    page_size= 100,
+    fixed_rows={'headers': True},
+    style_cell={
+        'whiteSpace': 'normal',
+        'height': 'auto',
+        'lineHeight': '15px'
+    }
+)
+
+
+dropdown = dcc.Dropdown(
+    options=[
+        {'label': i, 'value': i} for i in stations
+    ],
+    multi=False
+)  
 
 stationslayout = html.Div([
     dbc.Row([
-        dbc.Col(html.Div("Temp"), width=6),
-        dbc.Col(html.Div("Temp1"), width=3),
-        dbc.Col(html.Div("Temp2"), width=3),
+        dbc.Col([
+            dropdown,
+            html.Br(),
+            table
+        ], width=8),
+        dbc.Col([
+            dbc.Row("TEST"),
+            dbc.Row("TEST"),
+        ], width=4),
     ]),
 ])
 
 helplayout = html.Div()
 
+with open('data/alert.txt') as a, open('data/p1.txt') as p1, open('data/p2.txt') as p2:
+    alert = a.readlines()
+    p1 = p1.readlines()
+    p2 = p2.readlines()
+
 # TODO: Load text from file
 aboutlayout = html.Div([
     html.H4("What are Helsinki City bikes?"),
-    html.P("Helsinki City Bikes are shared bicycles available to the public in Helsinki and Espoo metropolitan areas. The main aim of the Helsinki city bike system is to address the so-called last-mile problem present in all distribution networks. The city bikes were introduced in 2016 as a pilot project with only 46 bike stations available in Helsinki. After becoming popular among the citizens, Helsinki city decided to gradually expand the bike network. In the period between 2017 and 2019, approximately one hundred stations were being added to the network each year. By 2019 the bike network reached its complete state with only 7 stations being added in 2020. As of 2020, there were 3,510 bikes and 350 stations operating in Helsinki and Espoo."),
-    dbc.Alert("Since 2016 more than 10.000.000 rides have been made. The total distance of the trips is 25.291.523 kilometres. To put that in perspective 25.3 million kilometres is 65 times the distance to the moon. The total time all residents spent riding the bikes is approximately 280 Years and 4 months.", color="primary"),
-    html.P("In order to use the city bikes, citizens purchase access for a day, week or the entire cycling season that lasts from April to November. All passes include an unlimited number of 30-minute bike rides. For an extra fee of 1€/hour, you can use the bike for longer. Bikes are picked up and returned to stations that are located all around Helsinki and Espoo."),
+    html.P(p1),
+    dbc.Alert(alert, color="primary"),
+    html.P(p2),
     html.H4("Dataset"),
     dcc.Link('Helsinki City Bikes on Kaggle.com', refresh=True,
              href='https://www.kaggle.com/geometrein/helsinki-city-bikes?fbclid=IwAR2v2jyT8aG1q1tEz61AGcezpBrm85zuiUV-d9uPgLY8Xr9Ly86JhEWNTg0'),
