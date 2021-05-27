@@ -143,7 +143,7 @@ stationslayout = html.Div([
 
 helplayout = html.Div()
 
-with open('data/alert.txt') as a, open('data/p1.txt') as p1, open('data/p2.txt') as p2:
+with open('data/alerthelp.txt') as a, open('data/paragraph1help.txt') as p1, open('data/paragraph2help.txt') as p2:
     alert = a.readlines()
     p1 = p1.readlines()
     p2 = p2.readlines()
