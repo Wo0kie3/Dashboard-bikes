@@ -16,8 +16,8 @@ from dash_bootstrap_components._components.Container import Container
 
 
 # TODO: Move to main
-stations = pd.read_csv("data/stations.csv", index_col=0)
-stations = stations["name"].values
+stations = pd.read_csv("data/stations.csv")
+stations = stations["departure_name"].values
 
 # Paths and themes
 external_stylesheets = [dbc.themes.SKETCHY]
