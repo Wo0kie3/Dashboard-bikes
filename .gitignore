@@ -1,5 +1,6 @@
 # VScode stuff
 .vscode*
+*__pycache__*
 
 # Jupyter checkpoints
 *.ipynb_checkpoints*
