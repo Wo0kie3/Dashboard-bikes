@@ -50,6 +50,7 @@ def _find_bin(limits, val):
 def assign_bins(values: pd.Series, no_bins, column_names) -> pd.DataFrame:
     """
     Assigns values to bins [1; no_bins]
+    :return: DataFrame with three columns: bin, left_bound, right_bound
     """
     limits = np.linspace(values.min(), values.max(), no_bins)
     return pd.DataFrame(
@@ -61,9 +62,9 @@ def assign_bins(values: pd.Series, no_bins, column_names) -> pd.DataFrame:
 def plot_rose(df: pd.DataFrame, r, theta, hover_data={}, labels={}, title='') -> None:
     # TODO: Add docstring
     fig = px.bar_polar(
-        df, r='count', theta='left_bound', labels=labels, 
+        df, r=r, theta=theta, labels=labels, 
         title=title, start_angle=0, template='ggplot2',
-        hover_data={}, 
+        hover_data=hover_data, 
         direction='counterclockwise'
     )
 
@@ -97,4 +98,3 @@ if __name__ == '__main__':
     title = 'Distance plot, something...'
 
     plot_rose(distances, 'count', 'left_bound', hover_data, labels, title)
-
