@@ -1,8 +1,12 @@
 # VScode stuff
 .vscode*
+*__pycache__*
 
 # Jupyter checkpoints
 *.ipynb_checkpoints*
 
 # Do not include dataset due to extensive size 
 data/*.csv
+
+# Temp files
+*test*

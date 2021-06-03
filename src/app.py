@@ -20,6 +20,7 @@ from dash_bootstrap_components._components.Container import Container
 
 # TODO: Move to main
 stations = pd.read_csv("data/stations.csv")
+
 stations = stations["departure_name"]
 
 data = pd.read_csv('data/stations.csv')
