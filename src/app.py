@@ -22,7 +22,7 @@ from dash_bootstrap_components._components.Container import Container
 stations = pd.read_csv("data/stations.csv")
 stations = stations["departure_name"]
 
-data = pd.read_csv('data/dataframe.csv')
+data = pd.read_csv('data/stations.csv')
 data = data.rename(columns={'departure_name':'Station Name','departure_latitude':'Latitude','departure_longitude':'Longitude','count':'Count','traffic':'Traffic'})
 
 # Paths and themes
