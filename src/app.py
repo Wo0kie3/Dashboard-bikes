@@ -19,8 +19,8 @@ from dash_bootstrap_components._components.Container import Container
 
 
 # TODO: Move to main
-stations = pd.read_csv("data/stations.csv", index_col=0)
-stations = stations["Name"]
+stations = pd.read_csv("data/stations.csv")
+stations = stations["departure_name"]
 
 data = pd.read_csv('data/dataframe.csv')
 data = data.rename(columns={'departure_name':'Station Name','departure_latitude':'Latitude','departure_longitude':'Longitude','count':'Count','traffic':'Traffic'})
@@ -109,13 +109,19 @@ table = dash_table.DataTable(
     columns=[{'id': c, 'name': c} for c in data.columns],
     virtualization=True,
     editable=False,
-    row_selectable="single",
     page_size= 100,
+    sort_action='custom',
+    sort_mode='single',
+    sort_by=[],
     fixed_rows={'headers': True},
     style_cell={
+        'minWidth': '15px', 'width': '15px', 'maxWidth': '30px',
         'whiteSpace': 'normal',
         'height': 'auto',
-        'lineHeight': '15px'
+        'lineHeight': '20px',
+        'overflow': 'ellipsis',
+        'textOverflow': 'ellipsis',
+        'textAlign': 'center'
     }
 )
 
@@ -133,11 +139,11 @@ stationslayout = html.Div([
             dropdown,
             html.Br(),
             table
-        ], width=8),
+        ], width=7),
         dbc.Col([
             dbc.Row("TEST"),
             dbc.Row("TEST"),
-        ], width=4),
+        ], width=5),
     ]),
 ])
 
