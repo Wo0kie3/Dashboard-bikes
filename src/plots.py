@@ -4,8 +4,12 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 
+from utils import file_exists
+
 # Retrieve realpath of running script and get only dir name
 data_dir = dirname(realpath(__file__)) + '/../data/'
+bin_file = data_dir + "bins.csv"
+
 # Number of bins for rose plot
 no_bins = 20
 
@@ -26,7 +30,8 @@ def _find_bin(limits, val):
             if val < limits[mid]:
                 return [mid, str(limits[mid - 1]), str(limits[mid])]
             else:
-                right_interval = "inf" if (mid + 1) == len(limits) else str(limits[mid + 1])
+                right_interval = "inf" if (
+                    mid + 1) == len(limits) else str(limits[mid + 1])
                 return [mid + 1, str(limits[mid]), right_interval]
 
         if val == limits[mid]:
@@ -62,9 +67,9 @@ def assign_bins(values: pd.Series, no_bins, column_names) -> pd.DataFrame:
 def plot_rose(df: pd.DataFrame, r, theta, hover_data={}, labels={}, title='') -> None:
     # TODO: Add docstring
     fig = px.bar_polar(
-        df, r=r, theta=theta, labels=labels, 
+        df, r=r, theta=theta, labels=labels,
         title=title, start_angle=0, template='ggplot2',
-        hover_data=hover_data, 
+        hover_data=hover_data,
         direction='counterclockwise'
     )
 
@@ -72,27 +77,35 @@ def plot_rose(df: pd.DataFrame, r, theta, hover_data={}, labels={}, title='') ->
 
 
 if __name__ == '__main__':
-    df = pd.read_csv(data_dir + 'reduced.csv')
+    if file_exists(bin_file):
+        bins = pd.read_csv(bin_file)
+        bins['left_bound'] = bins['left_bound'].astype(str)
+    else:
+        df = pd.read_csv(data_dir + 'reduced.csv')
 
-    columns_names = ["bin", "left_bound", "right_bound"]
-    bins = assign_bins(df['distance'], no_bins, columns_names)
+        columns_names = ["bin", "left_bound", "right_bound"]
+        bins = assign_bins(df['distance'], no_bins, columns_names)
 
-    bins['bin'] = pd.to_numeric(bins['bin'])
-    bins['interval'] = " " + bins["left_bound"] + " - " + bins["right_bound"]
+        bins['bin'] = pd.to_numeric(bins['bin'])
+        bins['interval'] = " " + bins["left_bound"] + \
+            " - " + bins["right_bound"]
+
+        bins.to_csv(bin_file, index=False)
 
     distances = bins.groupby(by=['bin', 'left_bound', 'interval']) \
         .count()                                                   \
         .reset_index()                                             \
         .sort_values(by=['bin'])                                   \
         .rename(columns={'right_bound': 'count'})
+    print(distances.info())
 
     hover_data = {
-        'interval': True, 
-        'left_bound': False, 
+        'interval': True,
+        'left_bound': False,
         'bin': False
     }
     labels = {
-        'count': 'No. people', 
+        'count': 'No. people',
         'interval': 'Distance interval '
     }
     title = 'Distance plot, something...'

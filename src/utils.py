@@ -1,14 +1,8 @@
-import numpy as np
-
-PI = np.pi
+from pathlib import Path
 
 
-def moduloAB(x, a, b):
-    """
-    Maps a real number onto the unit circle identified with the interval [a,b), b - a = 2*PI
-    """
-    if a >= b:
-        raise ValueError('Incorrect interval ends')
-    
-    y = (x - a) % (b - a)
-    return y + b if y < 0 else y + a
+def file_exists(file_path: str):
+    if Path(file_path).is_file():
+        return True
+
+    return False
