@@ -10,3 +10,6 @@ data/*.csv
 
 # Temp files
 *test*
+
+# Tokens
+*token
