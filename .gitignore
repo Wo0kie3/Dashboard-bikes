@@ -13,3 +13,6 @@ data/*.csv
 
 # Tokens
 *token
+
+# Reports
+out/
