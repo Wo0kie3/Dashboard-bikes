@@ -1,11 +1,10 @@
-import numpy as np
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.missing_ipywidgets import FigureWidget
 
 from config import (Color, Season, autumn_file, mapbox_token, no_bins,
-                    spring_file, stations_file, summer_file)
+                    spring_file, stations_file, summer_file, hourly_file)
 from datasets import create_distances
 from utils import file_exists
 
@@ -26,7 +25,9 @@ def plot_rose(df: pd.DataFrame, r, theta, hover_data={},
 
 
 def get_rose_plot(no_bins=no_bins, season='spring') -> FigureWidget:
-    # TODO: docstring
+    """
+    Returns rose plot figure for chosen season
+    """
     if not file_exists(spring_file):
         create_distances(no_bins)
 
@@ -85,14 +86,16 @@ def plot_mapbox(df: pd.DataFrame, lat, lon, text, center: list, size=None, color
                 lon=c_lon
             )
         ),
-        margin={'r': 5, 'l': 5, 't': 30, 'b': 5}
+        margin={"r": 0, "t": 30, "l": 0, "b": 0}
     )
 
     return fig
 
 
 def get_mapbox_plot() -> FigureWidget:
-    # TODO: docstring
+    """
+    Returns rose plot figure for chosen season
+    """
     stations = pd.read_csv(stations_file)
 
     stations.replace({'traffic': {
@@ -114,6 +117,32 @@ def get_mapbox_plot() -> FigureWidget:
     )
 
 
+def get_scatter_plot(station, left, right, hours=None):
+    """
+    Returns scatter plot for chosen station
+    """
+    if hours is None:
+        hours = pd.read_csv(hourly_file)
+
+    count = list(hours.query("departure_name == '"+station+"'")['count'])[left:right]
+    hour_range = list(range(24))[left:right]
+
+    fig = go.Figure(go.Bar(x=hour_range, y=count, marker={'color': '#F09D51'}))
+
+    fig.update_layout(
+        margin={"r": 0, "t": 20, "l": 0, "b": 35},
+        xaxis=dict(
+            tickmode='array',
+            tickvals=[2, 6, 10, 14, 18, 22]
+        )
+    )
+
+    fig.update_traces(
+        hovertemplate='Period: %{x}:00 - %{x}:59<br>No. departures: %{y}<extra></extra>')
+
+    return fig
+
+
 if __name__ == '__main__':
     rose = get_rose_plot(no_bins, Season.SPRING)
     rose.show()
@@ -124,3 +153,5 @@ if __name__ == '__main__':
 
     mapbox = get_mapbox_plot()
     mapbox.show()
+
+    scatter = get_scatter_plot()
