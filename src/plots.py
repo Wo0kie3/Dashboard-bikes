@@ -106,8 +106,6 @@ def get_mapbox_plot() -> FigureWidget:
         'very low': 'Very low'
     }}, inplace=True)
 
-    px.set_mapbox_access_token(open(mapbox_token).read())
-
     labels = {'traffic': "Traffic:"}
 
     return plot_mapbox(
