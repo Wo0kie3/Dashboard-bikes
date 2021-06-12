@@ -44,11 +44,14 @@ def get_all_seasons(data) -> list[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     return [spring, summer, autumn]
 
 
-def create_seasons(data):
+def create_seasons(data=None):
     """
     Creates (and returns) seasons dataset containing average values for all seasons.
     Excludes winter as the dataset does not contain data points in this period.
     """
+    if data is None:
+        data = pd.read_csv(reduced_file)
+
     spring, summer, autumn = get_all_seasons(data)
 
     season_names = ['spring', 'summer', 'autumn']
@@ -87,11 +90,14 @@ def categorize(vals: pd.Series) -> pd.Series:
     return vals.apply(lambda val: _get_category(val, quants))
 
 
-def create_stations(data):
+def create_stations(data=None):
     """
     Creates (and returns) stations dataset containing name, coordinates, 
     count of departures and traffic of all stations.
     """
+    if data is None:
+        data = pd.read_csv(reduced_file)
+
     stations = data.groupby(by=[
         'departure_name', 'departure_latitude', 'departure_longitude'
     ]).size()                           \
@@ -227,10 +233,13 @@ def _get_hour(date_val: datetime):
     return hour
 
 
-def create_hourly(data) -> pd.DataFrame:
+def create_hourly(data=None) -> pd.DataFrame:
     """
     Creates (and returns) dataset containing hourly data for each station
     """
+    if data is None:
+        data = pd.read_csv(reduced_file)
+
     hourly = data.drop(columns=[
         'return', 'return_name', 'departure_latitude', 'departure_longitude'
     ])
