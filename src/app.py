@@ -17,6 +17,10 @@ from config import (alert_help, hourly_file, left_bound, mapbox_token,
                     paragraph_1, paragraph_2, right_bound, seasons_file,
                     stations_file)
 from plots import get_mapbox_plot, get_rose_plot, get_scatter_plot
+from utils import create_datasets
+
+# Check for needed datasets and create if missing
+create_datasets()
 
 # Buttons ids for Bikes section
 button_ids = ['spring_button', 'summer_button', 'autumn_button']
