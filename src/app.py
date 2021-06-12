@@ -309,10 +309,10 @@ def render_scatter(station, a, b):
     fig.update_layout(
         xaxis=dict(
             tickmode='array',
-            tickvals=[2, 6, 10, 14, 18, 22],
-            ticktext=['2:00', '6:00', '10:00', '14:00', '18:00', '22:00']
+            tickvals=[2, 6, 10, 14, 18, 22]
         )
     )
+    fig.update_traces(hovertemplate='Hour: %{x}:00 - %{x}:59<br>No. departures: %{y}<extra></extra>')
     # fig.update_xaxes(visible=False)
     return fig
 
