@@ -64,6 +64,8 @@ app = dash.Dash(
     suppress_callback_exceptions=True
 )
 
+server = app.server
+
 app.layout = dbc.Container([
     dcc.Store(id="store"),
     html.H1("Helsinki City Bikes Dashboard"),
