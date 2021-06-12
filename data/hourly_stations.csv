@@ -1,0 +1,8315 @@
+departure_name,hour,count
+A.I. Virtasen aukio,0,55
+A.I. Virtasen aukio,1,44
+A.I. Virtasen aukio,2,27
+A.I. Virtasen aukio,3,18
+A.I. Virtasen aukio,4,11
+A.I. Virtasen aukio,5,14
+A.I. Virtasen aukio,6,44
+A.I. Virtasen aukio,7,141
+A.I. Virtasen aukio,8,290
+A.I. Virtasen aukio,9,333
+A.I. Virtasen aukio,10,313
+A.I. Virtasen aukio,11,416
+A.I. Virtasen aukio,12,622
+A.I. Virtasen aukio,13,585
+A.I. Virtasen aukio,14,663
+A.I. Virtasen aukio,15,662
+A.I. Virtasen aukio,16,835
+A.I. Virtasen aukio,17,672
+A.I. Virtasen aukio,18,615
+A.I. Virtasen aukio,19,544
+A.I. Virtasen aukio,20,375
+A.I. Virtasen aukio,21,345
+A.I. Virtasen aukio,22,228
+A.I. Virtasen aukio,23,108
+Aalto-yliopisto (M) / Korkeakouluaukio,0,878
+Aalto-yliopisto (M) / Korkeakouluaukio,1,187
+Aalto-yliopisto (M) / Korkeakouluaukio,2,130
+Aalto-yliopisto (M) / Korkeakouluaukio,3,85
+Aalto-yliopisto (M) / Korkeakouluaukio,4,46
+Aalto-yliopisto (M) / Korkeakouluaukio,5,53
+Aalto-yliopisto (M) / Korkeakouluaukio,6,164
+Aalto-yliopisto (M) / Korkeakouluaukio,7,662
+Aalto-yliopisto (M) / Korkeakouluaukio,8,2553
+Aalto-yliopisto (M) / Korkeakouluaukio,9,3476
+Aalto-yliopisto (M) / Korkeakouluaukio,10,2440
+Aalto-yliopisto (M) / Korkeakouluaukio,11,2005
+Aalto-yliopisto (M) / Korkeakouluaukio,12,3666
+Aalto-yliopisto (M) / Korkeakouluaukio,13,4296
+Aalto-yliopisto (M) / Korkeakouluaukio,14,4168
+Aalto-yliopisto (M) / Korkeakouluaukio,15,4773
+Aalto-yliopisto (M) / Korkeakouluaukio,16,7228
+Aalto-yliopisto (M) / Korkeakouluaukio,17,8321
+Aalto-yliopisto (M) / Korkeakouluaukio,18,7894
+Aalto-yliopisto (M) / Korkeakouluaukio,19,6100
+Aalto-yliopisto (M) / Korkeakouluaukio,20,5127
+Aalto-yliopisto (M) / Korkeakouluaukio,21,4475
+Aalto-yliopisto (M) / Korkeakouluaukio,22,2830
+Aalto-yliopisto (M) / Korkeakouluaukio,23,1896
+Aalto-yliopisto (M) / Tietotie,0,284
+Aalto-yliopisto (M) / Tietotie,1,116
+Aalto-yliopisto (M) / Tietotie,2,66
+Aalto-yliopisto (M) / Tietotie,3,37
+Aalto-yliopisto (M) / Tietotie,4,17
+Aalto-yliopisto (M) / Tietotie,5,11
+Aalto-yliopisto (M) / Tietotie,6,15
+Aalto-yliopisto (M) / Tietotie,7,305
+Aalto-yliopisto (M) / Tietotie,8,1549
+Aalto-yliopisto (M) / Tietotie,9,2196
+Aalto-yliopisto (M) / Tietotie,10,714
+Aalto-yliopisto (M) / Tietotie,11,489
+Aalto-yliopisto (M) / Tietotie,12,772
+Aalto-yliopisto (M) / Tietotie,13,829
+Aalto-yliopisto (M) / Tietotie,14,727
+Aalto-yliopisto (M) / Tietotie,15,760
+Aalto-yliopisto (M) / Tietotie,16,1640
+Aalto-yliopisto (M) / Tietotie,17,2195
+Aalto-yliopisto (M) / Tietotie,18,2066
+Aalto-yliopisto (M) / Tietotie,19,1340
+Aalto-yliopisto (M) / Tietotie,20,1055
+Aalto-yliopisto (M) / Tietotie,21,867
+Aalto-yliopisto (M) / Tietotie,22,609
+Aalto-yliopisto (M) / Tietotie,23,476
+Abraham Wetterin tie,0,125
+Abraham Wetterin tie,1,101
+Abraham Wetterin tie,2,71
+Abraham Wetterin tie,3,59
+Abraham Wetterin tie,4,41
+Abraham Wetterin tie,5,35
+Abraham Wetterin tie,6,49
+Abraham Wetterin tie,7,165
+Abraham Wetterin tie,8,448
+Abraham Wetterin tie,9,440
+Abraham Wetterin tie,10,321
+Abraham Wetterin tie,11,371
+Abraham Wetterin tie,12,427
+Abraham Wetterin tie,13,519
+Abraham Wetterin tie,14,535
+Abraham Wetterin tie,15,626
+Abraham Wetterin tie,16,880
+Abraham Wetterin tie,17,888
+Abraham Wetterin tie,18,854
+Abraham Wetterin tie,19,717
+Abraham Wetterin tie,20,535
+Abraham Wetterin tie,21,418
+Abraham Wetterin tie,22,261
+Abraham Wetterin tie,23,207
+Agnetankuja,0,175
+Agnetankuja,1,140
+Agnetankuja,2,95
+Agnetankuja,3,28
+Agnetankuja,4,23
+Agnetankuja,5,134
+Agnetankuja,6,112
+Agnetankuja,7,408
+Agnetankuja,8,857
+Agnetankuja,9,613
+Agnetankuja,10,378
+Agnetankuja,11,362
+Agnetankuja,12,484
+Agnetankuja,13,584
+Agnetankuja,14,607
+Agnetankuja,15,707
+Agnetankuja,16,887
+Agnetankuja,17,954
+Agnetankuja,18,857
+Agnetankuja,19,706
+Agnetankuja,20,634
+Agnetankuja,21,474
+Agnetankuja,22,359
+Agnetankuja,23,206
+Agronominkatu,0,61
+Agronominkatu,1,16
+Agronominkatu,2,72
+Agronominkatu,3,10
+Agronominkatu,4,10
+Agronominkatu,5,21
+Agronominkatu,6,41
+Agronominkatu,7,54
+Agronominkatu,8,137
+Agronominkatu,9,216
+Agronominkatu,10,135
+Agronominkatu,11,182
+Agronominkatu,12,240
+Agronominkatu,13,282
+Agronominkatu,14,275
+Agronominkatu,15,303
+Agronominkatu,16,333
+Agronominkatu,17,338
+Agronominkatu,18,353
+Agronominkatu,19,369
+Agronominkatu,20,342
+Agronominkatu,21,290
+Agronominkatu,22,173
+Agronominkatu,23,108
+Ahertajantie,0,93
+Ahertajantie,1,60
+Ahertajantie,2,40
+Ahertajantie,3,34
+Ahertajantie,4,30
+Ahertajantie,5,9
+Ahertajantie,6,20
+Ahertajantie,7,152
+Ahertajantie,8,526
+Ahertajantie,9,616
+Ahertajantie,10,351
+Ahertajantie,11,365
+Ahertajantie,12,404
+Ahertajantie,13,524
+Ahertajantie,14,464
+Ahertajantie,15,585
+Ahertajantie,16,670
+Ahertajantie,17,612
+Ahertajantie,18,425
+Ahertajantie,19,391
+Ahertajantie,20,305
+Ahertajantie,21,230
+Ahertajantie,22,140
+Ahertajantie,23,100
+Alakiventie,0,53
+Alakiventie,1,30
+Alakiventie,2,12
+Alakiventie,3,12
+Alakiventie,4,8
+Alakiventie,5,8
+Alakiventie,6,8
+Alakiventie,7,46
+Alakiventie,8,85
+Alakiventie,9,109
+Alakiventie,10,88
+Alakiventie,11,103
+Alakiventie,12,121
+Alakiventie,13,121
+Alakiventie,14,131
+Alakiventie,15,172
+Alakiventie,16,165
+Alakiventie,17,199
+Alakiventie,18,268
+Alakiventie,19,177
+Alakiventie,20,145
+Alakiventie,21,146
+Alakiventie,22,111
+Alakiventie,23,66
+Albertinkatu,0,1035
+Albertinkatu,1,698
+Albertinkatu,2,501
+Albertinkatu,3,358
+Albertinkatu,4,245
+Albertinkatu,5,260
+Albertinkatu,6,1002
+Albertinkatu,7,1938
+Albertinkatu,8,3264
+Albertinkatu,9,2511
+Albertinkatu,10,1850
+Albertinkatu,11,1757
+Albertinkatu,12,2007
+Albertinkatu,13,2048
+Albertinkatu,14,2085
+Albertinkatu,15,2267
+Albertinkatu,16,3231
+Albertinkatu,17,4255
+Albertinkatu,18,4211
+Albertinkatu,19,3471
+Albertinkatu,20,3005
+Albertinkatu,21,2315
+Albertinkatu,22,1794
+Albertinkatu,23,1294
+Annankatu,0,1120
+Annankatu,1,937
+Annankatu,2,728
+Annankatu,3,551
+Annankatu,4,297
+Annankatu,5,136
+Annankatu,6,170
+Annankatu,7,621
+Annankatu,8,1809
+Annankatu,9,2791
+Annankatu,10,1986
+Annankatu,11,1824
+Annankatu,12,2380
+Annankatu,13,2484
+Annankatu,14,2458
+Annankatu,15,2662
+Annankatu,16,3565
+Annankatu,17,4062
+Annankatu,18,3842
+Annankatu,19,3120
+Annankatu,20,2832
+Annankatu,21,2220
+Annankatu,22,1683
+Annankatu,23,1432
+Apollonkatu,0,1630
+Apollonkatu,1,1007
+Apollonkatu,2,691
+Apollonkatu,3,392
+Apollonkatu,4,275
+Apollonkatu,5,316
+Apollonkatu,6,713
+Apollonkatu,7,3468
+Apollonkatu,8,5224
+Apollonkatu,9,4103
+Apollonkatu,10,2867
+Apollonkatu,11,2790
+Apollonkatu,12,3300
+Apollonkatu,13,3486
+Apollonkatu,14,3758
+Apollonkatu,15,4240
+Apollonkatu,16,6058
+Apollonkatu,17,7141
+Apollonkatu,18,7067
+Apollonkatu,19,6260
+Apollonkatu,20,5268
+Apollonkatu,21,4280
+Apollonkatu,22,2948
+Apollonkatu,23,2072
+Arabian kauppakeskus,0,662
+Arabian kauppakeskus,1,411
+Arabian kauppakeskus,2,312
+Arabian kauppakeskus,3,213
+Arabian kauppakeskus,4,144
+Arabian kauppakeskus,5,138
+Arabian kauppakeskus,6,536
+Arabian kauppakeskus,7,1460
+Arabian kauppakeskus,8,3150
+Arabian kauppakeskus,9,2865
+Arabian kauppakeskus,10,2087
+Arabian kauppakeskus,11,2651
+Arabian kauppakeskus,12,3425
+Arabian kauppakeskus,13,3911
+Arabian kauppakeskus,14,4348
+Arabian kauppakeskus,15,4902
+Arabian kauppakeskus,16,6560
+Arabian kauppakeskus,17,7389
+Arabian kauppakeskus,18,7449
+Arabian kauppakeskus,19,6260
+Arabian kauppakeskus,20,5437
+Arabian kauppakeskus,21,4110
+Arabian kauppakeskus,22,2208
+Arabian kauppakeskus,23,928
+Arabiankatu,0,421
+Arabiankatu,1,237
+Arabiankatu,2,129
+Arabiankatu,3,91
+Arabiankatu,4,61
+Arabiankatu,5,85
+Arabiankatu,6,187
+Arabiankatu,7,891
+Arabiankatu,8,2881
+Arabiankatu,9,1993
+Arabiankatu,10,1302
+Arabiankatu,11,1347
+Arabiankatu,12,1613
+Arabiankatu,13,1868
+Arabiankatu,14,1838
+Arabiankatu,15,2207
+Arabiankatu,16,2582
+Arabiankatu,17,2726
+Arabiankatu,18,2607
+Arabiankatu,19,2265
+Arabiankatu,20,1958
+Arabiankatu,21,1496
+Arabiankatu,22,901
+Arabiankatu,23,604
+Arielinkatu,0,623
+Arielinkatu,1,372
+Arielinkatu,2,236
+Arielinkatu,3,118
+Arielinkatu,4,141
+Arielinkatu,5,205
+Arielinkatu,6,222
+Arielinkatu,7,1129
+Arielinkatu,8,2369
+Arielinkatu,9,1746
+Arielinkatu,10,866
+Arielinkatu,11,851
+Arielinkatu,12,1011
+Arielinkatu,13,1047
+Arielinkatu,14,1084
+Arielinkatu,15,1270
+Arielinkatu,16,1501
+Arielinkatu,17,1760
+Arielinkatu,18,1853
+Arielinkatu,19,1717
+Arielinkatu,20,1449
+Arielinkatu,21,1195
+Arielinkatu,22,921
+Arielinkatu,23,643
+Asentajanpuisto,0,56
+Asentajanpuisto,1,37
+Asentajanpuisto,2,18
+Asentajanpuisto,3,18
+Asentajanpuisto,4,8
+Asentajanpuisto,5,6
+Asentajanpuisto,7,27
+Asentajanpuisto,8,93
+Asentajanpuisto,9,75
+Asentajanpuisto,10,80
+Asentajanpuisto,11,133
+Asentajanpuisto,12,183
+Asentajanpuisto,13,168
+Asentajanpuisto,14,247
+Asentajanpuisto,15,532
+Asentajanpuisto,16,889
+Asentajanpuisto,17,599
+Asentajanpuisto,18,431
+Asentajanpuisto,19,226
+Asentajanpuisto,20,208
+Asentajanpuisto,21,163
+Asentajanpuisto,22,96
+Asentajanpuisto,23,60
+Aulangontie,0,56
+Aulangontie,1,29
+Aulangontie,2,33
+Aulangontie,3,19
+Aulangontie,4,11
+Aulangontie,5,15
+Aulangontie,6,36
+Aulangontie,7,61
+Aulangontie,8,113
+Aulangontie,9,130
+Aulangontie,10,114
+Aulangontie,11,129
+Aulangontie,12,124
+Aulangontie,13,141
+Aulangontie,14,145
+Aulangontie,15,166
+Aulangontie,16,236
+Aulangontie,17,239
+Aulangontie,18,251
+Aulangontie,19,211
+Aulangontie,20,172
+Aulangontie,21,146
+Aulangontie,22,122
+Aulangontie,23,64
+Auringonkatu,0,67
+Auringonkatu,1,62
+Auringonkatu,2,41
+Auringonkatu,3,24
+Auringonkatu,4,44
+Auringonkatu,5,47
+Auringonkatu,6,114
+Auringonkatu,7,301
+Auringonkatu,8,591
+Auringonkatu,9,410
+Auringonkatu,10,268
+Auringonkatu,11,279
+Auringonkatu,12,356
+Auringonkatu,13,319
+Auringonkatu,14,384
+Auringonkatu,15,358
+Auringonkatu,16,429
+Auringonkatu,17,436
+Auringonkatu,18,481
+Auringonkatu,19,388
+Auringonkatu,20,345
+Auringonkatu,21,255
+Auringonkatu,22,195
+Auringonkatu,23,104
+Avaruuskatu,0,36
+Avaruuskatu,1,25
+Avaruuskatu,2,11
+Avaruuskatu,3,13
+Avaruuskatu,4,15
+Avaruuskatu,5,12
+Avaruuskatu,6,94
+Avaruuskatu,7,340
+Avaruuskatu,8,665
+Avaruuskatu,9,424
+Avaruuskatu,10,254
+Avaruuskatu,11,219
+Avaruuskatu,12,257
+Avaruuskatu,13,237
+Avaruuskatu,14,313
+Avaruuskatu,15,319
+Avaruuskatu,16,320
+Avaruuskatu,17,328
+Avaruuskatu,18,325
+Avaruuskatu,19,289
+Avaruuskatu,20,309
+Avaruuskatu,21,195
+Avaruuskatu,22,115
+Avaruuskatu,23,60
+Baana,0,970
+Baana,1,683
+Baana,2,483
+Baana,3,366
+Baana,4,375
+Baana,5,347
+Baana,6,495
+Baana,7,1629
+Baana,8,5296
+Baana,9,5411
+Baana,10,3514
+Baana,11,3324
+Baana,12,3971
+Baana,13,3641
+Baana,14,3621
+Baana,15,4426
+Baana,16,6370
+Baana,17,6573
+Baana,18,5412
+Baana,19,4545
+Baana,20,3935
+Baana,21,3199
+Baana,22,2155
+Baana,23,1550
+Betonimies,0,43
+Betonimies,1,31
+Betonimies,2,12
+Betonimies,3,19
+Betonimies,4,10
+Betonimies,5,6
+Betonimies,6,5
+Betonimies,7,33
+Betonimies,8,73
+Betonimies,9,90
+Betonimies,10,93
+Betonimies,11,196
+Betonimies,12,280
+Betonimies,13,175
+Betonimies,14,175
+Betonimies,15,270
+Betonimies,16,358
+Betonimies,17,648
+Betonimies,18,425
+Betonimies,19,267
+Betonimies,20,154
+Betonimies,21,147
+Betonimies,22,64
+Betonimies,23,48
+Brahen kenttä,0,1707
+Brahen kenttä,1,1243
+Brahen kenttä,2,1002
+Brahen kenttä,3,468
+Brahen kenttä,4,345
+Brahen kenttä,5,276
+Brahen kenttä,6,351
+Brahen kenttä,7,1056
+Brahen kenttä,8,2310
+Brahen kenttä,9,2032
+Brahen kenttä,10,1544
+Brahen kenttä,11,1674
+Brahen kenttä,12,2009
+Brahen kenttä,13,2208
+Brahen kenttä,14,2531
+Brahen kenttä,15,3100
+Brahen kenttä,16,4338
+Brahen kenttä,17,5170
+Brahen kenttä,18,5454
+Brahen kenttä,19,4776
+Brahen kenttä,20,4401
+Brahen kenttä,21,3752
+Brahen kenttä,22,2822
+Brahen kenttä,23,2089
+Brahen puistikko,0,1215
+Brahen puistikko,1,766
+Brahen puistikko,2,615
+Brahen puistikko,3,357
+Brahen puistikko,4,261
+Brahen puistikko,5,482
+Brahen puistikko,6,735
+Brahen puistikko,7,1645
+Brahen puistikko,8,2102
+Brahen puistikko,9,1782
+Brahen puistikko,10,1204
+Brahen puistikko,11,1094
+Brahen puistikko,12,1440
+Brahen puistikko,13,1583
+Brahen puistikko,14,1830
+Brahen puistikko,15,2255
+Brahen puistikko,16,3599
+Brahen puistikko,17,4039
+Brahen puistikko,18,3660
+Brahen puistikko,19,3160
+Brahen puistikko,20,2914
+Brahen puistikko,21,2447
+Brahen puistikko,22,1901
+Brahen puistikko,23,1451
+Cygnaeuksenkatu,0,501
+Cygnaeuksenkatu,1,281
+Cygnaeuksenkatu,2,192
+Cygnaeuksenkatu,3,179
+Cygnaeuksenkatu,4,196
+Cygnaeuksenkatu,5,136
+Cygnaeuksenkatu,6,371
+Cygnaeuksenkatu,7,781
+Cygnaeuksenkatu,8,952
+Cygnaeuksenkatu,9,1203
+Cygnaeuksenkatu,10,950
+Cygnaeuksenkatu,11,994
+Cygnaeuksenkatu,12,1252
+Cygnaeuksenkatu,13,1205
+Cygnaeuksenkatu,14,1286
+Cygnaeuksenkatu,15,1407
+Cygnaeuksenkatu,16,1957
+Cygnaeuksenkatu,17,2339
+Cygnaeuksenkatu,18,2398
+Cygnaeuksenkatu,19,1884
+Cygnaeuksenkatu,20,1586
+Cygnaeuksenkatu,21,1139
+Cygnaeuksenkatu,22,880
+Cygnaeuksenkatu,23,665
+Derby Business Park,2,1
+Derby Business Park,4,1
+Derby Business Park,8,1
+Derby Business Park,9,1
+Derby Business Park,10,2
+Derby Business Park,11,3
+Derby Business Park,12,2
+Derby Business Park,13,4
+Derby Business Park,14,9
+Derby Business Park,15,28
+Derby Business Park,16,72
+Derby Business Park,17,71
+Derby Business Park,18,25
+Derby Business Park,19,8
+Derby Business Park,20,9
+Derby Business Park,21,5
+Derby Business Park,23,1
+Designmuseo,0,736
+Designmuseo,1,476
+Designmuseo,2,386
+Designmuseo,3,276
+Designmuseo,4,237
+Designmuseo,5,191
+Designmuseo,6,201
+Designmuseo,7,643
+Designmuseo,8,1935
+Designmuseo,9,2399
+Designmuseo,10,1976
+Designmuseo,11,1521
+Designmuseo,12,1822
+Designmuseo,13,1883
+Designmuseo,14,2006
+Designmuseo,15,1990
+Designmuseo,16,2345
+Designmuseo,17,2743
+Designmuseo,18,2731
+Designmuseo,19,2072
+Designmuseo,20,1854
+Designmuseo,21,1456
+Designmuseo,22,1131
+Designmuseo,23,936
+Diakoniapuisto,0,1330
+Diakoniapuisto,1,879
+Diakoniapuisto,2,582
+Diakoniapuisto,3,326
+Diakoniapuisto,4,248
+Diakoniapuisto,5,192
+Diakoniapuisto,6,601
+Diakoniapuisto,7,3106
+Diakoniapuisto,8,5351
+Diakoniapuisto,9,3803
+Diakoniapuisto,10,1901
+Diakoniapuisto,11,2001
+Diakoniapuisto,12,2420
+Diakoniapuisto,13,2785
+Diakoniapuisto,14,3130
+Diakoniapuisto,15,4299
+Diakoniapuisto,16,7375
+Diakoniapuisto,17,7127
+Diakoniapuisto,18,5486
+Diakoniapuisto,19,4790
+Diakoniapuisto,20,4269
+Diakoniapuisto,21,3646
+Diakoniapuisto,22,2777
+Diakoniapuisto,23,1538
+Eerikinkatu,0,679
+Eerikinkatu,1,432
+Eerikinkatu,2,338
+Eerikinkatu,3,208
+Eerikinkatu,4,111
+Eerikinkatu,5,47
+Eerikinkatu,6,96
+Eerikinkatu,7,361
+Eerikinkatu,8,1124
+Eerikinkatu,9,1537
+Eerikinkatu,10,1025
+Eerikinkatu,11,1047
+Eerikinkatu,12,1591
+Eerikinkatu,13,1713
+Eerikinkatu,14,1616
+Eerikinkatu,15,1859
+Eerikinkatu,16,2508
+Eerikinkatu,17,2748
+Eerikinkatu,18,2329
+Eerikinkatu,19,1808
+Eerikinkatu,20,1410
+Eerikinkatu,21,1138
+Eerikinkatu,22,879
+Eerikinkatu,23,677
+Ehrenströmintie,0,551
+Ehrenströmintie,1,329
+Ehrenströmintie,2,204
+Ehrenströmintie,3,193
+Ehrenströmintie,4,106
+Ehrenströmintie,5,38
+Ehrenströmintie,6,22
+Ehrenströmintie,7,45
+Ehrenströmintie,8,213
+Ehrenströmintie,9,248
+Ehrenströmintie,10,393
+Ehrenströmintie,11,647
+Ehrenströmintie,12,1025
+Ehrenströmintie,13,1353
+Ehrenströmintie,14,1688
+Ehrenströmintie,15,2071
+Ehrenströmintie,16,2455
+Ehrenströmintie,17,2499
+Ehrenströmintie,18,2318
+Ehrenströmintie,19,2147
+Ehrenströmintie,20,2076
+Ehrenströmintie,21,1609
+Ehrenströmintie,22,1294
+Ehrenströmintie,23,876
+Elfvik,0,13
+Elfvik,1,10
+Elfvik,2,7
+Elfvik,3,4
+Elfvik,4,7
+Elfvik,5,3
+Elfvik,7,8
+Elfvik,8,19
+Elfvik,9,18
+Elfvik,10,38
+Elfvik,11,56
+Elfvik,12,82
+Elfvik,13,101
+Elfvik,14,132
+Elfvik,15,178
+Elfvik,16,232
+Elfvik,17,230
+Elfvik,18,206
+Elfvik,19,185
+Elfvik,20,144
+Elfvik,21,106
+Elfvik,22,44
+Elfvik,23,34
+Elimäenkatu,0,373
+Elimäenkatu,1,234
+Elimäenkatu,2,225
+Elimäenkatu,3,194
+Elimäenkatu,4,157
+Elimäenkatu,5,112
+Elimäenkatu,6,142
+Elimäenkatu,7,334
+Elimäenkatu,8,1111
+Elimäenkatu,9,1711
+Elimäenkatu,10,1210
+Elimäenkatu,11,1410
+Elimäenkatu,12,1799
+Elimäenkatu,13,1714
+Elimäenkatu,14,1960
+Elimäenkatu,15,3161
+Elimäenkatu,16,3701
+Elimäenkatu,17,2051
+Elimäenkatu,18,1399
+Elimäenkatu,19,1109
+Elimäenkatu,20,1003
+Elimäenkatu,21,886
+Elimäenkatu,22,618
+Elimäenkatu,23,509
+Eläinmuseo,0,447
+Eläinmuseo,1,261
+Eläinmuseo,2,269
+Eläinmuseo,3,179
+Eläinmuseo,4,130
+Eläinmuseo,5,66
+Eläinmuseo,6,156
+Eläinmuseo,7,431
+Eläinmuseo,8,1313
+Eläinmuseo,9,1675
+Eläinmuseo,10,1141
+Eläinmuseo,11,1153
+Eläinmuseo,12,1406
+Eläinmuseo,13,1398
+Eläinmuseo,14,1445
+Eläinmuseo,15,1680
+Eläinmuseo,16,2126
+Eläinmuseo,17,2257
+Eläinmuseo,18,2168
+Eläinmuseo,19,1728
+Eläinmuseo,20,1507
+Eläinmuseo,21,1282
+Eläinmuseo,22,837
+Eläinmuseo,23,609
+Erottajan aukio,0,426
+Erottajan aukio,1,259
+Erottajan aukio,2,232
+Erottajan aukio,3,168
+Erottajan aukio,4,104
+Erottajan aukio,5,46
+Erottajan aukio,6,39
+Erottajan aukio,7,81
+Erottajan aukio,8,336
+Erottajan aukio,9,462
+Erottajan aukio,10,437
+Erottajan aukio,11,582
+Erottajan aukio,12,932
+Erottajan aukio,13,1213
+Erottajan aukio,14,1304
+Erottajan aukio,15,1689
+Erottajan aukio,16,2226
+Erottajan aukio,17,2842
+Erottajan aukio,18,2445
+Erottajan aukio,19,1841
+Erottajan aukio,20,1400
+Erottajan aukio,21,1039
+Erottajan aukio,22,713
+Erottajan aukio,23,507
+Eränkävijäntori,0,90
+Eränkävijäntori,1,35
+Eränkävijäntori,2,22
+Eränkävijäntori,3,14
+Eränkävijäntori,4,6
+Eränkävijäntori,5,5
+Eränkävijäntori,6,72
+Eränkävijäntori,7,222
+Eränkävijäntori,8,341
+Eränkävijäntori,9,222
+Eränkävijäntori,10,186
+Eränkävijäntori,11,172
+Eränkävijäntori,12,243
+Eränkävijäntori,13,277
+Eränkävijäntori,14,294
+Eränkävijäntori,15,300
+Eränkävijäntori,16,373
+Eränkävijäntori,17,422
+Eränkävijäntori,18,415
+Eränkävijäntori,19,438
+Eränkävijäntori,20,346
+Eränkävijäntori,21,256
+Eränkävijäntori,22,165
+Eränkävijäntori,23,218
+Esterinportti,0,550
+Esterinportti,1,279
+Esterinportti,2,220
+Esterinportti,3,121
+Esterinportti,4,79
+Esterinportti,5,114
+Esterinportti,6,349
+Esterinportti,7,1132
+Esterinportti,8,2732
+Esterinportti,9,2395
+Esterinportti,10,1640
+Esterinportti,11,1768
+Esterinportti,12,2089
+Esterinportti,13,2145
+Esterinportti,14,2254
+Esterinportti,15,2588
+Esterinportti,16,3645
+Esterinportti,17,3473
+Esterinportti,18,2897
+Esterinportti,19,2510
+Esterinportti,20,2290
+Esterinportti,21,1944
+Esterinportti,22,1215
+Esterinportti,23,822
+Eteläesplanadi,0,1173
+Eteläesplanadi,1,880
+Eteläesplanadi,2,757
+Eteläesplanadi,3,576
+Eteläesplanadi,4,342
+Eteläesplanadi,5,113
+Eteläesplanadi,6,74
+Eteläesplanadi,7,223
+Eteläesplanadi,8,728
+Eteläesplanadi,9,998
+Eteläesplanadi,10,1001
+Eteläesplanadi,11,1441
+Eteläesplanadi,12,2364
+Eteläesplanadi,13,2800
+Eteläesplanadi,14,3348
+Eteläesplanadi,15,4246
+Eteläesplanadi,16,7500
+Eteläesplanadi,17,10149
+Eteläesplanadi,18,7357
+Eteläesplanadi,19,4993
+Eteläesplanadi,20,3833
+Eteläesplanadi,21,2641
+Eteläesplanadi,22,1879
+Eteläesplanadi,23,1524
+Eteläinen Hesperiankatu,0,509
+Eteläinen Hesperiankatu,1,256
+Eteläinen Hesperiankatu,2,145
+Eteläinen Hesperiankatu,3,84
+Eteläinen Hesperiankatu,4,57
+Eteläinen Hesperiankatu,5,47
+Eteläinen Hesperiankatu,6,75
+Eteläinen Hesperiankatu,7,472
+Eteläinen Hesperiankatu,8,1735
+Eteläinen Hesperiankatu,9,2004
+Eteläinen Hesperiankatu,10,1237
+Eteläinen Hesperiankatu,11,1270
+Eteläinen Hesperiankatu,12,1924
+Eteläinen Hesperiankatu,13,2429
+Eteläinen Hesperiankatu,14,2770
+Eteläinen Hesperiankatu,15,3035
+Eteläinen Hesperiankatu,16,3897
+Eteläinen Hesperiankatu,17,3943
+Eteläinen Hesperiankatu,18,3719
+Eteläinen Hesperiankatu,19,3698
+Eteläinen Hesperiankatu,20,3364
+Eteläinen Hesperiankatu,21,3280
+Eteläinen Hesperiankatu,22,2026
+Eteläinen Hesperiankatu,23,1112
+Etuniementie,0,51
+Etuniementie,1,34
+Etuniementie,2,15
+Etuniementie,3,4
+Etuniementie,4,9
+Etuniementie,5,24
+Etuniementie,6,82
+Etuniementie,7,236
+Etuniementie,8,361
+Etuniementie,9,238
+Etuniementie,10,160
+Etuniementie,11,156
+Etuniementie,12,213
+Etuniementie,13,237
+Etuniementie,14,218
+Etuniementie,15,243
+Etuniementie,16,305
+Etuniementie,17,362
+Etuniementie,18,412
+Etuniementie,19,374
+Etuniementie,20,305
+Etuniementie,21,214
+Etuniementie,22,120
+Etuniementie,23,62
+Fleminginkatu,0,1180
+Fleminginkatu,1,690
+Fleminginkatu,2,540
+Fleminginkatu,3,352
+Fleminginkatu,4,321
+Fleminginkatu,5,485
+Fleminginkatu,6,737
+Fleminginkatu,7,2226
+Fleminginkatu,8,4437
+Fleminginkatu,9,4470
+Fleminginkatu,10,2289
+Fleminginkatu,11,1587
+Fleminginkatu,12,1901
+Fleminginkatu,13,1947
+Fleminginkatu,14,2198
+Fleminginkatu,15,2934
+Fleminginkatu,16,4174
+Fleminginkatu,17,4745
+Fleminginkatu,18,4239
+Fleminginkatu,19,3619
+Fleminginkatu,20,3348
+Fleminginkatu,21,2612
+Fleminginkatu,22,1915
+Fleminginkatu,23,1260
+Friisilänaukio,0,88
+Friisilänaukio,1,54
+Friisilänaukio,2,25
+Friisilänaukio,3,22
+Friisilänaukio,4,31
+Friisilänaukio,5,18
+Friisilänaukio,6,27
+Friisilänaukio,7,34
+Friisilänaukio,8,93
+Friisilänaukio,9,144
+Friisilänaukio,10,121
+Friisilänaukio,11,136
+Friisilänaukio,12,194
+Friisilänaukio,13,249
+Friisilänaukio,14,304
+Friisilänaukio,15,449
+Friisilänaukio,16,466
+Friisilänaukio,17,511
+Friisilänaukio,18,515
+Friisilänaukio,19,474
+Friisilänaukio,20,543
+Friisilänaukio,21,416
+Friisilänaukio,22,328
+Friisilänaukio,23,99
+Gallen-Kallelan tie,0,82
+Gallen-Kallelan tie,1,46
+Gallen-Kallelan tie,2,41
+Gallen-Kallelan tie,3,23
+Gallen-Kallelan tie,4,17
+Gallen-Kallelan tie,5,8
+Gallen-Kallelan tie,6,16
+Gallen-Kallelan tie,7,32
+Gallen-Kallelan tie,8,92
+Gallen-Kallelan tie,9,69
+Gallen-Kallelan tie,10,72
+Gallen-Kallelan tie,11,189
+Gallen-Kallelan tie,12,324
+Gallen-Kallelan tie,13,345
+Gallen-Kallelan tie,14,444
+Gallen-Kallelan tie,15,583
+Gallen-Kallelan tie,16,709
+Gallen-Kallelan tie,17,677
+Gallen-Kallelan tie,18,719
+Gallen-Kallelan tie,19,618
+Gallen-Kallelan tie,20,509
+Gallen-Kallelan tie,21,424
+Gallen-Kallelan tie,22,277
+Gallen-Kallelan tie,23,173
+Gebhardinaukio,0,497
+Gebhardinaukio,1,352
+Gebhardinaukio,2,315
+Gebhardinaukio,3,214
+Gebhardinaukio,4,170
+Gebhardinaukio,5,130
+Gebhardinaukio,6,142
+Gebhardinaukio,7,776
+Gebhardinaukio,8,2332
+Gebhardinaukio,9,3073
+Gebhardinaukio,10,1893
+Gebhardinaukio,11,1657
+Gebhardinaukio,12,1725
+Gebhardinaukio,13,1512
+Gebhardinaukio,14,1339
+Gebhardinaukio,15,1885
+Gebhardinaukio,16,2622
+Gebhardinaukio,17,1849
+Gebhardinaukio,18,1498
+Gebhardinaukio,19,1155
+Gebhardinaukio,20,1148
+Gebhardinaukio,21,854
+Gebhardinaukio,22,679
+Gebhardinaukio,23,563
+Golfpolku,0,66
+Golfpolku,1,54
+Golfpolku,2,40
+Golfpolku,3,23
+Golfpolku,4,14
+Golfpolku,5,16
+Golfpolku,6,17
+Golfpolku,7,75
+Golfpolku,8,247
+Golfpolku,9,186
+Golfpolku,10,125
+Golfpolku,11,144
+Golfpolku,12,191
+Golfpolku,13,216
+Golfpolku,14,228
+Golfpolku,15,236
+Golfpolku,16,242
+Golfpolku,17,331
+Golfpolku,18,367
+Golfpolku,19,327
+Golfpolku,20,289
+Golfpolku,21,163
+Golfpolku,22,144
+Golfpolku,23,73
+Gransinmäki,0,12
+Gransinmäki,1,10
+Gransinmäki,2,10
+Gransinmäki,3,2
+Gransinmäki,4,1
+Gransinmäki,6,4
+Gransinmäki,7,10
+Gransinmäki,8,42
+Gransinmäki,9,22
+Gransinmäki,10,46
+Gransinmäki,11,86
+Gransinmäki,12,219
+Gransinmäki,13,181
+Gransinmäki,14,158
+Gransinmäki,15,230
+Gransinmäki,16,269
+Gransinmäki,17,227
+Gransinmäki,18,141
+Gransinmäki,19,115
+Gransinmäki,20,107
+Gransinmäki,21,79
+Gransinmäki,22,43
+Gransinmäki,23,30
+Gunillantie,0,37
+Gunillantie,1,31
+Gunillantie,2,17
+Gunillantie,3,13
+Gunillantie,4,9
+Gunillantie,5,23
+Gunillantie,6,54
+Gunillantie,7,51
+Gunillantie,8,93
+Gunillantie,9,155
+Gunillantie,10,138
+Gunillantie,11,176
+Gunillantie,12,213
+Gunillantie,13,243
+Gunillantie,14,217
+Gunillantie,15,262
+Gunillantie,16,265
+Gunillantie,17,253
+Gunillantie,18,265
+Gunillantie,19,244
+Gunillantie,20,267
+Gunillantie,21,170
+Gunillantie,22,129
+Gunillantie,23,79
+Gyldenintie,0,571
+Gyldenintie,1,266
+Gyldenintie,2,209
+Gyldenintie,3,128
+Gyldenintie,4,88
+Gyldenintie,5,39
+Gyldenintie,6,299
+Gyldenintie,7,1610
+Gyldenintie,8,4576
+Gyldenintie,9,5126
+Gyldenintie,10,2129
+Gyldenintie,11,1663
+Gyldenintie,12,2047
+Gyldenintie,13,2479
+Gyldenintie,14,2875
+Gyldenintie,15,3298
+Gyldenintie,16,5057
+Gyldenintie,17,6441
+Gyldenintie,18,5147
+Gyldenintie,19,3894
+Gyldenintie,20,3187
+Gyldenintie,21,2768
+Gyldenintie,22,1850
+Gyldenintie,23,1343
+Haagan tori,0,96
+Haagan tori,1,62
+Haagan tori,2,45
+Haagan tori,3,29
+Haagan tori,4,26
+Haagan tori,5,18
+Haagan tori,6,171
+Haagan tori,7,438
+Haagan tori,8,813
+Haagan tori,9,480
+Haagan tori,10,350
+Haagan tori,11,400
+Haagan tori,12,505
+Haagan tori,13,563
+Haagan tori,14,546
+Haagan tori,15,643
+Haagan tori,16,712
+Haagan tori,17,764
+Haagan tori,18,735
+Haagan tori,19,657
+Haagan tori,20,551
+Haagan tori,21,373
+Haagan tori,22,212
+Haagan tori,23,141
+Haakoninlahdenkatu,0,18
+Haakoninlahdenkatu,1,16
+Haakoninlahdenkatu,2,22
+Haakoninlahdenkatu,3,6
+Haakoninlahdenkatu,4,12
+Haakoninlahdenkatu,5,7
+Haakoninlahdenkatu,6,9
+Haakoninlahdenkatu,7,14
+Haakoninlahdenkatu,8,33
+Haakoninlahdenkatu,9,15
+Haakoninlahdenkatu,10,33
+Haakoninlahdenkatu,11,65
+Haakoninlahdenkatu,12,72
+Haakoninlahdenkatu,13,95
+Haakoninlahdenkatu,14,103
+Haakoninlahdenkatu,15,133
+Haakoninlahdenkatu,16,150
+Haakoninlahdenkatu,17,149
+Haakoninlahdenkatu,18,149
+Haakoninlahdenkatu,19,154
+Haakoninlahdenkatu,20,189
+Haakoninlahdenkatu,21,130
+Haakoninlahdenkatu,22,91
+Haakoninlahdenkatu,23,53
+Haapaniemenkatu,0,1028
+Haapaniemenkatu,1,1062
+Haapaniemenkatu,2,1080
+Haapaniemenkatu,3,721
+Haapaniemenkatu,4,445
+Haapaniemenkatu,5,196
+Haapaniemenkatu,6,229
+Haapaniemenkatu,7,810
+Haapaniemenkatu,8,1502
+Haapaniemenkatu,9,1618
+Haapaniemenkatu,10,1050
+Haapaniemenkatu,11,951
+Haapaniemenkatu,12,1214
+Haapaniemenkatu,13,1302
+Haapaniemenkatu,14,1399
+Haapaniemenkatu,15,1579
+Haapaniemenkatu,16,2251
+Haapaniemenkatu,17,2663
+Haapaniemenkatu,18,2510
+Haapaniemenkatu,19,2254
+Haapaniemenkatu,20,1957
+Haapaniemenkatu,21,1695
+Haapaniemenkatu,22,1389
+Haapaniemenkatu,23,1034
+Hagalundinpuisto,0,10
+Hagalundinpuisto,1,9
+Hagalundinpuisto,2,11
+Hagalundinpuisto,3,3
+Hagalundinpuisto,4,1
+Hagalundinpuisto,5,1
+Hagalundinpuisto,6,1
+Hagalundinpuisto,7,1
+Hagalundinpuisto,8,33
+Hagalundinpuisto,9,113
+Hagalundinpuisto,10,79
+Hagalundinpuisto,11,247
+Hagalundinpuisto,12,217
+Hagalundinpuisto,13,87
+Hagalundinpuisto,14,76
+Hagalundinpuisto,15,133
+Hagalundinpuisto,16,317
+Hagalundinpuisto,17,156
+Hagalundinpuisto,18,55
+Hagalundinpuisto,19,59
+Hagalundinpuisto,20,45
+Hagalundinpuisto,21,28
+Hagalundinpuisto,22,31
+Hagalundinpuisto,23,24
+Hakalehto,0,184
+Hakalehto,1,137
+Hakalehto,2,88
+Hakalehto,3,69
+Hakalehto,4,54
+Hakalehto,5,31
+Hakalehto,6,99
+Hakalehto,7,331
+Hakalehto,8,624
+Hakalehto,9,574
+Hakalehto,10,427
+Hakalehto,11,460
+Hakalehto,12,532
+Hakalehto,13,515
+Hakalehto,14,523
+Hakalehto,15,599
+Hakalehto,16,761
+Hakalehto,17,919
+Hakalehto,18,865
+Hakalehto,19,841
+Hakalehto,20,708
+Hakalehto,21,501
+Hakalehto,22,348
+Hakalehto,23,238
+Hakaniemi (M),0,1557
+Hakaniemi (M),1,1096
+Hakaniemi (M),2,910
+Hakaniemi (M),3,737
+Hakaniemi (M),4,543
+Hakaniemi (M),5,338
+Hakaniemi (M),6,268
+Hakaniemi (M),7,881
+Hakaniemi (M),8,2713
+Hakaniemi (M),9,4459
+Hakaniemi (M),10,3113
+Hakaniemi (M),11,2979
+Hakaniemi (M),12,3924
+Hakaniemi (M),13,4136
+Hakaniemi (M),14,4381
+Hakaniemi (M),15,4805
+Hakaniemi (M),16,6156
+Hakaniemi (M),17,6750
+Hakaniemi (M),18,5596
+Hakaniemi (M),19,4634
+Hakaniemi (M),20,3830
+Hakaniemi (M),21,3240
+Hakaniemi (M),22,2412
+Hakaniemi (M),23,1731
+Hanasaari,0,102
+Hanasaari,1,76
+Hanasaari,2,45
+Hanasaari,3,57
+Hanasaari,4,35
+Hanasaari,5,30
+Hanasaari,6,8
+Hanasaari,7,21
+Hanasaari,8,132
+Hanasaari,9,90
+Hanasaari,10,119
+Hanasaari,11,209
+Hanasaari,12,322
+Hanasaari,13,391
+Hanasaari,14,435
+Hanasaari,15,513
+Hanasaari,16,613
+Hanasaari,17,673
+Hanasaari,18,720
+Hanasaari,19,601
+Hanasaari,20,527
+Hanasaari,21,401
+Hanasaari,22,268
+Hanasaari,23,131
+Hauenkallio,0,50
+Hauenkallio,1,24
+Hauenkallio,2,18
+Hauenkallio,3,9
+Hauenkallio,4,9
+Hauenkallio,5,8
+Hauenkallio,6,66
+Hauenkallio,7,144
+Hauenkallio,8,278
+Hauenkallio,9,201
+Hauenkallio,10,213
+Hauenkallio,11,214
+Hauenkallio,12,204
+Hauenkallio,13,258
+Hauenkallio,14,215
+Hauenkallio,15,222
+Hauenkallio,16,273
+Hauenkallio,17,318
+Hauenkallio,18,315
+Hauenkallio,19,273
+Hauenkallio,20,253
+Hauenkallio,21,140
+Hauenkallio,22,117
+Hauenkallio,23,85
+Hauenkalliontie,0,99
+Hauenkalliontie,1,82
+Hauenkalliontie,2,43
+Hauenkalliontie,3,44
+Hauenkalliontie,4,23
+Hauenkalliontie,5,19
+Hauenkalliontie,6,192
+Hauenkalliontie,7,345
+Hauenkalliontie,8,744
+Hauenkalliontie,9,540
+Hauenkalliontie,10,385
+Hauenkalliontie,11,355
+Hauenkalliontie,12,403
+Hauenkalliontie,13,441
+Hauenkalliontie,14,572
+Hauenkalliontie,15,566
+Hauenkalliontie,16,600
+Hauenkalliontie,17,726
+Hauenkalliontie,18,678
+Hauenkalliontie,19,669
+Hauenkalliontie,20,619
+Hauenkalliontie,21,451
+Hauenkalliontie,22,313
+Hauenkalliontie,23,172
+Haukilahdenaukio,0,205
+Haukilahdenaukio,1,109
+Haukilahdenaukio,2,65
+Haukilahdenaukio,3,29
+Haukilahdenaukio,4,27
+Haukilahdenaukio,5,36
+Haukilahdenaukio,6,98
+Haukilahdenaukio,7,316
+Haukilahdenaukio,8,396
+Haukilahdenaukio,9,281
+Haukilahdenaukio,10,306
+Haukilahdenaukio,11,280
+Haukilahdenaukio,12,391
+Haukilahdenaukio,13,514
+Haukilahdenaukio,14,557
+Haukilahdenaukio,15,628
+Haukilahdenaukio,16,608
+Haukilahdenaukio,17,650
+Haukilahdenaukio,18,735
+Haukilahdenaukio,19,840
+Haukilahdenaukio,20,746
+Haukilahdenaukio,21,671
+Haukilahdenaukio,22,468
+Haukilahdenaukio,23,213
+Haukilahdenkatu,0,578
+Haukilahdenkatu,1,384
+Haukilahdenkatu,2,241
+Haukilahdenkatu,3,158
+Haukilahdenkatu,4,110
+Haukilahdenkatu,5,175
+Haukilahdenkatu,6,456
+Haukilahdenkatu,7,1759
+Haukilahdenkatu,8,3886
+Haukilahdenkatu,9,3294
+Haukilahdenkatu,10,2248
+Haukilahdenkatu,11,2277
+Haukilahdenkatu,12,2941
+Haukilahdenkatu,13,3035
+Haukilahdenkatu,14,3042
+Haukilahdenkatu,15,3157
+Haukilahdenkatu,16,4131
+Haukilahdenkatu,17,4232
+Haukilahdenkatu,18,3759
+Haukilahdenkatu,19,3294
+Haukilahdenkatu,20,2667
+Haukilahdenkatu,21,1638
+Haukilahdenkatu,22,1054
+Haukilahdenkatu,23,708
+Haukilahdenranta,0,103
+Haukilahdenranta,1,71
+Haukilahdenranta,2,60
+Haukilahdenranta,3,37
+Haukilahdenranta,4,25
+Haukilahdenranta,5,21
+Haukilahdenranta,6,51
+Haukilahdenranta,7,50
+Haukilahdenranta,8,189
+Haukilahdenranta,9,165
+Haukilahdenranta,10,119
+Haukilahdenranta,11,182
+Haukilahdenranta,12,316
+Haukilahdenranta,13,373
+Haukilahdenranta,14,384
+Haukilahdenranta,15,530
+Haukilahdenranta,16,559
+Haukilahdenranta,17,586
+Haukilahdenranta,18,666
+Haukilahdenranta,19,723
+Haukilahdenranta,20,752
+Haukilahdenranta,21,638
+Haukilahdenranta,22,450
+Haukilahdenranta,23,239
+Heikkilänaukio,0,231
+Heikkilänaukio,1,107
+Heikkilänaukio,2,67
+Heikkilänaukio,3,35
+Heikkilänaukio,4,25
+Heikkilänaukio,5,32
+Heikkilänaukio,6,136
+Heikkilänaukio,7,638
+Heikkilänaukio,8,2511
+Heikkilänaukio,9,2748
+Heikkilänaukio,10,1445
+Heikkilänaukio,11,1242
+Heikkilänaukio,12,1563
+Heikkilänaukio,13,1618
+Heikkilänaukio,14,1769
+Heikkilänaukio,15,2203
+Heikkilänaukio,16,2916
+Heikkilänaukio,17,3422
+Heikkilänaukio,18,2575
+Heikkilänaukio,19,2101
+Heikkilänaukio,20,1795
+Heikkilänaukio,21,1360
+Heikkilänaukio,22,1017
+Heikkilänaukio,23,350
+Heikkiläntie,0,340
+Heikkiläntie,1,205
+Heikkiläntie,2,139
+Heikkiläntie,3,79
+Heikkiläntie,4,81
+Heikkiläntie,5,87
+Heikkiläntie,6,236
+Heikkiläntie,7,786
+Heikkiläntie,8,2333
+Heikkiläntie,9,2505
+Heikkiläntie,10,1242
+Heikkiläntie,11,1178
+Heikkiläntie,12,1417
+Heikkiläntie,13,1582
+Heikkiläntie,14,1531
+Heikkiläntie,15,1768
+Heikkiläntie,16,2814
+Heikkiläntie,17,3103
+Heikkiläntie,18,2398
+Heikkiläntie,19,1840
+Heikkiläntie,20,1624
+Heikkiläntie,21,1167
+Heikkiläntie,22,728
+Heikkiläntie,23,464
+Hernepellontie,0,34
+Hernepellontie,1,10
+Hernepellontie,2,13
+Hernepellontie,3,8
+Hernepellontie,4,53
+Hernepellontie,5,105
+Hernepellontie,6,141
+Hernepellontie,7,80
+Hernepellontie,8,155
+Hernepellontie,9,107
+Hernepellontie,10,112
+Hernepellontie,11,139
+Hernepellontie,12,198
+Hernepellontie,13,207
+Hernepellontie,14,256
+Hernepellontie,15,258
+Hernepellontie,16,316
+Hernepellontie,17,360
+Hernepellontie,18,356
+Hernepellontie,19,328
+Hernepellontie,20,235
+Hernepellontie,21,171
+Hernepellontie,22,134
+Hernepellontie,23,73
+Hernesaarenranta,0,1227
+Hernesaarenranta,1,779
+Hernesaarenranta,2,433
+Hernesaarenranta,3,185
+Hernesaarenranta,4,86
+Hernesaarenranta,5,34
+Hernesaarenranta,6,37
+Hernesaarenranta,7,382
+Hernesaarenranta,8,1059
+Hernesaarenranta,9,1066
+Hernesaarenranta,10,1033
+Hernesaarenranta,11,1552
+Hernesaarenranta,12,1979
+Hernesaarenranta,13,2393
+Hernesaarenranta,14,2754
+Hernesaarenranta,15,3661
+Hernesaarenranta,16,4965
+Hernesaarenranta,17,5089
+Hernesaarenranta,18,4544
+Hernesaarenranta,19,4095
+Hernesaarenranta,20,4161
+Hernesaarenranta,21,3810
+Hernesaarenranta,22,3617
+Hernesaarenranta,23,2167
+Hertanmäenkatu,0,206
+Hertanmäenkatu,1,93
+Hertanmäenkatu,2,69
+Hertanmäenkatu,3,72
+Hertanmäenkatu,4,47
+Hertanmäenkatu,5,128
+Hertanmäenkatu,6,261
+Hertanmäenkatu,7,869
+Hertanmäenkatu,8,1282
+Hertanmäenkatu,9,1424
+Hertanmäenkatu,10,1083
+Hertanmäenkatu,11,1106
+Hertanmäenkatu,12,1155
+Hertanmäenkatu,13,1184
+Hertanmäenkatu,14,1237
+Hertanmäenkatu,15,1332
+Hertanmäenkatu,16,1936
+Hertanmäenkatu,17,1598
+Hertanmäenkatu,18,1274
+Hertanmäenkatu,19,1007
+Hertanmäenkatu,20,903
+Hertanmäenkatu,21,825
+Hertanmäenkatu,22,622
+Hertanmäenkatu,23,376
+Herttoniemen kirkko,0,99
+Herttoniemen kirkko,1,55
+Herttoniemen kirkko,2,32
+Herttoniemen kirkko,3,19
+Herttoniemen kirkko,4,12
+Herttoniemen kirkko,5,9
+Herttoniemen kirkko,6,14
+Herttoniemen kirkko,7,50
+Herttoniemen kirkko,8,132
+Herttoniemen kirkko,9,94
+Herttoniemen kirkko,10,111
+Herttoniemen kirkko,11,112
+Herttoniemen kirkko,12,144
+Herttoniemen kirkko,13,159
+Herttoniemen kirkko,14,168
+Herttoniemen kirkko,15,188
+Herttoniemen kirkko,16,211
+Herttoniemen kirkko,17,257
+Herttoniemen kirkko,18,255
+Herttoniemen kirkko,19,278
+Herttoniemen kirkko,20,230
+Herttoniemen kirkko,21,237
+Herttoniemen kirkko,22,153
+Herttoniemen kirkko,23,100
+Herttoniemenranta,0,172
+Herttoniemenranta,1,107
+Herttoniemenranta,2,98
+Herttoniemenranta,3,53
+Herttoniemenranta,4,36
+Herttoniemenranta,5,51
+Herttoniemenranta,6,24
+Herttoniemenranta,7,166
+Herttoniemenranta,8,358
+Herttoniemenranta,9,315
+Herttoniemenranta,10,198
+Herttoniemenranta,11,297
+Herttoniemenranta,12,294
+Herttoniemenranta,13,350
+Herttoniemenranta,14,361
+Herttoniemenranta,15,373
+Herttoniemenranta,16,525
+Herttoniemenranta,17,729
+Herttoniemenranta,18,567
+Herttoniemenranta,19,521
+Herttoniemenranta,20,457
+Herttoniemenranta,21,395
+Herttoniemenranta,22,264
+Herttoniemenranta,23,183
+Herttoniemi (M),0,337
+Herttoniemi (M),1,148
+Herttoniemi (M),2,98
+Herttoniemi (M),3,92
+Herttoniemi (M),4,60
+Herttoniemi (M),5,28
+Herttoniemi (M),6,87
+Herttoniemi (M),7,440
+Herttoniemi (M),8,876
+Herttoniemi (M),9,813
+Herttoniemi (M),10,469
+Herttoniemi (M),11,692
+Herttoniemi (M),12,955
+Herttoniemi (M),13,1272
+Herttoniemi (M),14,1530
+Herttoniemi (M),15,1879
+Herttoniemi (M),16,2430
+Herttoniemi (M),17,2978
+Herttoniemi (M),18,2397
+Herttoniemi (M),19,2014
+Herttoniemi (M),20,1631
+Herttoniemi (M),21,1432
+Herttoniemi (M),22,973
+Herttoniemi (M),23,626
+Hietalahdentori,0,1470
+Hietalahdentori,1,849
+Hietalahdentori,2,592
+Hietalahdentori,3,415
+Hietalahdentori,4,325
+Hietalahdentori,5,372
+Hietalahdentori,6,465
+Hietalahdentori,7,1155
+Hietalahdentori,8,4090
+Hietalahdentori,9,5415
+Hietalahdentori,10,3301
+Hietalahdentori,11,3542
+Hietalahdentori,12,5280
+Hietalahdentori,13,6126
+Hietalahdentori,14,5740
+Hietalahdentori,15,6215
+Hietalahdentori,16,8097
+Hietalahdentori,17,8946
+Hietalahdentori,18,7890
+Hietalahdentori,19,6744
+Hietalahdentori,20,5919
+Hietalahdentori,21,4675
+Hietalahdentori,22,3281
+Hietalahdentori,23,2064
+Hietaniemenkatu,0,737
+Hietaniemenkatu,1,379
+Hietaniemenkatu,2,229
+Hietaniemenkatu,3,127
+Hietaniemenkatu,4,57
+Hietaniemenkatu,5,39
+Hietaniemenkatu,6,56
+Hietaniemenkatu,7,179
+Hietaniemenkatu,8,589
+Hietaniemenkatu,9,908
+Hietaniemenkatu,10,765
+Hietaniemenkatu,11,991
+Hietaniemenkatu,12,1485
+Hietaniemenkatu,13,2153
+Hietaniemenkatu,14,2729
+Hietaniemenkatu,15,3901
+Hietaniemenkatu,16,4822
+Hietaniemenkatu,17,4642
+Hietaniemenkatu,18,4768
+Hietaniemenkatu,19,5071
+Hietaniemenkatu,20,5148
+Hietaniemenkatu,21,3543
+Hietaniemenkatu,22,2255
+Hietaniemenkatu,23,1262
+Hollolantie,0,505
+Hollolantie,1,356
+Hollolantie,2,352
+Hollolantie,3,304
+Hollolantie,4,265
+Hollolantie,5,182
+Hollolantie,6,243
+Hollolantie,7,516
+Hollolantie,8,1296
+Hollolantie,9,867
+Hollolantie,10,598
+Hollolantie,11,671
+Hollolantie,12,699
+Hollolantie,13,765
+Hollolantie,14,791
+Hollolantie,15,1004
+Hollolantie,16,1363
+Hollolantie,17,1734
+Hollolantie,18,1633
+Hollolantie,19,1409
+Hollolantie,20,1303
+Hollolantie,21,1010
+Hollolantie,22,853
+Hollolantie,23,662
+Humalniementie,0,45
+Humalniementie,1,23
+Humalniementie,2,11
+Humalniementie,3,13
+Humalniementie,4,2
+Humalniementie,5,10
+Humalniementie,6,30
+Humalniementie,7,127
+Humalniementie,8,146
+Humalniementie,9,161
+Humalniementie,10,132
+Humalniementie,11,128
+Humalniementie,12,140
+Humalniementie,13,181
+Humalniementie,14,166
+Humalniementie,15,189
+Humalniementie,16,249
+Humalniementie,17,225
+Humalniementie,18,246
+Humalniementie,19,172
+Humalniementie,20,181
+Humalniementie,21,122
+Humalniementie,22,106
+Humalniementie,23,51
+Huopalahden asema,0,169
+Huopalahden asema,1,118
+Huopalahden asema,2,51
+Huopalahden asema,3,44
+Huopalahden asema,4,21
+Huopalahden asema,5,27
+Huopalahden asema,6,37
+Huopalahden asema,7,295
+Huopalahden asema,8,789
+Huopalahden asema,9,441
+Huopalahden asema,10,314
+Huopalahden asema,11,322
+Huopalahden asema,12,416
+Huopalahden asema,13,515
+Huopalahden asema,14,603
+Huopalahden asema,15,678
+Huopalahden asema,16,902
+Huopalahden asema,17,1148
+Huopalahden asema,18,882
+Huopalahden asema,19,735
+Huopalahden asema,20,650
+Huopalahden asema,21,481
+Huopalahden asema,22,409
+Huopalahden asema,23,252
+Huopalahdentie,0,1110
+Huopalahdentie,1,730
+Huopalahdentie,2,491
+Huopalahdentie,3,322
+Huopalahdentie,4,193
+Huopalahdentie,5,211
+Huopalahdentie,6,345
+Huopalahdentie,7,1407
+Huopalahdentie,8,2934
+Huopalahdentie,9,1994
+Huopalahdentie,10,1684
+Huopalahdentie,11,1865
+Huopalahdentie,12,2361
+Huopalahdentie,13,2689
+Huopalahdentie,14,2744
+Huopalahdentie,15,3150
+Huopalahdentie,16,4121
+Huopalahdentie,17,4469
+Huopalahdentie,18,4421
+Huopalahdentie,19,4078
+Huopalahdentie,20,3549
+Huopalahdentie,21,2905
+Huopalahdentie,22,1915
+Huopalahdentie,23,1401
+Huovitie,0,41
+Huovitie,1,34
+Huovitie,2,20
+Huovitie,3,15
+Huovitie,4,7
+Huovitie,5,13
+Huovitie,6,45
+Huovitie,7,146
+Huovitie,8,379
+Huovitie,9,261
+Huovitie,10,180
+Huovitie,11,180
+Huovitie,12,301
+Huovitie,13,262
+Huovitie,14,309
+Huovitie,15,300
+Huovitie,16,532
+Huovitie,17,368
+Huovitie,18,278
+Huovitie,19,313
+Huovitie,20,230
+Huovitie,21,211
+Huovitie,22,149
+Huovitie,23,78
+Hämeenlinnanväylä,0,40
+Hämeenlinnanväylä,1,27
+Hämeenlinnanväylä,2,54
+Hämeenlinnanväylä,3,46
+Hämeenlinnanväylä,4,19
+Hämeenlinnanväylä,5,18
+Hämeenlinnanväylä,6,13
+Hämeenlinnanväylä,7,144
+Hämeenlinnanväylä,8,126
+Hämeenlinnanväylä,9,143
+Hämeenlinnanväylä,10,113
+Hämeenlinnanväylä,11,113
+Hämeenlinnanväylä,12,149
+Hämeenlinnanväylä,13,192
+Hämeenlinnanväylä,14,177
+Hämeenlinnanväylä,15,181
+Hämeenlinnanväylä,16,235
+Hämeenlinnanväylä,17,271
+Hämeenlinnanväylä,18,284
+Hämeenlinnanväylä,19,240
+Hämeenlinnanväylä,20,259
+Hämeenlinnanväylä,21,219
+Hämeenlinnanväylä,22,155
+Hämeenlinnanväylä,23,61
+Ida Aalbergin tie,0,42
+Ida Aalbergin tie,1,31
+Ida Aalbergin tie,2,29
+Ida Aalbergin tie,3,11
+Ida Aalbergin tie,4,9
+Ida Aalbergin tie,5,28
+Ida Aalbergin tie,6,106
+Ida Aalbergin tie,7,217
+Ida Aalbergin tie,8,483
+Ida Aalbergin tie,9,206
+Ida Aalbergin tie,10,84
+Ida Aalbergin tie,11,95
+Ida Aalbergin tie,12,137
+Ida Aalbergin tie,13,132
+Ida Aalbergin tie,14,113
+Ida Aalbergin tie,15,135
+Ida Aalbergin tie,16,170
+Ida Aalbergin tie,17,193
+Ida Aalbergin tie,18,234
+Ida Aalbergin tie,19,181
+Ida Aalbergin tie,20,125
+Ida Aalbergin tie,21,133
+Ida Aalbergin tie,22,80
+Ida Aalbergin tie,23,62
+Ilmalan asema,0,59
+Ilmalan asema,1,38
+Ilmalan asema,2,17
+Ilmalan asema,3,14
+Ilmalan asema,4,14
+Ilmalan asema,5,12
+Ilmalan asema,6,20
+Ilmalan asema,7,57
+Ilmalan asema,8,250
+Ilmalan asema,9,189
+Ilmalan asema,10,108
+Ilmalan asema,11,155
+Ilmalan asema,12,200
+Ilmalan asema,13,209
+Ilmalan asema,14,221
+Ilmalan asema,15,372
+Ilmalan asema,16,543
+Ilmalan asema,17,424
+Ilmalan asema,18,340
+Ilmalan asema,19,232
+Ilmalan asema,20,195
+Ilmalan asema,21,148
+Ilmalan asema,22,120
+Ilmalan asema,23,109
+Innopoli,0,64
+Innopoli,1,32
+Innopoli,2,25
+Innopoli,3,16
+Innopoli,4,3
+Innopoli,5,3
+Innopoli,6,51
+Innopoli,7,29
+Innopoli,8,157
+Innopoli,9,222
+Innopoli,10,125
+Innopoli,11,257
+Innopoli,12,282
+Innopoli,13,202
+Innopoli,14,210
+Innopoli,15,309
+Innopoli,16,759
+Innopoli,17,794
+Innopoli,18,421
+Innopoli,19,203
+Innopoli,20,160
+Innopoli,21,109
+Innopoli,22,112
+Innopoli,23,86
+Intiankatu,0,734
+Intiankatu,1,492
+Intiankatu,2,458
+Intiankatu,3,181
+Intiankatu,4,127
+Intiankatu,5,265
+Intiankatu,6,536
+Intiankatu,7,1068
+Intiankatu,8,1967
+Intiankatu,9,1442
+Intiankatu,10,1076
+Intiankatu,11,1171
+Intiankatu,12,1244
+Intiankatu,13,1458
+Intiankatu,14,1532
+Intiankatu,15,1760
+Intiankatu,16,2309
+Intiankatu,17,2767
+Intiankatu,18,2563
+Intiankatu,19,2434
+Intiankatu,20,2118
+Intiankatu,21,1777
+Intiankatu,22,1264
+Intiankatu,23,882
+Isoisänsilta,0,1280
+Isoisänsilta,1,877
+Isoisänsilta,2,652
+Isoisänsilta,3,448
+Isoisänsilta,4,314
+Isoisänsilta,5,181
+Isoisänsilta,6,194
+Isoisänsilta,7,600
+Isoisänsilta,8,1561
+Isoisänsilta,9,1561
+Isoisänsilta,10,1082
+Isoisänsilta,11,1307
+Isoisänsilta,12,1813
+Isoisänsilta,13,2189
+Isoisänsilta,14,2498
+Isoisänsilta,15,2927
+Isoisänsilta,16,3587
+Isoisänsilta,17,4123
+Isoisänsilta,18,4340
+Isoisänsilta,19,4292
+Isoisänsilta,20,4496
+Isoisänsilta,21,3788
+Isoisänsilta,22,2834
+Isoisänsilta,23,1884
+Isosaarentie,0,48
+Isosaarentie,1,52
+Isosaarentie,2,44
+Isosaarentie,3,16
+Isosaarentie,4,9
+Isosaarentie,5,20
+Isosaarentie,6,26
+Isosaarentie,7,62
+Isosaarentie,8,203
+Isosaarentie,9,120
+Isosaarentie,10,141
+Isosaarentie,11,142
+Isosaarentie,12,201
+Isosaarentie,13,183
+Isosaarentie,14,199
+Isosaarentie,15,226
+Isosaarentie,16,277
+Isosaarentie,17,261
+Isosaarentie,18,278
+Isosaarentie,19,237
+Isosaarentie,20,241
+Isosaarentie,21,199
+Isosaarentie,22,124
+Isosaarentie,23,88
+Itäkeskus (M),0,225
+Itäkeskus (M),1,88
+Itäkeskus (M),2,73
+Itäkeskus (M),3,33
+Itäkeskus (M),4,33
+Itäkeskus (M),5,83
+Itäkeskus (M),6,72
+Itäkeskus (M),7,155
+Itäkeskus (M),8,237
+Itäkeskus (M),9,246
+Itäkeskus (M),10,264
+Itäkeskus (M),11,429
+Itäkeskus (M),12,607
+Itäkeskus (M),13,905
+Itäkeskus (M),14,861
+Itäkeskus (M),15,1159
+Itäkeskus (M),16,1461
+Itäkeskus (M),17,1385
+Itäkeskus (M),18,1199
+Itäkeskus (M),19,950
+Itäkeskus (M),20,880
+Itäkeskus (M),21,726
+Itäkeskus (M),22,476
+Itäkeskus (M),23,313
+Itäkeskus Metrovarikko,0,88
+Itäkeskus Metrovarikko,2,2
+Itäkeskus Metrovarikko,3,1
+Itäkeskus Metrovarikko,4,5
+Itäkeskus Metrovarikko,5,2
+Itäkeskus Metrovarikko,6,9
+Itäkeskus Metrovarikko,7,9
+Itäkeskus Metrovarikko,8,5
+Itäkeskus Metrovarikko,9,16
+Itäkeskus Metrovarikko,10,41
+Itäkeskus Metrovarikko,11,128
+Itäkeskus Metrovarikko,12,53
+Itäkeskus Metrovarikko,13,26
+Itäkeskus Metrovarikko,14,111
+Itäkeskus Metrovarikko,15,91
+Itäkeskus Metrovarikko,16,102
+Itäkeskus Metrovarikko,17,62
+Itäkeskus Metrovarikko,18,44
+Itäkeskus Metrovarikko,19,56
+Itäkeskus Metrovarikko,20,104
+Itäkeskus Metrovarikko,21,71
+Itäkeskus Metrovarikko,22,35
+Itäkeskus Metrovarikko,23,22
+Itälahdenkatu,0,268
+Itälahdenkatu,1,137
+Itälahdenkatu,2,77
+Itälahdenkatu,3,35
+Itälahdenkatu,4,17
+Itälahdenkatu,5,34
+Itälahdenkatu,6,285
+Itälahdenkatu,7,1574
+Itälahdenkatu,8,3878
+Itälahdenkatu,9,2133
+Itälahdenkatu,10,1177
+Itälahdenkatu,11,1001
+Itälahdenkatu,12,1109
+Itälahdenkatu,13,1103
+Itälahdenkatu,14,1190
+Itälahdenkatu,15,1329
+Itälahdenkatu,16,2157
+Itälahdenkatu,17,2355
+Itälahdenkatu,18,1964
+Itälahdenkatu,19,1764
+Itälahdenkatu,20,1313
+Itälahdenkatu,21,987
+Itälahdenkatu,22,671
+Itälahdenkatu,23,449
+Itämerentori,0,2424
+Itämerentori,1,1365
+Itämerentori,2,868
+Itämerentori,3,573
+Itämerentori,4,407
+Itämerentori,5,381
+Itämerentori,6,1524
+Itämerentori,7,3521
+Itämerentori,8,11965
+Itämerentori,9,16564
+Itämerentori,10,9002
+Itämerentori,11,8259
+Itämerentori,12,11021
+Itämerentori,13,11482
+Itämerentori,14,11993
+Itämerentori,15,14728
+Itämerentori,16,24103
+Itämerentori,17,26123
+Itämerentori,18,18298
+Itämerentori,19,14226
+Itämerentori,20,11699
+Itämerentori,21,9481
+Itämerentori,22,5751
+Itämerentori,23,3406
+Itäportti,0,56
+Itäportti,1,54
+Itäportti,2,24
+Itäportti,3,20
+Itäportti,4,24
+Itäportti,5,63
+Itäportti,6,33
+Itäportti,7,94
+Itäportti,8,371
+Itäportti,9,295
+Itäportti,10,201
+Itäportti,11,210
+Itäportti,12,274
+Itäportti,13,291
+Itäportti,14,299
+Itäportti,15,348
+Itäportti,16,361
+Itäportti,17,332
+Itäportti,18,410
+Itäportti,19,303
+Itäportti,20,246
+Itäportti,21,174
+Itäportti,22,148
+Itäportti,23,87
+Jalavatie,0,404
+Jalavatie,1,262
+Jalavatie,2,190
+Jalavatie,3,122
+Jalavatie,4,194
+Jalavatie,5,121
+Jalavatie,6,276
+Jalavatie,7,712
+Jalavatie,8,1323
+Jalavatie,9,958
+Jalavatie,10,721
+Jalavatie,11,806
+Jalavatie,12,956
+Jalavatie,13,973
+Jalavatie,14,1031
+Jalavatie,15,1358
+Jalavatie,16,1847
+Jalavatie,17,1877
+Jalavatie,18,1922
+Jalavatie,19,1570
+Jalavatie,20,1451
+Jalavatie,21,1065
+Jalavatie,22,819
+Jalavatie,23,458
+Juhana Herttuan tie,0,266
+Juhana Herttuan tie,1,126
+Juhana Herttuan tie,2,110
+Juhana Herttuan tie,3,44
+Juhana Herttuan tie,4,69
+Juhana Herttuan tie,5,42
+Juhana Herttuan tie,6,161
+Juhana Herttuan tie,7,766
+Juhana Herttuan tie,8,1790
+Juhana Herttuan tie,9,1300
+Juhana Herttuan tie,10,816
+Juhana Herttuan tie,11,664
+Juhana Herttuan tie,12,814
+Juhana Herttuan tie,13,791
+Juhana Herttuan tie,14,797
+Juhana Herttuan tie,15,883
+Juhana Herttuan tie,16,1024
+Juhana Herttuan tie,17,1042
+Juhana Herttuan tie,18,1076
+Juhana Herttuan tie,19,992
+Juhana Herttuan tie,20,966
+Juhana Herttuan tie,21,675
+Juhana Herttuan tie,22,479
+Juhana Herttuan tie,23,477
+Jämeräntaival,0,737
+Jämeräntaival,1,482
+Jämeräntaival,2,448
+Jämeräntaival,3,299
+Jämeräntaival,4,213
+Jämeräntaival,5,305
+Jämeräntaival,6,756
+Jämeräntaival,7,2026
+Jämeräntaival,8,3021
+Jämeräntaival,9,1632
+Jämeräntaival,10,1454
+Jämeräntaival,11,1345
+Jämeräntaival,12,1864
+Jämeräntaival,13,2005
+Jämeräntaival,14,1973
+Jämeräntaival,15,2192
+Jämeräntaival,16,2952
+Jämeräntaival,17,3991
+Jämeräntaival,18,4138
+Jämeräntaival,19,3627
+Jämeräntaival,20,3040
+Jämeräntaival,21,2616
+Jämeräntaival,22,1827
+Jämeräntaival,23,1452
+Jännetie,0,82
+Jännetie,1,82
+Jännetie,2,57
+Jännetie,3,49
+Jännetie,4,30
+Jännetie,5,23
+Jännetie,6,63
+Jännetie,7,196
+Jännetie,8,306
+Jännetie,9,196
+Jännetie,10,124
+Jännetie,11,179
+Jännetie,12,210
+Jännetie,13,233
+Jännetie,14,240
+Jännetie,15,347
+Jännetie,16,420
+Jännetie,17,444
+Jännetie,18,428
+Jännetie,19,360
+Jännetie,20,370
+Jännetie,21,272
+Jännetie,22,177
+Jännetie,23,122
+Jätkäsaarenlaituri,0,1460
+Jätkäsaarenlaituri,1,876
+Jätkäsaarenlaituri,2,698
+Jätkäsaarenlaituri,3,417
+Jätkäsaarenlaituri,4,364
+Jätkäsaarenlaituri,5,768
+Jätkäsaarenlaituri,6,679
+Jätkäsaarenlaituri,7,2113
+Jätkäsaarenlaituri,8,4257
+Jätkäsaarenlaituri,9,3525
+Jätkäsaarenlaituri,10,2283
+Jätkäsaarenlaituri,11,2282
+Jätkäsaarenlaituri,12,2926
+Jätkäsaarenlaituri,13,3025
+Jätkäsaarenlaituri,14,2898
+Jätkäsaarenlaituri,15,3526
+Jätkäsaarenlaituri,16,4975
+Jätkäsaarenlaituri,17,6155
+Jätkäsaarenlaituri,18,5929
+Jätkäsaarenlaituri,19,4954
+Jätkäsaarenlaituri,20,4333
+Jätkäsaarenlaituri,21,3430
+Jätkäsaarenlaituri,22,2527
+Jätkäsaarenlaituri,23,1762
+Jäähalli,0,278
+Jäähalli,1,218
+Jäähalli,2,197
+Jäähalli,3,98
+Jäähalli,4,84
+Jäähalli,5,98
+Jäähalli,6,279
+Jäähalli,7,426
+Jäähalli,8,1141
+Jäähalli,9,1179
+Jäähalli,10,814
+Jäähalli,11,951
+Jäähalli,12,1228
+Jäähalli,13,1224
+Jäähalli,14,1304
+Jäähalli,15,1680
+Jäähalli,16,2114
+Jäähalli,17,1972
+Jäähalli,18,1864
+Jäähalli,19,1717
+Jäähalli,20,1623
+Jäähalli,21,1710
+Jäähalli,22,979
+Jäähalli,23,487
+Kaapelitehdas,0,66
+Kaapelitehdas,1,48
+Kaapelitehdas,2,25
+Kaapelitehdas,3,25
+Kaapelitehdas,4,14
+Kaapelitehdas,5,9
+Kaapelitehdas,6,52
+Kaapelitehdas,7,122
+Kaapelitehdas,8,102
+Kaapelitehdas,9,194
+Kaapelitehdas,10,161
+Kaapelitehdas,11,219
+Kaapelitehdas,12,346
+Kaapelitehdas,13,368
+Kaapelitehdas,14,365
+Kaapelitehdas,15,463
+Kaapelitehdas,16,764
+Kaapelitehdas,17,722
+Kaapelitehdas,18,518
+Kaapelitehdas,19,412
+Kaapelitehdas,20,383
+Kaapelitehdas,21,253
+Kaapelitehdas,22,135
+Kaapelitehdas,23,81
+Kaisaniemenpuisto,0,823
+Kaisaniemenpuisto,1,516
+Kaisaniemenpuisto,2,400
+Kaisaniemenpuisto,3,335
+Kaisaniemenpuisto,4,259
+Kaisaniemenpuisto,5,128
+Kaisaniemenpuisto,6,456
+Kaisaniemenpuisto,7,3099
+Kaisaniemenpuisto,8,5616
+Kaisaniemenpuisto,9,4267
+Kaisaniemenpuisto,10,2135
+Kaisaniemenpuisto,11,1692
+Kaisaniemenpuisto,12,1996
+Kaisaniemenpuisto,13,2362
+Kaisaniemenpuisto,14,2757
+Kaisaniemenpuisto,15,3663
+Kaisaniemenpuisto,16,6029
+Kaisaniemenpuisto,17,7711
+Kaisaniemenpuisto,18,6071
+Kaisaniemenpuisto,19,4721
+Kaisaniemenpuisto,20,4078
+Kaisaniemenpuisto,21,3296
+Kaisaniemenpuisto,22,2135
+Kaisaniemenpuisto,23,1192
+Kaivopuisto,0,1267
+Kaivopuisto,1,792
+Kaivopuisto,2,614
+Kaivopuisto,3,403
+Kaivopuisto,4,317
+Kaivopuisto,5,99
+Kaivopuisto,6,182
+Kaivopuisto,7,573
+Kaivopuisto,8,2117
+Kaivopuisto,9,2249
+Kaivopuisto,10,1504
+Kaivopuisto,11,1847
+Kaivopuisto,12,2527
+Kaivopuisto,13,3017
+Kaivopuisto,14,3803
+Kaivopuisto,15,4518
+Kaivopuisto,16,5478
+Kaivopuisto,17,5966
+Kaivopuisto,18,5719
+Kaivopuisto,19,5389
+Kaivopuisto,20,5485
+Kaivopuisto,21,4797
+Kaivopuisto,22,3522
+Kaivopuisto,23,2226
+Kalasatama (M),0,1088
+Kalasatama (M),1,548
+Kalasatama (M),2,368
+Kalasatama (M),3,291
+Kalasatama (M),4,163
+Kalasatama (M),5,128
+Kalasatama (M),6,177
+Kalasatama (M),7,1028
+Kalasatama (M),8,2629
+Kalasatama (M),9,3446
+Kalasatama (M),10,2401
+Kalasatama (M),11,2942
+Kalasatama (M),12,4373
+Kalasatama (M),13,5202
+Kalasatama (M),14,5786
+Kalasatama (M),15,7412
+Kalasatama (M),16,9871
+Kalasatama (M),17,10291
+Kalasatama (M),18,9612
+Kalasatama (M),19,7882
+Kalasatama (M),20,6568
+Kalasatama (M),21,4997
+Kalasatama (M),22,2534
+Kalasatama (M),23,1533
+Kalevalantie,0,264
+Kalevalantie,1,145
+Kalevalantie,2,111
+Kalevalantie,3,90
+Kalevalantie,4,56
+Kalevalantie,5,39
+Kalevalantie,6,37
+Kalevalantie,7,203
+Kalevalantie,8,650
+Kalevalantie,9,526
+Kalevalantie,10,352
+Kalevalantie,11,349
+Kalevalantie,12,373
+Kalevalantie,13,397
+Kalevalantie,14,438
+Kalevalantie,15,542
+Kalevalantie,16,809
+Kalevalantie,17,917
+Kalevalantie,18,872
+Kalevalantie,19,707
+Kalevalantie,20,641
+Kalevalantie,21,519
+Kalevalantie,22,455
+Kalevalantie,23,358
+Kalevankatu,0,1155
+Kalevankatu,1,712
+Kalevankatu,2,574
+Kalevankatu,3,378
+Kalevankatu,4,317
+Kalevankatu,5,155
+Kalevankatu,6,239
+Kalevankatu,7,587
+Kalevankatu,8,1780
+Kalevankatu,9,2788
+Kalevankatu,10,2134
+Kalevankatu,11,1902
+Kalevankatu,12,2287
+Kalevankatu,13,2495
+Kalevankatu,14,2468
+Kalevankatu,15,2510
+Kalevankatu,16,3406
+Kalevankatu,17,4161
+Kalevankatu,18,3924
+Kalevankatu,19,3180
+Kalevankatu,20,2835
+Kalevankatu,21,2371
+Kalevankatu,22,1905
+Kalevankatu,23,1523
+Kalkkipellonmäki,0,81
+Kalkkipellonmäki,1,53
+Kalkkipellonmäki,2,52
+Kalkkipellonmäki,3,34
+Kalkkipellonmäki,4,22
+Kalkkipellonmäki,5,7
+Kalkkipellonmäki,6,18
+Kalkkipellonmäki,7,46
+Kalkkipellonmäki,8,180
+Kalkkipellonmäki,9,140
+Kalkkipellonmäki,10,79
+Kalkkipellonmäki,11,151
+Kalkkipellonmäki,12,200
+Kalkkipellonmäki,13,187
+Kalkkipellonmäki,14,165
+Kalkkipellonmäki,15,223
+Kalkkipellonmäki,16,256
+Kalkkipellonmäki,17,338
+Kalkkipellonmäki,18,346
+Kalkkipellonmäki,19,296
+Kalkkipellonmäki,20,288
+Kalkkipellonmäki,21,203
+Kalkkipellonmäki,22,141
+Kalkkipellonmäki,23,118
+Kamppi (M),0,1792
+Kamppi (M),1,1317
+Kamppi (M),2,1020
+Kamppi (M),3,710
+Kamppi (M),4,445
+Kamppi (M),5,256
+Kamppi (M),6,492
+Kamppi (M),7,2157
+Kamppi (M),8,5631
+Kamppi (M),9,7694
+Kamppi (M),10,5101
+Kamppi (M),11,4938
+Kamppi (M),12,6972
+Kamppi (M),13,7539
+Kamppi (M),14,7506
+Kamppi (M),15,8331
+Kamppi (M),16,11665
+Kamppi (M),17,13041
+Kamppi (M),18,11510
+Kamppi (M),19,8697
+Kamppi (M),20,7682
+Kamppi (M),21,5891
+Kamppi (M),22,3474
+Kamppi (M),23,2560
+Kanavaranta,0,2274
+Kanavaranta,1,1495
+Kanavaranta,2,1183
+Kanavaranta,3,613
+Kanavaranta,4,413
+Kanavaranta,5,257
+Kanavaranta,6,254
+Kanavaranta,7,758
+Kanavaranta,8,2754
+Kanavaranta,9,3240
+Kanavaranta,10,2542
+Kanavaranta,11,2824
+Kanavaranta,12,3564
+Kanavaranta,13,3773
+Kanavaranta,14,4300
+Kanavaranta,15,5060
+Kanavaranta,16,7511
+Kanavaranta,17,8121
+Kanavaranta,18,7330
+Kanavaranta,19,6667
+Kanavaranta,20,6182
+Kanavaranta,21,5633
+Kanavaranta,22,4185
+Kanavaranta,23,3003
+Kansallismuseo,0,550
+Kansallismuseo,1,441
+Kansallismuseo,2,339
+Kansallismuseo,3,232
+Kansallismuseo,4,177
+Kansallismuseo,5,79
+Kansallismuseo,6,54
+Kansallismuseo,7,165
+Kansallismuseo,8,1019
+Kansallismuseo,9,1910
+Kansallismuseo,10,1157
+Kansallismuseo,11,1183
+Kansallismuseo,12,1922
+Kansallismuseo,13,1986
+Kansallismuseo,14,2024
+Kansallismuseo,15,1992
+Kansallismuseo,16,2600
+Kansallismuseo,17,2770
+Kansallismuseo,18,2533
+Kansallismuseo,19,2101
+Kansallismuseo,20,1992
+Kansallismuseo,21,1513
+Kansallismuseo,22,1111
+Kansallismuseo,23,802
+Kapteeninpuistikko,0,968
+Kapteeninpuistikko,1,591
+Kapteeninpuistikko,2,414
+Kapteeninpuistikko,3,329
+Kapteeninpuistikko,4,259
+Kapteeninpuistikko,5,464
+Kapteeninpuistikko,6,758
+Kapteeninpuistikko,7,1616
+Kapteeninpuistikko,8,3848
+Kapteeninpuistikko,9,2665
+Kapteeninpuistikko,10,1803
+Kapteeninpuistikko,11,1669
+Kapteeninpuistikko,12,1843
+Kapteeninpuistikko,13,2013
+Kapteeninpuistikko,14,2078
+Kapteeninpuistikko,15,2240
+Kapteeninpuistikko,16,3052
+Kapteeninpuistikko,17,3720
+Kapteeninpuistikko,18,3889
+Kapteeninpuistikko,19,3393
+Kapteeninpuistikko,20,3027
+Kapteeninpuistikko,21,2413
+Kapteeninpuistikko,22,1806
+Kapteeninpuistikko,23,1367
+Karhulantie,0,62
+Karhulantie,1,28
+Karhulantie,2,28
+Karhulantie,3,13
+Karhulantie,4,16
+Karhulantie,5,21
+Karhulantie,6,25
+Karhulantie,7,128
+Karhulantie,8,244
+Karhulantie,9,121
+Karhulantie,10,102
+Karhulantie,11,141
+Karhulantie,12,168
+Karhulantie,13,181
+Karhulantie,14,193
+Karhulantie,15,221
+Karhulantie,16,270
+Karhulantie,17,298
+Karhulantie,18,277
+Karhulantie,19,204
+Karhulantie,20,201
+Karhulantie,21,123
+Karhulantie,22,99
+Karhulantie,23,94
+Karhupuisto,0,1111
+Karhupuisto,1,848
+Karhupuisto,2,717
+Karhupuisto,3,386
+Karhupuisto,4,280
+Karhupuisto,5,201
+Karhupuisto,6,319
+Karhupuisto,7,722
+Karhupuisto,8,1435
+Karhupuisto,9,1294
+Karhupuisto,10,1099
+Karhupuisto,11,1092
+Karhupuisto,12,1567
+Karhupuisto,13,1427
+Karhupuisto,14,1486
+Karhupuisto,15,1698
+Karhupuisto,16,2414
+Karhupuisto,17,2877
+Karhupuisto,18,2641
+Karhupuisto,19,2328
+Karhupuisto,20,2045
+Karhupuisto,21,1774
+Karhupuisto,22,1427
+Karhupuisto,23,1196
+Kasarmitori,0,500
+Kasarmitori,1,358
+Kasarmitori,2,321
+Kasarmitori,3,294
+Kasarmitori,4,179
+Kasarmitori,5,109
+Kasarmitori,6,203
+Kasarmitori,7,652
+Kasarmitori,8,1536
+Kasarmitori,9,1850
+Kasarmitori,10,1250
+Kasarmitori,11,1395
+Kasarmitori,12,1753
+Kasarmitori,13,2054
+Kasarmitori,14,2608
+Kasarmitori,15,3466
+Kasarmitori,16,4784
+Kasarmitori,17,3980
+Kasarmitori,18,2971
+Kasarmitori,19,2032
+Kasarmitori,20,1711
+Kasarmitori,21,1527
+Kasarmitori,22,891
+Kasarmitori,23,743
+Katariina Saksilaisen katu,0,100
+Katariina Saksilaisen katu,1,50
+Katariina Saksilaisen katu,2,37
+Katariina Saksilaisen katu,3,23
+Katariina Saksilaisen katu,4,7
+Katariina Saksilaisen katu,5,23
+Katariina Saksilaisen katu,6,46
+Katariina Saksilaisen katu,7,243
+Katariina Saksilaisen katu,8,429
+Katariina Saksilaisen katu,9,299
+Katariina Saksilaisen katu,10,193
+Katariina Saksilaisen katu,11,229
+Katariina Saksilaisen katu,12,355
+Katariina Saksilaisen katu,13,373
+Katariina Saksilaisen katu,14,410
+Katariina Saksilaisen katu,15,432
+Katariina Saksilaisen katu,16,553
+Katariina Saksilaisen katu,17,597
+Katariina Saksilaisen katu,18,659
+Katariina Saksilaisen katu,19,622
+Katariina Saksilaisen katu,20,496
+Katariina Saksilaisen katu,21,420
+Katariina Saksilaisen katu,22,209
+Katariina Saksilaisen katu,23,132
+Kauppakorkeakoulu,0,868
+Kauppakorkeakoulu,1,557
+Kauppakorkeakoulu,2,444
+Kauppakorkeakoulu,3,332
+Kauppakorkeakoulu,4,303
+Kauppakorkeakoulu,5,209
+Kauppakorkeakoulu,6,323
+Kauppakorkeakoulu,7,1085
+Kauppakorkeakoulu,8,2647
+Kauppakorkeakoulu,9,4044
+Kauppakorkeakoulu,10,2827
+Kauppakorkeakoulu,11,2621
+Kauppakorkeakoulu,12,3533
+Kauppakorkeakoulu,13,3552
+Kauppakorkeakoulu,14,3374
+Kauppakorkeakoulu,15,3407
+Kauppakorkeakoulu,16,4296
+Kauppakorkeakoulu,17,5515
+Kauppakorkeakoulu,18,4760
+Kauppakorkeakoulu,19,3661
+Kauppakorkeakoulu,20,3082
+Kauppakorkeakoulu,21,2491
+Kauppakorkeakoulu,22,1739
+Kauppakorkeakoulu,23,1347
+Keilalahti,0,83
+Keilalahti,1,79
+Keilalahti,2,43
+Keilalahti,3,56
+Keilalahti,4,41
+Keilalahti,5,45
+Keilalahti,6,14
+Keilalahti,7,15
+Keilalahti,8,128
+Keilalahti,9,184
+Keilalahti,10,109
+Keilalahti,11,184
+Keilalahti,12,305
+Keilalahti,13,348
+Keilalahti,14,349
+Keilalahti,15,600
+Keilalahti,16,1408
+Keilalahti,17,1554
+Keilalahti,18,802
+Keilalahti,19,517
+Keilalahti,20,359
+Keilalahti,21,319
+Keilalahti,22,166
+Keilalahti,23,83
+Keilaniemi (M),0,164
+Keilaniemi (M),1,83
+Keilaniemi (M),2,46
+Keilaniemi (M),3,44
+Keilaniemi (M),4,19
+Keilaniemi (M),5,39
+Keilaniemi (M),6,29
+Keilaniemi (M),7,86
+Keilaniemi (M),8,443
+Keilaniemi (M),9,805
+Keilaniemi (M),10,426
+Keilaniemi (M),11,331
+Keilaniemi (M),12,360
+Keilaniemi (M),13,462
+Keilaniemi (M),14,506
+Keilaniemi (M),15,701
+Keilaniemi (M),16,1411
+Keilaniemi (M),17,1669
+Keilaniemi (M),18,1346
+Keilaniemi (M),19,877
+Keilaniemi (M),20,731
+Keilaniemi (M),21,685
+Keilaniemi (M),22,483
+Keilaniemi (M),23,313
+Keilaranta,0,58
+Keilaranta,1,40
+Keilaranta,2,23
+Keilaranta,3,19
+Keilaranta,4,10
+Keilaranta,5,9
+Keilaranta,6,14
+Keilaranta,7,149
+Keilaranta,8,521
+Keilaranta,9,592
+Keilaranta,10,254
+Keilaranta,11,574
+Keilaranta,12,790
+Keilaranta,13,522
+Keilaranta,14,539
+Keilaranta,15,761
+Keilaranta,16,1585
+Keilaranta,17,1265
+Keilaranta,18,615
+Keilaranta,19,377
+Keilaranta,20,249
+Keilaranta,21,190
+Keilaranta,22,130
+Keilaranta,23,103
+Kesäkatu,0,306
+Kesäkatu,1,122
+Kesäkatu,2,84
+Kesäkatu,3,46
+Kesäkatu,4,15
+Kesäkatu,5,14
+Kesäkatu,6,26
+Kesäkatu,7,111
+Kesäkatu,8,563
+Kesäkatu,9,1116
+Kesäkatu,10,871
+Kesäkatu,11,919
+Kesäkatu,12,1458
+Kesäkatu,13,1830
+Kesäkatu,14,2083
+Kesäkatu,15,2504
+Kesäkatu,16,3132
+Kesäkatu,17,2999
+Kesäkatu,18,2824
+Kesäkatu,19,2757
+Kesäkatu,20,2698
+Kesäkatu,21,2299
+Kesäkatu,22,1398
+Kesäkatu,23,680
+Kiasma,0,785
+Kiasma,1,568
+Kiasma,2,456
+Kiasma,3,294
+Kiasma,4,198
+Kiasma,5,91
+Kiasma,6,88
+Kiasma,7,651
+Kiasma,8,1956
+Kiasma,9,2578
+Kiasma,10,1588
+Kiasma,11,1702
+Kiasma,12,2669
+Kiasma,13,3584
+Kiasma,14,4233
+Kiasma,15,5179
+Kiasma,16,7669
+Kiasma,17,8976
+Kiasma,18,7609
+Kiasma,19,5703
+Kiasma,20,4154
+Kiasma,21,2721
+Kiasma,22,1553
+Kiasma,23,1065
+Kirjurinkuja,0,102
+Kirjurinkuja,1,64
+Kirjurinkuja,2,33
+Kirjurinkuja,3,39
+Kirjurinkuja,4,34
+Kirjurinkuja,5,141
+Kirjurinkuja,6,429
+Kirjurinkuja,7,1009
+Kirjurinkuja,8,1572
+Kirjurinkuja,9,1181
+Kirjurinkuja,10,1086
+Kirjurinkuja,11,1039
+Kirjurinkuja,12,1221
+Kirjurinkuja,13,1219
+Kirjurinkuja,14,1289
+Kirjurinkuja,15,1112
+Kirjurinkuja,16,1318
+Kirjurinkuja,17,1619
+Kirjurinkuja,18,1568
+Kirjurinkuja,19,1266
+Kirjurinkuja,20,1108
+Kirjurinkuja,21,603
+Kirjurinkuja,22,339
+Kirjurinkuja,23,218
+Kirkkoherrantie,0,70
+Kirkkoherrantie,1,50
+Kirkkoherrantie,2,33
+Kirkkoherrantie,3,16
+Kirkkoherrantie,4,5
+Kirkkoherrantie,5,6
+Kirkkoherrantie,6,17
+Kirkkoherrantie,7,29
+Kirkkoherrantie,8,168
+Kirkkoherrantie,9,90
+Kirkkoherrantie,10,60
+Kirkkoherrantie,11,69
+Kirkkoherrantie,12,93
+Kirkkoherrantie,13,128
+Kirkkoherrantie,14,152
+Kirkkoherrantie,15,176
+Kirkkoherrantie,16,240
+Kirkkoherrantie,17,230
+Kirkkoherrantie,18,245
+Kirkkoherrantie,19,231
+Kirkkoherrantie,20,215
+Kirkkoherrantie,21,223
+Kirkkoherrantie,22,164
+Kirkkoherrantie,23,103
+Kiskontie,0,141
+Kiskontie,1,113
+Kiskontie,2,75
+Kiskontie,3,67
+Kiskontie,4,43
+Kiskontie,5,33
+Kiskontie,6,117
+Kiskontie,7,672
+Kiskontie,8,1579
+Kiskontie,9,1478
+Kiskontie,10,955
+Kiskontie,11,765
+Kiskontie,12,903
+Kiskontie,13,810
+Kiskontie,14,916
+Kiskontie,15,1061
+Kiskontie,16,1375
+Kiskontie,17,1336
+Kiskontie,18,1160
+Kiskontie,19,956
+Kiskontie,20,777
+Kiskontie,21,610
+Kiskontie,22,345
+Kiskontie,23,239
+Koivu-Mankkaa,0,56
+Koivu-Mankkaa,1,40
+Koivu-Mankkaa,2,20
+Koivu-Mankkaa,3,23
+Koivu-Mankkaa,4,20
+Koivu-Mankkaa,5,15
+Koivu-Mankkaa,6,40
+Koivu-Mankkaa,7,131
+Koivu-Mankkaa,8,489
+Koivu-Mankkaa,9,352
+Koivu-Mankkaa,10,320
+Koivu-Mankkaa,11,185
+Koivu-Mankkaa,12,236
+Koivu-Mankkaa,13,237
+Koivu-Mankkaa,14,300
+Koivu-Mankkaa,15,288
+Koivu-Mankkaa,16,447
+Koivu-Mankkaa,17,444
+Koivu-Mankkaa,18,328
+Koivu-Mankkaa,19,302
+Koivu-Mankkaa,20,243
+Koivu-Mankkaa,21,203
+Koivu-Mankkaa,22,154
+Koivu-Mankkaa,23,97
+Komeetankatu,0,574
+Komeetankatu,1,378
+Komeetankatu,2,222
+Komeetankatu,3,129
+Komeetankatu,4,97
+Komeetankatu,5,85
+Komeetankatu,6,126
+Komeetankatu,7,220
+Komeetankatu,8,283
+Komeetankatu,9,314
+Komeetankatu,10,275
+Komeetankatu,11,354
+Komeetankatu,12,437
+Komeetankatu,13,446
+Komeetankatu,14,610
+Komeetankatu,15,655
+Komeetankatu,16,709
+Komeetankatu,17,1008
+Komeetankatu,18,1089
+Komeetankatu,19,927
+Komeetankatu,20,933
+Komeetankatu,21,835
+Komeetankatu,22,780
+Komeetankatu,23,595
+Komentajankatu,0,104
+Komentajankatu,1,38
+Komentajankatu,2,38
+Komentajankatu,3,38
+Komentajankatu,4,76
+Komentajankatu,5,49
+Komentajankatu,6,280
+Komentajankatu,7,265
+Komentajankatu,8,758
+Komentajankatu,9,424
+Komentajankatu,10,337
+Komentajankatu,11,341
+Komentajankatu,12,406
+Komentajankatu,13,511
+Komentajankatu,14,441
+Komentajankatu,15,469
+Komentajankatu,16,676
+Komentajankatu,17,703
+Komentajankatu,18,586
+Komentajankatu,19,625
+Komentajankatu,20,509
+Komentajankatu,21,286
+Komentajankatu,22,210
+Komentajankatu,23,120
+Korjaamo,0,1166
+Korjaamo,1,692
+Korjaamo,2,411
+Korjaamo,3,210
+Korjaamo,4,172
+Korjaamo,5,159
+Korjaamo,6,628
+Korjaamo,7,2001
+Korjaamo,8,5129
+Korjaamo,9,3873
+Korjaamo,10,2723
+Korjaamo,11,2743
+Korjaamo,12,3445
+Korjaamo,13,3694
+Korjaamo,14,3693
+Korjaamo,15,4337
+Korjaamo,16,5521
+Korjaamo,17,6222
+Korjaamo,18,5745
+Korjaamo,19,5228
+Korjaamo,20,4665
+Korjaamo,21,3584
+Korjaamo,22,2638
+Korjaamo,23,1810
+Korkeasaari,0,73
+Korkeasaari,1,44
+Korkeasaari,2,22
+Korkeasaari,3,23
+Korkeasaari,4,12
+Korkeasaari,6,3
+Korkeasaari,7,7
+Korkeasaari,8,13
+Korkeasaari,9,32
+Korkeasaari,10,63
+Korkeasaari,11,83
+Korkeasaari,12,153
+Korkeasaari,13,227
+Korkeasaari,14,341
+Korkeasaari,15,516
+Korkeasaari,16,675
+Korkeasaari,17,598
+Korkeasaari,18,526
+Korkeasaari,19,414
+Korkeasaari,20,350
+Korkeasaari,21,251
+Korkeasaari,22,127
+Korkeasaari,23,85
+Korppaanmäentie,0,481
+Korppaanmäentie,1,352
+Korppaanmäentie,2,252
+Korppaanmäentie,3,141
+Korppaanmäentie,4,94
+Korppaanmäentie,5,86
+Korppaanmäentie,6,124
+Korppaanmäentie,7,339
+Korppaanmäentie,8,1041
+Korppaanmäentie,9,967
+Korppaanmäentie,10,799
+Korppaanmäentie,11,827
+Korppaanmäentie,12,962
+Korppaanmäentie,13,1054
+Korppaanmäentie,14,1117
+Korppaanmäentie,15,1600
+Korppaanmäentie,16,2137
+Korppaanmäentie,17,1568
+Korppaanmäentie,18,1120
+Korppaanmäentie,19,986
+Korppaanmäentie,20,917
+Korppaanmäentie,21,867
+Korppaanmäentie,22,661
+Korppaanmäentie,23,516
+Koskelan varikko,0,104
+Koskelan varikko,1,65
+Koskelan varikko,2,82
+Koskelan varikko,3,56
+Koskelan varikko,4,32
+Koskelan varikko,5,9
+Koskelan varikko,6,43
+Koskelan varikko,7,160
+Koskelan varikko,8,143
+Koskelan varikko,9,140
+Koskelan varikko,10,118
+Koskelan varikko,11,96
+Koskelan varikko,12,157
+Koskelan varikko,13,168
+Koskelan varikko,14,185
+Koskelan varikko,15,241
+Koskelan varikko,16,275
+Koskelan varikko,17,314
+Koskelan varikko,18,255
+Koskelan varikko,19,223
+Koskelan varikko,20,194
+Koskelan varikko,21,187
+Koskelan varikko,22,148
+Koskelan varikko,23,95
+Koskelantie,0,750
+Koskelantie,1,491
+Koskelantie,2,419
+Koskelantie,3,280
+Koskelantie,4,194
+Koskelantie,5,100
+Koskelantie,6,214
+Koskelantie,7,758
+Koskelantie,8,1525
+Koskelantie,9,1458
+Koskelantie,10,1126
+Koskelantie,11,1291
+Koskelantie,12,1419
+Koskelantie,13,1511
+Koskelantie,14,1739
+Koskelantie,15,2071
+Koskelantie,16,2675
+Koskelantie,17,2953
+Koskelantie,18,2955
+Koskelantie,19,2684
+Koskelantie,20,2364
+Koskelantie,21,2120
+Koskelantie,22,1569
+Koskelantie,23,1031
+Kriikunakuja,0,151
+Kriikunakuja,1,112
+Kriikunakuja,2,83
+Kriikunakuja,3,35
+Kriikunakuja,4,44
+Kriikunakuja,5,17
+Kriikunakuja,6,79
+Kriikunakuja,7,259
+Kriikunakuja,8,795
+Kriikunakuja,9,652
+Kriikunakuja,10,414
+Kriikunakuja,11,482
+Kriikunakuja,12,645
+Kriikunakuja,13,632
+Kriikunakuja,14,678
+Kriikunakuja,15,720
+Kriikunakuja,16,978
+Kriikunakuja,17,1031
+Kriikunakuja,18,911
+Kriikunakuja,19,734
+Kriikunakuja,20,767
+Kriikunakuja,21,524
+Kriikunakuja,22,336
+Kriikunakuja,23,197
+Kuikkarinne,0,330
+Kuikkarinne,1,161
+Kuikkarinne,2,132
+Kuikkarinne,3,51
+Kuikkarinne,4,33
+Kuikkarinne,5,84
+Kuikkarinne,6,291
+Kuikkarinne,7,836
+Kuikkarinne,8,1599
+Kuikkarinne,9,945
+Kuikkarinne,10,614
+Kuikkarinne,11,696
+Kuikkarinne,12,812
+Kuikkarinne,13,958
+Kuikkarinne,14,982
+Kuikkarinne,15,1322
+Kuikkarinne,16,1599
+Kuikkarinne,17,1652
+Kuikkarinne,18,1689
+Kuikkarinne,19,1602
+Kuikkarinne,20,1448
+Kuikkarinne,21,1144
+Kuikkarinne,22,734
+Kuikkarinne,23,530
+Kulosaari (M),0,286
+Kulosaari (M),1,186
+Kulosaari (M),2,158
+Kulosaari (M),3,136
+Kulosaari (M),4,82
+Kulosaari (M),5,70
+Kulosaari (M),6,56
+Kulosaari (M),7,132
+Kulosaari (M),8,367
+Kulosaari (M),9,476
+Kulosaari (M),10,422
+Kulosaari (M),11,377
+Kulosaari (M),12,615
+Kulosaari (M),13,775
+Kulosaari (M),14,884
+Kulosaari (M),15,1020
+Kulosaari (M),16,1324
+Kulosaari (M),17,1549
+Kulosaari (M),18,1419
+Kulosaari (M),19,1242
+Kulosaari (M),20,1044
+Kulosaari (M),21,848
+Kulosaari (M),22,572
+Kulosaari (M),23,439
+Kulttuuriaukio,0,164
+Kulttuuriaukio,1,66
+Kulttuuriaukio,2,47
+Kulttuuriaukio,3,25
+Kulttuuriaukio,4,9
+Kulttuuriaukio,5,11
+Kulttuuriaukio,6,6
+Kulttuuriaukio,7,59
+Kulttuuriaukio,8,130
+Kulttuuriaukio,9,288
+Kulttuuriaukio,10,262
+Kulttuuriaukio,11,327
+Kulttuuriaukio,12,563
+Kulttuuriaukio,13,683
+Kulttuuriaukio,14,692
+Kulttuuriaukio,15,904
+Kulttuuriaukio,16,1097
+Kulttuuriaukio,17,1221
+Kulttuuriaukio,18,1173
+Kulttuuriaukio,19,1124
+Kulttuuriaukio,20,846
+Kulttuuriaukio,21,582
+Kulttuuriaukio,22,397
+Kulttuuriaukio,23,234
+Kustaankartano,0,54
+Kustaankartano,1,32
+Kustaankartano,2,26
+Kustaankartano,3,28
+Kustaankartano,4,22
+Kustaankartano,5,24
+Kustaankartano,6,33
+Kustaankartano,7,76
+Kustaankartano,8,147
+Kustaankartano,9,165
+Kustaankartano,10,144
+Kustaankartano,11,139
+Kustaankartano,12,155
+Kustaankartano,13,154
+Kustaankartano,14,160
+Kustaankartano,15,200
+Kustaankartano,16,261
+Kustaankartano,17,239
+Kustaankartano,18,262
+Kustaankartano,19,247
+Kustaankartano,20,197
+Kustaankartano,21,148
+Kustaankartano,22,124
+Kustaankartano,23,107
+Kustaankatu,0,872
+Kustaankatu,1,672
+Kustaankatu,2,519
+Kustaankatu,3,311
+Kustaankatu,4,253
+Kustaankatu,5,206
+Kustaankatu,6,337
+Kustaankatu,7,538
+Kustaankatu,8,797
+Kustaankatu,9,859
+Kustaankatu,10,682
+Kustaankatu,11,837
+Kustaankatu,12,1034
+Kustaankatu,13,1099
+Kustaankatu,14,1029
+Kustaankatu,15,1315
+Kustaankatu,16,1957
+Kustaankatu,17,2176
+Kustaankatu,18,1999
+Kustaankatu,19,1742
+Kustaankatu,20,1589
+Kustaankatu,21,1442
+Kustaankatu,22,1090
+Kustaankatu,23,1006
+Kutsuntatie,0,43
+Kutsuntatie,1,34
+Kutsuntatie,2,24
+Kutsuntatie,3,5
+Kutsuntatie,4,9
+Kutsuntatie,5,13
+Kutsuntatie,6,24
+Kutsuntatie,7,52
+Kutsuntatie,8,101
+Kutsuntatie,9,79
+Kutsuntatie,10,60
+Kutsuntatie,11,74
+Kutsuntatie,12,64
+Kutsuntatie,13,85
+Kutsuntatie,14,103
+Kutsuntatie,15,90
+Kutsuntatie,16,119
+Kutsuntatie,17,219
+Kutsuntatie,18,147
+Kutsuntatie,19,133
+Kutsuntatie,20,107
+Kutsuntatie,21,81
+Kutsuntatie,22,36
+Kutsuntatie,23,32
+Kuunkatu,0,227
+Kuunkatu,1,188
+Kuunkatu,2,219
+Kuunkatu,3,129
+Kuunkatu,4,106
+Kuunkatu,5,31
+Kuunkatu,6,55
+Kuunkatu,7,207
+Kuunkatu,8,536
+Kuunkatu,9,400
+Kuunkatu,10,377
+Kuunkatu,11,398
+Kuunkatu,12,476
+Kuunkatu,13,479
+Kuunkatu,14,516
+Kuunkatu,15,552
+Kuunkatu,16,653
+Kuunkatu,17,709
+Kuunkatu,18,650
+Kuunkatu,19,716
+Kuunkatu,20,706
+Kuunkatu,21,591
+Kuunkatu,22,544
+Kuunkatu,23,235
+Kuusitie,0,707
+Kuusitie,1,420
+Kuusitie,2,210
+Kuusitie,3,207
+Kuusitie,4,129
+Kuusitie,5,179
+Kuusitie,6,516
+Kuusitie,7,1473
+Kuusitie,8,2381
+Kuusitie,9,1220
+Kuusitie,10,1008
+Kuusitie,11,1122
+Kuusitie,12,1269
+Kuusitie,13,1249
+Kuusitie,14,1281
+Kuusitie,15,1664
+Kuusitie,16,2051
+Kuusitie,17,2525
+Kuusitie,18,2504
+Kuusitie,19,2161
+Kuusitie,20,1995
+Kuusitie,21,1688
+Kuusitie,22,1073
+Kuusitie,23,762
+Kylävoudintie,0,93
+Kylävoudintie,1,76
+Kylävoudintie,2,51
+Kylävoudintie,3,40
+Kylävoudintie,4,11
+Kylävoudintie,5,22
+Kylävoudintie,6,33
+Kylävoudintie,7,168
+Kylävoudintie,8,275
+Kylävoudintie,9,271
+Kylävoudintie,10,175
+Kylävoudintie,11,143
+Kylävoudintie,12,187
+Kylävoudintie,13,191
+Kylävoudintie,14,204
+Kylävoudintie,15,248
+Kylävoudintie,16,352
+Kylävoudintie,17,398
+Kylävoudintie,18,395
+Kylävoudintie,19,332
+Kylävoudintie,20,290
+Kylävoudintie,21,242
+Kylävoudintie,22,177
+Kylävoudintie,23,115
+Käpylän asema,0,218
+Käpylän asema,1,142
+Käpylän asema,2,100
+Käpylän asema,3,79
+Käpylän asema,4,55
+Käpylän asema,5,40
+Käpylän asema,6,32
+Käpylän asema,7,98
+Käpylän asema,8,256
+Käpylän asema,9,418
+Käpylän asema,10,361
+Käpylän asema,11,395
+Käpylän asema,12,533
+Käpylän asema,13,544
+Käpylän asema,14,651
+Käpylän asema,15,880
+Käpylän asema,16,1238
+Käpylän asema,17,1221
+Käpylän asema,18,989
+Käpylän asema,19,901
+Käpylän asema,20,840
+Käpylän asema,21,758
+Käpylän asema,22,455
+Käpylän asema,23,251
+Käpyläntie,0,371
+Käpyläntie,1,230
+Käpyläntie,2,181
+Käpyläntie,3,101
+Käpyläntie,4,52
+Käpyläntie,5,64
+Käpyläntie,6,138
+Käpyläntie,7,541
+Käpyläntie,8,1162
+Käpyläntie,9,1193
+Käpyläntie,10,614
+Käpyläntie,11,708
+Käpyläntie,12,809
+Käpyläntie,13,901
+Käpyläntie,14,1004
+Käpyläntie,15,1148
+Käpyläntie,16,1318
+Käpyläntie,17,1484
+Käpyläntie,18,1445
+Käpyläntie,19,1316
+Käpyläntie,20,1117
+Käpyläntie,21,1035
+Käpyläntie,22,618
+Käpyläntie,23,430
+Käskynhaltijantie,0,56
+Käskynhaltijantie,1,15
+Käskynhaltijantie,2,7
+Käskynhaltijantie,3,11
+Käskynhaltijantie,4,12
+Käskynhaltijantie,5,12
+Käskynhaltijantie,6,8
+Käskynhaltijantie,7,18
+Käskynhaltijantie,8,167
+Käskynhaltijantie,9,84
+Käskynhaltijantie,10,64
+Käskynhaltijantie,11,79
+Käskynhaltijantie,12,91
+Käskynhaltijantie,13,77
+Käskynhaltijantie,14,121
+Käskynhaltijantie,15,122
+Käskynhaltijantie,16,170
+Käskynhaltijantie,17,182
+Käskynhaltijantie,18,201
+Käskynhaltijantie,19,236
+Käskynhaltijantie,20,212
+Käskynhaltijantie,21,209
+Käskynhaltijantie,22,141
+Käskynhaltijantie,23,69
+Laajalahden aukio,0,739
+Laajalahden aukio,1,450
+Laajalahden aukio,2,224
+Laajalahden aukio,3,113
+Laajalahden aukio,4,68
+Laajalahden aukio,5,76
+Laajalahden aukio,6,157
+Laajalahden aukio,7,589
+Laajalahden aukio,8,1315
+Laajalahden aukio,9,1402
+Laajalahden aukio,10,1084
+Laajalahden aukio,11,1277
+Laajalahden aukio,12,1683
+Laajalahden aukio,13,1958
+Laajalahden aukio,14,2347
+Laajalahden aukio,15,2652
+Laajalahden aukio,16,3043
+Laajalahden aukio,17,3235
+Laajalahden aukio,18,3109
+Laajalahden aukio,19,3079
+Laajalahden aukio,20,2737
+Laajalahden aukio,21,2286
+Laajalahden aukio,22,1650
+Laajalahden aukio,23,1202
+Laajalahden keskus,0,55
+Laajalahden keskus,1,35
+Laajalahden keskus,2,35
+Laajalahden keskus,3,26
+Laajalahden keskus,4,19
+Laajalahden keskus,5,8
+Laajalahden keskus,6,57
+Laajalahden keskus,7,91
+Laajalahden keskus,8,355
+Laajalahden keskus,9,350
+Laajalahden keskus,10,169
+Laajalahden keskus,11,160
+Laajalahden keskus,12,192
+Laajalahden keskus,13,200
+Laajalahden keskus,14,217
+Laajalahden keskus,15,282
+Laajalahden keskus,16,276
+Laajalahden keskus,17,341
+Laajalahden keskus,18,316
+Laajalahden keskus,19,299
+Laajalahden keskus,20,228
+Laajalahden keskus,21,176
+Laajalahden keskus,22,127
+Laajalahden keskus,23,86
+Laajasalon ostoskeskus,0,74
+Laajasalon ostoskeskus,1,53
+Laajasalon ostoskeskus,2,39
+Laajasalon ostoskeskus,3,30
+Laajasalon ostoskeskus,4,7
+Laajasalon ostoskeskus,5,11
+Laajasalon ostoskeskus,6,23
+Laajasalon ostoskeskus,7,35
+Laajasalon ostoskeskus,8,88
+Laajasalon ostoskeskus,9,78
+Laajasalon ostoskeskus,10,138
+Laajasalon ostoskeskus,11,189
+Laajasalon ostoskeskus,12,277
+Laajasalon ostoskeskus,13,350
+Laajasalon ostoskeskus,14,470
+Laajasalon ostoskeskus,15,520
+Laajasalon ostoskeskus,16,577
+Laajasalon ostoskeskus,17,628
+Laajasalon ostoskeskus,18,666
+Laajasalon ostoskeskus,19,631
+Laajasalon ostoskeskus,20,615
+Laajasalon ostoskeskus,21,452
+Laajasalon ostoskeskus,22,291
+Laajasalon ostoskeskus,23,125
+Laivalahden puistotie,0,150
+Laivalahden puistotie,1,77
+Laivalahden puistotie,2,46
+Laivalahden puistotie,3,17
+Laivalahden puistotie,4,18
+Laivalahden puistotie,5,138
+Laivalahden puistotie,6,89
+Laivalahden puistotie,7,220
+Laivalahden puistotie,8,612
+Laivalahden puistotie,9,568
+Laivalahden puistotie,10,345
+Laivalahden puistotie,11,328
+Laivalahden puistotie,12,384
+Laivalahden puistotie,13,438
+Laivalahden puistotie,14,547
+Laivalahden puistotie,15,565
+Laivalahden puistotie,16,606
+Laivalahden puistotie,17,726
+Laivalahden puistotie,18,694
+Laivalahden puistotie,19,587
+Laivalahden puistotie,20,597
+Laivalahden puistotie,21,441
+Laivalahden puistotie,22,363
+Laivalahden puistotie,23,234
+Laivasillankatu,0,664
+Laivasillankatu,1,505
+Laivasillankatu,2,572
+Laivasillankatu,3,342
+Laivasillankatu,4,219
+Laivasillankatu,5,99
+Laivasillankatu,6,85
+Laivasillankatu,7,563
+Laivasillankatu,8,1749
+Laivasillankatu,9,2552
+Laivasillankatu,10,1546
+Laivasillankatu,11,1330
+Laivasillankatu,12,1505
+Laivasillankatu,13,1568
+Laivasillankatu,14,1713
+Laivasillankatu,15,2191
+Laivasillankatu,16,3110
+Laivasillankatu,17,3295
+Laivasillankatu,18,2476
+Laivasillankatu,19,2196
+Laivasillankatu,20,1884
+Laivasillankatu,21,1520
+Laivasillankatu,22,1233
+Laivasillankatu,23,870
+Lastenlehto,0,1120
+Lastenlehto,1,726
+Lastenlehto,2,579
+Lastenlehto,3,408
+Lastenlehto,4,304
+Lastenlehto,5,228
+Lastenlehto,6,237
+Lastenlehto,7,737
+Lastenlehto,8,1447
+Lastenlehto,9,1659
+Lastenlehto,10,1106
+Lastenlehto,11,1066
+Lastenlehto,12,1488
+Lastenlehto,13,1547
+Lastenlehto,14,1570
+Lastenlehto,15,1734
+Lastenlehto,16,2655
+Lastenlehto,17,3320
+Lastenlehto,18,2860
+Lastenlehto,19,2463
+Lastenlehto,20,2073
+Lastenlehto,21,1729
+Lastenlehto,22,1341
+Lastenlehto,23,963
+Lauttasaaren ostoskeskus,0,967
+Lauttasaaren ostoskeskus,1,515
+Lauttasaaren ostoskeskus,2,351
+Lauttasaaren ostoskeskus,3,221
+Lauttasaaren ostoskeskus,4,119
+Lauttasaaren ostoskeskus,5,107
+Lauttasaaren ostoskeskus,6,307
+Lauttasaaren ostoskeskus,7,1029
+Lauttasaaren ostoskeskus,8,2565
+Lauttasaaren ostoskeskus,9,2295
+Lauttasaaren ostoskeskus,10,1395
+Lauttasaaren ostoskeskus,11,1475
+Lauttasaaren ostoskeskus,12,1940
+Lauttasaaren ostoskeskus,13,2134
+Lauttasaaren ostoskeskus,14,2210
+Lauttasaaren ostoskeskus,15,2459
+Lauttasaaren ostoskeskus,16,3378
+Lauttasaaren ostoskeskus,17,4294
+Lauttasaaren ostoskeskus,18,4360
+Lauttasaaren ostoskeskus,19,3705
+Lauttasaaren ostoskeskus,20,3166
+Lauttasaaren ostoskeskus,21,2401
+Lauttasaaren ostoskeskus,22,1603
+Lauttasaaren ostoskeskus,23,1043
+Lauttasaarensilta,0,578
+Lauttasaarensilta,1,372
+Lauttasaarensilta,2,240
+Lauttasaarensilta,3,148
+Lauttasaarensilta,4,90
+Lauttasaarensilta,5,124
+Lauttasaarensilta,6,355
+Lauttasaarensilta,7,1477
+Lauttasaarensilta,8,3678
+Lauttasaarensilta,9,2892
+Lauttasaarensilta,10,1455
+Lauttasaarensilta,11,1496
+Lauttasaarensilta,12,1819
+Lauttasaarensilta,13,1960
+Lauttasaarensilta,14,1965
+Lauttasaarensilta,15,1912
+Lauttasaarensilta,16,2524
+Lauttasaarensilta,17,3238
+Lauttasaarensilta,18,3262
+Lauttasaarensilta,19,2560
+Lauttasaarensilta,20,2073
+Lauttasaarensilta,21,1558
+Lauttasaarensilta,22,1080
+Lauttasaarensilta,23,585
+Lehtisaarentie,0,289
+Lehtisaarentie,1,191
+Lehtisaarentie,2,174
+Lehtisaarentie,3,97
+Lehtisaarentie,4,73
+Lehtisaarentie,5,86
+Lehtisaarentie,6,57
+Lehtisaarentie,7,302
+Lehtisaarentie,8,893
+Lehtisaarentie,9,1002
+Lehtisaarentie,10,547
+Lehtisaarentie,11,605
+Lehtisaarentie,12,985
+Lehtisaarentie,13,1149
+Lehtisaarentie,14,1259
+Lehtisaarentie,15,1389
+Lehtisaarentie,16,1525
+Lehtisaarentie,17,1746
+Lehtisaarentie,18,1762
+Lehtisaarentie,19,1412
+Lehtisaarentie,20,1236
+Lehtisaarentie,21,980
+Lehtisaarentie,22,733
+Lehtisaarentie,23,500
+Lepolantie,0,48
+Lepolantie,1,34
+Lepolantie,2,31
+Lepolantie,3,22
+Lepolantie,4,27
+Lepolantie,5,13
+Lepolantie,6,16
+Lepolantie,7,41
+Lepolantie,8,41
+Lepolantie,9,43
+Lepolantie,10,55
+Lepolantie,11,83
+Lepolantie,12,110
+Lepolantie,13,140
+Lepolantie,14,145
+Lepolantie,15,143
+Lepolantie,16,172
+Lepolantie,17,168
+Lepolantie,18,207
+Lepolantie,19,189
+Lepolantie,20,195
+Lepolantie,21,186
+Lepolantie,22,104
+Lepolantie,23,47
+Leppäsuonaukio,0,841
+Leppäsuonaukio,1,620
+Leppäsuonaukio,2,462
+Leppäsuonaukio,3,327
+Leppäsuonaukio,4,173
+Leppäsuonaukio,5,83
+Leppäsuonaukio,6,160
+Leppäsuonaukio,7,826
+Leppäsuonaukio,8,2311
+Leppäsuonaukio,9,2561
+Leppäsuonaukio,10,1630
+Leppäsuonaukio,11,1475
+Leppäsuonaukio,12,1796
+Leppäsuonaukio,13,1967
+Leppäsuonaukio,14,2064
+Leppäsuonaukio,15,2466
+Leppäsuonaukio,16,3625
+Leppäsuonaukio,17,3803
+Leppäsuonaukio,18,3212
+Leppäsuonaukio,19,2688
+Leppäsuonaukio,20,2303
+Leppäsuonaukio,21,1972
+Leppäsuonaukio,22,1465
+Leppäsuonaukio,23,1036
+Leppävaaran uimahalli,0,28
+Leppävaaran uimahalli,1,17
+Leppävaaran uimahalli,2,3
+Leppävaaran uimahalli,3,7
+Leppävaaran uimahalli,4,1
+Leppävaaran uimahalli,5,7
+Leppävaaran uimahalli,6,40
+Leppävaaran uimahalli,7,117
+Leppävaaran uimahalli,8,334
+Leppävaaran uimahalli,9,284
+Leppävaaran uimahalli,10,225
+Leppävaaran uimahalli,11,334
+Leppävaaran uimahalli,12,366
+Leppävaaran uimahalli,13,346
+Leppävaaran uimahalli,14,372
+Leppävaaran uimahalli,15,422
+Leppävaaran uimahalli,16,415
+Leppävaaran uimahalli,17,461
+Leppävaaran uimahalli,18,466
+Leppävaaran uimahalli,19,512
+Leppävaaran uimahalli,20,443
+Leppävaaran uimahalli,21,307
+Leppävaaran uimahalli,22,98
+Leppävaaran uimahalli,23,58
+Leppävaaran urheilupuisto,0,66
+Leppävaaran urheilupuisto,1,42
+Leppävaaran urheilupuisto,2,24
+Leppävaaran urheilupuisto,3,3
+Leppävaaran urheilupuisto,4,3
+Leppävaaran urheilupuisto,5,4
+Leppävaaran urheilupuisto,6,10
+Leppävaaran urheilupuisto,7,16
+Leppävaaran urheilupuisto,8,52
+Leppävaaran urheilupuisto,9,82
+Leppävaaran urheilupuisto,10,115
+Leppävaaran urheilupuisto,11,170
+Leppävaaran urheilupuisto,12,234
+Leppävaaran urheilupuisto,13,259
+Leppävaaran urheilupuisto,14,333
+Leppävaaran urheilupuisto,15,393
+Leppävaaran urheilupuisto,16,353
+Leppävaaran urheilupuisto,17,384
+Leppävaaran urheilupuisto,18,515
+Leppävaaran urheilupuisto,19,580
+Leppävaaran urheilupuisto,20,666
+Leppävaaran urheilupuisto,21,589
+Leppävaaran urheilupuisto,22,387
+Leppävaaran urheilupuisto,23,104
+Leppävaaranaukio,0,555
+Leppävaaranaukio,1,282
+Leppävaaranaukio,2,140
+Leppävaaranaukio,3,99
+Leppävaaranaukio,4,53
+Leppävaaranaukio,5,25
+Leppävaaranaukio,6,100
+Leppävaaranaukio,7,560
+Leppävaaranaukio,8,1502
+Leppävaaranaukio,9,1405
+Leppävaaranaukio,10,718
+Leppävaaranaukio,11,689
+Leppävaaranaukio,12,992
+Leppävaaranaukio,13,1214
+Leppävaaranaukio,14,1408
+Leppävaaranaukio,15,1869
+Leppävaaranaukio,16,2574
+Leppävaaranaukio,17,3217
+Leppävaaranaukio,18,2961
+Leppävaaranaukio,19,2475
+Leppävaaranaukio,20,2238
+Leppävaaranaukio,21,1897
+Leppävaaranaukio,22,1421
+Leppävaaranaukio,23,787
+Leppävaarankäytävä,0,424
+Leppävaarankäytävä,1,283
+Leppävaarankäytävä,2,176
+Leppävaarankäytävä,3,115
+Leppävaarankäytävä,4,106
+Leppävaarankäytävä,5,86
+Leppävaarankäytävä,6,81
+Leppävaarankäytävä,7,267
+Leppävaarankäytävä,8,718
+Leppävaarankäytävä,9,754
+Leppävaarankäytävä,10,472
+Leppävaarankäytävä,11,509
+Leppävaarankäytävä,12,690
+Leppävaarankäytävä,13,772
+Leppävaarankäytävä,14,1009
+Leppävaarankäytävä,15,1211
+Leppävaarankäytävä,16,1721
+Leppävaarankäytävä,17,2123
+Leppävaarankäytävä,18,1885
+Leppävaarankäytävä,19,1615
+Leppävaarankäytävä,20,1615
+Leppävaarankäytävä,21,1276
+Leppävaarankäytävä,22,913
+Leppävaarankäytävä,23,545
+Liisanpuistikko,0,1722
+Liisanpuistikko,1,1083
+Liisanpuistikko,2,640
+Liisanpuistikko,3,403
+Liisanpuistikko,4,294
+Liisanpuistikko,5,290
+Liisanpuistikko,6,705
+Liisanpuistikko,7,1615
+Liisanpuistikko,8,3086
+Liisanpuistikko,9,3094
+Liisanpuistikko,10,2306
+Liisanpuistikko,11,2297
+Liisanpuistikko,12,2776
+Liisanpuistikko,13,3068
+Liisanpuistikko,14,3259
+Liisanpuistikko,15,3720
+Liisanpuistikko,16,4462
+Liisanpuistikko,17,5521
+Liisanpuistikko,18,5696
+Liisanpuistikko,19,5127
+Liisanpuistikko,20,4515
+Liisanpuistikko,21,4103
+Liisanpuistikko,22,3348
+Liisanpuistikko,23,2472
+Linnakepolku,0,102
+Linnakepolku,1,67
+Linnakepolku,2,52
+Linnakepolku,3,41
+Linnakepolku,4,24
+Linnakepolku,5,23
+Linnakepolku,6,54
+Linnakepolku,7,107
+Linnakepolku,8,293
+Linnakepolku,9,225
+Linnakepolku,10,212
+Linnakepolku,11,271
+Linnakepolku,12,309
+Linnakepolku,13,332
+Linnakepolku,14,329
+Linnakepolku,15,442
+Linnakepolku,16,462
+Linnakepolku,17,518
+Linnakepolku,18,500
+Linnakepolku,19,549
+Linnakepolku,20,488
+Linnakepolku,21,380
+Linnakepolku,22,229
+Linnakepolku,23,209
+Linnanmäki,0,973
+Linnanmäki,1,559
+Linnanmäki,2,398
+Linnanmäki,3,206
+Linnanmäki,4,177
+Linnanmäki,5,193
+Linnanmäki,6,582
+Linnanmäki,7,1824
+Linnanmäki,8,2829
+Linnanmäki,9,2504
+Linnanmäki,10,1941
+Linnanmäki,11,2342
+Linnanmäki,12,2743
+Linnanmäki,13,2934
+Linnanmäki,14,2685
+Linnanmäki,15,3177
+Linnanmäki,16,4236
+Linnanmäki,17,4940
+Linnanmäki,18,4772
+Linnanmäki,19,4339
+Linnanmäki,20,3909
+Linnanmäki,21,3930
+Linnanmäki,22,2792
+Linnanmäki,23,1525
+Linnuntie,0,47
+Linnuntie,1,27
+Linnuntie,2,15
+Linnuntie,3,20
+Linnuntie,4,7
+Linnuntie,5,27
+Linnuntie,6,32
+Linnuntie,7,110
+Linnuntie,8,243
+Linnuntie,9,211
+Linnuntie,10,246
+Linnuntie,11,196
+Linnuntie,12,249
+Linnuntie,13,275
+Linnuntie,14,316
+Linnuntie,15,323
+Linnuntie,16,348
+Linnuntie,17,464
+Linnuntie,18,399
+Linnuntie,19,398
+Linnuntie,20,391
+Linnuntie,21,394
+Linnuntie,22,234
+Linnuntie,23,125
+Lintulahdenkatu,0,1659
+Lintulahdenkatu,1,1600
+Lintulahdenkatu,2,1315
+Lintulahdenkatu,3,1053
+Lintulahdenkatu,4,672
+Lintulahdenkatu,5,576
+Lintulahdenkatu,6,578
+Lintulahdenkatu,7,1574
+Lintulahdenkatu,8,4417
+Lintulahdenkatu,9,4913
+Lintulahdenkatu,10,3257
+Lintulahdenkatu,11,3180
+Lintulahdenkatu,12,3902
+Lintulahdenkatu,13,3550
+Lintulahdenkatu,14,3391
+Lintulahdenkatu,15,4404
+Lintulahdenkatu,16,5618
+Lintulahdenkatu,17,5789
+Lintulahdenkatu,18,4849
+Lintulahdenkatu,19,4065
+Lintulahdenkatu,20,3477
+Lintulahdenkatu,21,2752
+Lintulahdenkatu,22,1924
+Lintulahdenkatu,23,1633
+Louhentori,0,90
+Louhentori,1,69
+Louhentori,2,36
+Louhentori,3,30
+Louhentori,4,28
+Louhentori,5,36
+Louhentori,6,196
+Louhentori,7,436
+Louhentori,8,986
+Louhentori,9,691
+Louhentori,10,557
+Louhentori,11,425
+Louhentori,12,514
+Louhentori,13,523
+Louhentori,14,457
+Louhentori,15,535
+Louhentori,16,645
+Louhentori,17,706
+Louhentori,18,655
+Louhentori,19,610
+Louhentori,20,507
+Louhentori,21,327
+Louhentori,22,199
+Louhentori,23,134
+Lukutori,0,47
+Lukutori,1,45
+Lukutori,2,29
+Lukutori,3,10
+Lukutori,4,9
+Lukutori,5,32
+Lukutori,6,103
+Lukutori,7,101
+Lukutori,8,291
+Lukutori,9,217
+Lukutori,10,112
+Lukutori,11,136
+Lukutori,12,157
+Lukutori,13,185
+Lukutori,14,232
+Lukutori,15,246
+Lukutori,16,239
+Lukutori,17,266
+Lukutori,18,250
+Lukutori,19,238
+Lukutori,20,212
+Lukutori,21,192
+Lukutori,22,127
+Lukutori,23,67
+Lumivaarantie,0,37
+Lumivaarantie,1,30
+Lumivaarantie,2,37
+Lumivaarantie,3,17
+Lumivaarantie,4,11
+Lumivaarantie,5,5
+Lumivaarantie,6,18
+Lumivaarantie,7,33
+Lumivaarantie,8,123
+Lumivaarantie,9,66
+Lumivaarantie,10,58
+Lumivaarantie,11,65
+Lumivaarantie,12,102
+Lumivaarantie,13,113
+Lumivaarantie,14,140
+Lumivaarantie,15,185
+Lumivaarantie,16,174
+Lumivaarantie,17,291
+Lumivaarantie,18,223
+Lumivaarantie,19,205
+Lumivaarantie,20,164
+Lumivaarantie,21,124
+Lumivaarantie,22,83
+Lumivaarantie,23,56
+Luoteisväylä,0,260
+Luoteisväylä,1,167
+Luoteisväylä,2,143
+Luoteisväylä,3,74
+Luoteisväylä,4,50
+Luoteisväylä,5,50
+Luoteisväylä,6,55
+Luoteisväylä,7,354
+Luoteisväylä,8,993
+Luoteisväylä,9,910
+Luoteisväylä,10,666
+Luoteisväylä,11,640
+Luoteisväylä,12,882
+Luoteisväylä,13,1048
+Luoteisväylä,14,973
+Luoteisväylä,15,1137
+Luoteisväylä,16,1350
+Luoteisväylä,17,1561
+Luoteisväylä,18,1732
+Luoteisväylä,19,1513
+Luoteisväylä,20,1308
+Luoteisväylä,21,969
+Luoteisväylä,22,701
+Luoteisväylä,23,370
+Lystimäensilta,0,27
+Lystimäensilta,1,21
+Lystimäensilta,2,4
+Lystimäensilta,3,3
+Lystimäensilta,4,1
+Lystimäensilta,5,2
+Lystimäensilta,6,47
+Lystimäensilta,7,193
+Lystimäensilta,8,293
+Lystimäensilta,9,282
+Lystimäensilta,10,143
+Lystimäensilta,11,135
+Lystimäensilta,12,154
+Lystimäensilta,13,119
+Lystimäensilta,14,170
+Lystimäensilta,15,153
+Lystimäensilta,16,248
+Lystimäensilta,17,261
+Lystimäensilta,18,300
+Lystimäensilta,19,298
+Lystimäensilta,20,242
+Lystimäensilta,21,217
+Lystimäensilta,22,122
+Lystimäensilta,23,70
+Lystimäki,0,73
+Lystimäki,1,67
+Lystimäki,2,33
+Lystimäki,3,22
+Lystimäki,4,26
+Lystimäki,5,12
+Lystimäki,6,33
+Lystimäki,7,111
+Lystimäki,8,385
+Lystimäki,9,361
+Lystimäki,10,161
+Lystimäki,11,170
+Lystimäki,12,226
+Lystimäki,13,212
+Lystimäki,14,238
+Lystimäki,15,226
+Lystimäki,16,280
+Lystimäki,17,284
+Lystimäki,18,254
+Lystimäki,19,253
+Lystimäki,20,270
+Lystimäki,21,204
+Lystimäki,22,158
+Lystimäki,23,104
+Läkkitori,0,143
+Läkkitori,1,104
+Läkkitori,2,85
+Läkkitori,3,86
+Läkkitori,4,64
+Läkkitori,5,68
+Läkkitori,6,31
+Läkkitori,7,157
+Läkkitori,8,264
+Läkkitori,9,428
+Läkkitori,10,374
+Läkkitori,11,328
+Läkkitori,12,366
+Läkkitori,13,437
+Läkkitori,14,440
+Läkkitori,15,497
+Läkkitori,16,655
+Läkkitori,17,735
+Läkkitori,18,815
+Läkkitori,19,727
+Läkkitori,20,689
+Läkkitori,21,575
+Läkkitori,22,406
+Läkkitori,23,208
+Länsisatamankatu,0,1029
+Länsisatamankatu,1,625
+Länsisatamankatu,2,356
+Länsisatamankatu,3,191
+Länsisatamankatu,4,126
+Länsisatamankatu,5,283
+Länsisatamankatu,6,1233
+Länsisatamankatu,7,3020
+Länsisatamankatu,8,5901
+Länsisatamankatu,9,3876
+Länsisatamankatu,10,2548
+Länsisatamankatu,11,2606
+Länsisatamankatu,12,3088
+Länsisatamankatu,13,2981
+Länsisatamankatu,14,3139
+Länsisatamankatu,15,3564
+Länsisatamankatu,16,4497
+Länsisatamankatu,17,6029
+Länsisatamankatu,18,6030
+Länsisatamankatu,19,5000
+Länsisatamankatu,20,4024
+Länsisatamankatu,21,2979
+Länsisatamankatu,22,2061
+Länsisatamankatu,23,1311
+Länsisatamankuja,0,401
+Länsisatamankuja,1,186
+Länsisatamankuja,2,142
+Länsisatamankuja,3,86
+Länsisatamankuja,4,96
+Länsisatamankuja,5,281
+Länsisatamankuja,6,463
+Länsisatamankuja,7,1293
+Länsisatamankuja,8,2558
+Länsisatamankuja,9,1784
+Länsisatamankuja,10,1193
+Länsisatamankuja,11,1290
+Länsisatamankuja,12,1440
+Länsisatamankuja,13,1440
+Länsisatamankuja,14,1373
+Länsisatamankuja,15,1489
+Länsisatamankuja,16,1931
+Länsisatamankuja,17,2512
+Länsisatamankuja,18,2565
+Länsisatamankuja,19,2194
+Länsisatamankuja,20,1815
+Länsisatamankuja,21,1352
+Länsisatamankuja,22,807
+Länsisatamankuja,23,551
+Länsiterminaali,0,24
+Länsiterminaali,1,127
+Länsiterminaali,2,9
+Länsiterminaali,3,1
+Länsiterminaali,4,2
+Länsiterminaali,5,1
+Länsiterminaali,6,8
+Länsiterminaali,7,14
+Länsiterminaali,8,76
+Länsiterminaali,9,513
+Länsiterminaali,10,259
+Länsiterminaali,11,120
+Länsiterminaali,12,81
+Länsiterminaali,13,267
+Länsiterminaali,14,333
+Länsiterminaali,15,721
+Länsiterminaali,16,414
+Länsiterminaali,17,107
+Länsiterminaali,18,86
+Länsiterminaali,19,540
+Länsiterminaali,20,108
+Länsiterminaali,21,1065
+Länsiterminaali,22,828
+Länsiterminaali,23,67
+Länsituuli,0,183
+Länsituuli,1,77
+Länsituuli,2,66
+Länsituuli,3,46
+Länsituuli,4,23
+Länsituuli,5,11
+Länsituuli,6,77
+Länsituuli,7,388
+Länsituuli,8,1340
+Länsituuli,9,1315
+Länsituuli,10,1031
+Länsituuli,11,956
+Länsituuli,12,1411
+Länsituuli,13,1680
+Länsituuli,14,1786
+Länsituuli,15,2221
+Länsituuli,16,2818
+Länsituuli,17,3213
+Länsituuli,18,2700
+Länsituuli,19,2113
+Länsituuli,20,1718
+Länsituuli,21,1301
+Länsituuli,22,787
+Länsituuli,23,486
+Maarinranta,0,51
+Maarinranta,1,44
+Maarinranta,2,38
+Maarinranta,3,15
+Maarinranta,4,15
+Maarinranta,5,9
+Maarinranta,6,31
+Maarinranta,7,34
+Maarinranta,8,77
+Maarinranta,9,79
+Maarinranta,10,85
+Maarinranta,11,215
+Maarinranta,12,333
+Maarinranta,13,326
+Maarinranta,14,371
+Maarinranta,15,647
+Maarinranta,16,1448
+Maarinranta,17,1323
+Maarinranta,18,570
+Maarinranta,19,304
+Maarinranta,20,196
+Maarinranta,21,191
+Maarinranta,22,130
+Maarinranta,23,69
+Maistraatintori,0,208
+Maistraatintori,1,92
+Maistraatintori,2,53
+Maistraatintori,3,29
+Maistraatintori,4,39
+Maistraatintori,5,29
+Maistraatintori,6,108
+Maistraatintori,7,545
+Maistraatintori,8,1118
+Maistraatintori,9,886
+Maistraatintori,10,716
+Maistraatintori,11,635
+Maistraatintori,12,784
+Maistraatintori,13,743
+Maistraatintori,14,771
+Maistraatintori,15,878
+Maistraatintori,16,1380
+Maistraatintori,17,1347
+Maistraatintori,18,957
+Maistraatintori,19,733
+Maistraatintori,20,627
+Maistraatintori,21,546
+Maistraatintori,22,365
+Maistraatintori,23,233
+Majurinkulma,0,51
+Majurinkulma,1,36
+Majurinkulma,2,13
+Majurinkulma,3,25
+Majurinkulma,4,45
+Majurinkulma,5,47
+Majurinkulma,6,66
+Majurinkulma,7,229
+Majurinkulma,8,442
+Majurinkulma,9,369
+Majurinkulma,10,291
+Majurinkulma,11,540
+Majurinkulma,12,631
+Majurinkulma,13,498
+Majurinkulma,14,658
+Majurinkulma,15,955
+Majurinkulma,16,1605
+Majurinkulma,17,1369
+Majurinkulma,18,816
+Majurinkulma,19,590
+Majurinkulma,20,448
+Majurinkulma,21,325
+Majurinkulma,22,175
+Majurinkulma,23,93
+Mamsellimyllynkatu,0,23
+Mamsellimyllynkatu,1,40
+Mamsellimyllynkatu,2,27
+Mamsellimyllynkatu,3,9
+Mamsellimyllynkatu,4,10
+Mamsellimyllynkatu,5,5
+Mamsellimyllynkatu,6,24
+Mamsellimyllynkatu,7,58
+Mamsellimyllynkatu,8,117
+Mamsellimyllynkatu,9,86
+Mamsellimyllynkatu,10,87
+Mamsellimyllynkatu,11,114
+Mamsellimyllynkatu,12,113
+Mamsellimyllynkatu,13,110
+Mamsellimyllynkatu,14,95
+Mamsellimyllynkatu,15,134
+Mamsellimyllynkatu,16,183
+Mamsellimyllynkatu,17,160
+Mamsellimyllynkatu,18,171
+Mamsellimyllynkatu,19,152
+Mamsellimyllynkatu,20,123
+Mamsellimyllynkatu,21,110
+Mamsellimyllynkatu,22,55
+Mamsellimyllynkatu,23,37
+Mankkaanaukio,0,78
+Mankkaanaukio,1,82
+Mankkaanaukio,2,52
+Mankkaanaukio,3,63
+Mankkaanaukio,4,29
+Mankkaanaukio,5,21
+Mankkaanaukio,6,23
+Mankkaanaukio,7,146
+Mankkaanaukio,8,195
+Mankkaanaukio,9,242
+Mankkaanaukio,10,112
+Mankkaanaukio,11,167
+Mankkaanaukio,12,165
+Mankkaanaukio,13,182
+Mankkaanaukio,14,238
+Mankkaanaukio,15,266
+Mankkaanaukio,16,312
+Mankkaanaukio,17,326
+Mankkaanaukio,18,359
+Mankkaanaukio,19,287
+Mankkaanaukio,20,283
+Mankkaanaukio,21,239
+Mankkaanaukio,22,157
+Mankkaanaukio,23,112
+Mankkaanlaaksontie,0,98
+Mankkaanlaaksontie,1,57
+Mankkaanlaaksontie,2,47
+Mankkaanlaaksontie,3,26
+Mankkaanlaaksontie,4,33
+Mankkaanlaaksontie,5,15
+Mankkaanlaaksontie,6,24
+Mankkaanlaaksontie,7,122
+Mankkaanlaaksontie,8,475
+Mankkaanlaaksontie,9,245
+Mankkaanlaaksontie,10,142
+Mankkaanlaaksontie,11,189
+Mankkaanlaaksontie,12,233
+Mankkaanlaaksontie,13,244
+Mankkaanlaaksontie,14,318
+Mankkaanlaaksontie,15,325
+Mankkaanlaaksontie,16,394
+Mankkaanlaaksontie,17,450
+Mankkaanlaaksontie,18,418
+Mankkaanlaaksontie,19,311
+Mankkaanlaaksontie,20,294
+Mankkaanlaaksontie,21,259
+Mankkaanlaaksontie,22,145
+Mankkaanlaaksontie,23,98
+Mannerheimintie,0,1467
+Mannerheimintie,1,1200
+Mannerheimintie,2,1115
+Mannerheimintie,3,690
+Mannerheimintie,4,371
+Mannerheimintie,5,156
+Mannerheimintie,6,110
+Mannerheimintie,7,289
+Mannerheimintie,8,1350
+Mannerheimintie,9,1797
+Mannerheimintie,10,1475
+Mannerheimintie,11,2022
+Mannerheimintie,12,3509
+Mannerheimintie,13,4607
+Mannerheimintie,14,4927
+Mannerheimintie,15,5800
+Mannerheimintie,16,7973
+Mannerheimintie,17,9678
+Mannerheimintie,18,8723
+Mannerheimintie,19,6339
+Mannerheimintie,20,4649
+Mannerheimintie,21,3147
+Mannerheimintie,22,1823
+Mannerheimintie,23,1637
+Margareetankuja,0,83
+Margareetankuja,1,52
+Margareetankuja,2,30
+Margareetankuja,3,18
+Margareetankuja,4,12
+Margareetankuja,5,26
+Margareetankuja,6,66
+Margareetankuja,7,115
+Margareetankuja,8,284
+Margareetankuja,9,194
+Margareetankuja,10,138
+Margareetankuja,11,123
+Margareetankuja,12,181
+Margareetankuja,13,190
+Margareetankuja,14,268
+Margareetankuja,15,237
+Margareetankuja,16,270
+Margareetankuja,17,286
+Margareetankuja,18,315
+Margareetankuja,19,299
+Margareetankuja,20,269
+Margareetankuja,21,208
+Margareetankuja,22,149
+Margareetankuja,23,101
+Marian sairaala,0,1048
+Marian sairaala,1,675
+Marian sairaala,2,428
+Marian sairaala,3,336
+Marian sairaala,4,351
+Marian sairaala,5,301
+Marian sairaala,6,639
+Marian sairaala,7,1539
+Marian sairaala,8,2682
+Marian sairaala,9,3431
+Marian sairaala,10,2398
+Marian sairaala,11,2007
+Marian sairaala,12,2403
+Marian sairaala,13,2473
+Marian sairaala,14,2690
+Marian sairaala,15,3045
+Marian sairaala,16,4494
+Marian sairaala,17,4996
+Marian sairaala,18,4662
+Marian sairaala,19,4037
+Marian sairaala,20,3291
+Marian sairaala,21,2675
+Marian sairaala,22,1785
+Marian sairaala,23,1225
+Marjaniementie,0,107
+Marjaniementie,1,75
+Marjaniementie,2,50
+Marjaniementie,3,23
+Marjaniementie,4,24
+Marjaniementie,5,148
+Marjaniementie,6,152
+Marjaniementie,7,314
+Marjaniementie,8,337
+Marjaniementie,9,275
+Marjaniementie,10,216
+Marjaniementie,11,241
+Marjaniementie,12,285
+Marjaniementie,13,288
+Marjaniementie,14,363
+Marjaniementie,15,401
+Marjaniementie,16,490
+Marjaniementie,17,540
+Marjaniementie,18,608
+Marjaniementie,19,455
+Marjaniementie,20,431
+Marjaniementie,21,328
+Marjaniementie,22,254
+Marjaniementie,23,180
+Marjaniemi,0,33
+Marjaniemi,1,27
+Marjaniemi,2,15
+Marjaniemi,3,5
+Marjaniemi,4,8
+Marjaniemi,5,7
+Marjaniemi,6,40
+Marjaniemi,7,86
+Marjaniemi,8,161
+Marjaniemi,9,108
+Marjaniemi,10,94
+Marjaniemi,11,70
+Marjaniemi,12,72
+Marjaniemi,13,96
+Marjaniemi,14,135
+Marjaniemi,15,141
+Marjaniemi,16,168
+Marjaniemi,17,175
+Marjaniemi,18,170
+Marjaniemi,19,198
+Marjaniemi,20,174
+Marjaniemi,21,121
+Marjaniemi,22,89
+Marjaniemi,23,43
+Marttila,0,61
+Marttila,1,44
+Marttila,2,24
+Marttila,3,31
+Marttila,4,28
+Marttila,5,14
+Marttila,6,26
+Marttila,7,89
+Marttila,8,139
+Marttila,9,114
+Marttila,10,94
+Marttila,11,93
+Marttila,12,117
+Marttila,13,164
+Marttila,14,171
+Marttila,15,174
+Marttila,16,223
+Marttila,17,239
+Marttila,18,267
+Marttila,19,252
+Marttila,20,234
+Marttila,21,164
+Marttila,22,135
+Marttila,23,72
+Mastokatu,0,278
+Mastokatu,1,231
+Mastokatu,2,64
+Mastokatu,3,41
+Mastokatu,4,20
+Mastokatu,5,66
+Mastokatu,6,135
+Mastokatu,7,512
+Mastokatu,8,1204
+Mastokatu,9,1441
+Mastokatu,10,1475
+Mastokatu,11,1453
+Mastokatu,12,1440
+Mastokatu,13,1220
+Mastokatu,14,1213
+Mastokatu,15,1318
+Mastokatu,16,1856
+Mastokatu,17,2116
+Mastokatu,18,1864
+Mastokatu,19,1357
+Mastokatu,20,2200
+Mastokatu,21,1104
+Mastokatu,22,607
+Mastokatu,23,463
+Matinkartanontie,0,101
+Matinkartanontie,1,46
+Matinkartanontie,2,24
+Matinkartanontie,3,10
+Matinkartanontie,4,11
+Matinkartanontie,5,133
+Matinkartanontie,6,316
+Matinkartanontie,7,741
+Matinkartanontie,8,1486
+Matinkartanontie,9,1237
+Matinkartanontie,10,909
+Matinkartanontie,11,835
+Matinkartanontie,12,881
+Matinkartanontie,13,933
+Matinkartanontie,14,854
+Matinkartanontie,15,804
+Matinkartanontie,16,917
+Matinkartanontie,17,1013
+Matinkartanontie,18,1020
+Matinkartanontie,19,1050
+Matinkartanontie,20,1077
+Matinkartanontie,21,821
+Matinkartanontie,22,529
+Matinkartanontie,23,240
+Matinkyläntie,0,133
+Matinkyläntie,1,74
+Matinkyläntie,2,48
+Matinkyläntie,3,16
+Matinkyläntie,4,10
+Matinkyläntie,5,94
+Matinkyläntie,6,164
+Matinkyläntie,7,593
+Matinkyläntie,8,845
+Matinkyläntie,9,609
+Matinkyläntie,10,463
+Matinkyläntie,11,456
+Matinkyläntie,12,494
+Matinkyläntie,13,590
+Matinkyläntie,14,513
+Matinkyläntie,15,570
+Matinkyläntie,16,721
+Matinkyläntie,17,754
+Matinkyläntie,18,835
+Matinkyläntie,19,831
+Matinkyläntie,20,728
+Matinkyläntie,21,715
+Matinkyläntie,22,504
+Matinkyläntie,23,356
+Matinlahdenranta,0,125
+Matinlahdenranta,1,56
+Matinlahdenranta,2,51
+Matinlahdenranta,3,17
+Matinlahdenranta,4,9
+Matinlahdenranta,5,18
+Matinlahdenranta,6,48
+Matinlahdenranta,7,90
+Matinlahdenranta,8,213
+Matinlahdenranta,9,207
+Matinlahdenranta,10,186
+Matinlahdenranta,11,261
+Matinlahdenranta,12,406
+Matinlahdenranta,13,516
+Matinlahdenranta,14,700
+Matinlahdenranta,15,737
+Matinlahdenranta,16,839
+Matinlahdenranta,17,894
+Matinlahdenranta,18,907
+Matinlahdenranta,19,899
+Matinlahdenranta,20,935
+Matinlahdenranta,21,798
+Matinlahdenranta,22,462
+Matinlahdenranta,23,235
+Maunula,0,111
+Maunula,1,50
+Maunula,2,35
+Maunula,3,20
+Maunula,4,16
+Maunula,5,21
+Maunula,6,61
+Maunula,7,109
+Maunula,8,122
+Maunula,9,114
+Maunula,10,89
+Maunula,11,134
+Maunula,12,172
+Maunula,13,198
+Maunula,14,225
+Maunula,15,267
+Maunula,16,342
+Maunula,17,360
+Maunula,18,347
+Maunula,19,322
+Maunula,20,305
+Maunula,21,273
+Maunula,22,170
+Maunula,23,119
+Meilahden sairaala,0,102
+Meilahden sairaala,1,63
+Meilahden sairaala,2,58
+Meilahden sairaala,3,48
+Meilahden sairaala,4,32
+Meilahden sairaala,5,13
+Meilahden sairaala,6,28
+Meilahden sairaala,7,509
+Meilahden sairaala,8,2452
+Meilahden sairaala,9,2046
+Meilahden sairaala,10,1657
+Meilahden sairaala,11,1800
+Meilahden sairaala,12,2742
+Meilahden sairaala,13,3106
+Meilahden sairaala,14,3676
+Meilahden sairaala,15,6033
+Meilahden sairaala,16,3026
+Meilahden sairaala,17,1407
+Meilahden sairaala,18,1084
+Meilahden sairaala,19,879
+Meilahden sairaala,20,1232
+Meilahden sairaala,21,1045
+Meilahden sairaala,22,396
+Meilahden sairaala,23,154
+Melkonkuja,0,175
+Melkonkuja,1,72
+Melkonkuja,2,51
+Melkonkuja,3,33
+Melkonkuja,4,26
+Melkonkuja,5,63
+Melkonkuja,6,184
+Melkonkuja,7,689
+Melkonkuja,8,1556
+Melkonkuja,9,978
+Melkonkuja,10,619
+Melkonkuja,11,670
+Melkonkuja,12,790
+Melkonkuja,13,870
+Melkonkuja,14,885
+Melkonkuja,15,953
+Melkonkuja,16,1283
+Melkonkuja,17,1515
+Melkonkuja,18,1458
+Melkonkuja,19,1271
+Melkonkuja,20,1139
+Melkonkuja,21,876
+Melkonkuja,22,519
+Melkonkuja,23,267
+Mellstenintie,0,213
+Mellstenintie,1,79
+Mellstenintie,2,51
+Mellstenintie,3,25
+Mellstenintie,4,15
+Mellstenintie,5,55
+Mellstenintie,6,12
+Mellstenintie,7,20
+Mellstenintie,8,41
+Mellstenintie,9,92
+Mellstenintie,10,137
+Mellstenintie,11,244
+Mellstenintie,12,433
+Mellstenintie,13,640
+Mellstenintie,14,854
+Mellstenintie,15,1012
+Mellstenintie,16,1272
+Mellstenintie,17,1113
+Mellstenintie,18,1205
+Mellstenintie,19,1373
+Mellstenintie,20,1413
+Mellstenintie,21,1198
+Mellstenintie,22,794
+Mellstenintie,23,431
+Merihaka,0,389
+Merihaka,1,298
+Merihaka,2,223
+Merihaka,3,139
+Merihaka,4,102
+Merihaka,5,87
+Merihaka,6,280
+Merihaka,7,633
+Merihaka,8,1415
+Merihaka,9,1218
+Merihaka,10,999
+Merihaka,11,848
+Merihaka,12,1137
+Merihaka,13,1055
+Merihaka,14,1243
+Merihaka,15,1195
+Merihaka,16,1577
+Merihaka,17,1940
+Merihaka,18,1935
+Merihaka,19,1733
+Merihaka,20,1523
+Merihaka,21,1194
+Merihaka,22,828
+Merihaka,23,556
+Merisotilaantori,0,338
+Merisotilaantori,1,144
+Merisotilaantori,2,109
+Merisotilaantori,3,68
+Merisotilaantori,4,49
+Merisotilaantori,5,115
+Merisotilaantori,6,308
+Merisotilaantori,7,1001
+Merisotilaantori,8,2196
+Merisotilaantori,9,2073
+Merisotilaantori,10,1245
+Merisotilaantori,11,1189
+Merisotilaantori,12,1388
+Merisotilaantori,13,1332
+Merisotilaantori,14,1476
+Merisotilaantori,15,1556
+Merisotilaantori,16,1987
+Merisotilaantori,17,2198
+Merisotilaantori,18,1933
+Merisotilaantori,19,1580
+Merisotilaantori,20,1292
+Merisotilaantori,21,1022
+Merisotilaantori,22,718
+Merisotilaantori,23,510
+Messeniuksenkatu,0,1497
+Messeniuksenkatu,1,880
+Messeniuksenkatu,2,591
+Messeniuksenkatu,3,353
+Messeniuksenkatu,4,291
+Messeniuksenkatu,5,251
+Messeniuksenkatu,6,663
+Messeniuksenkatu,7,1774
+Messeniuksenkatu,8,4007
+Messeniuksenkatu,9,2907
+Messeniuksenkatu,10,1993
+Messeniuksenkatu,11,2031
+Messeniuksenkatu,12,2340
+Messeniuksenkatu,13,2483
+Messeniuksenkatu,14,2719
+Messeniuksenkatu,15,3410
+Messeniuksenkatu,16,4670
+Messeniuksenkatu,17,4959
+Messeniuksenkatu,18,5026
+Messeniuksenkatu,19,4311
+Messeniuksenkatu,20,3937
+Messeniuksenkatu,21,3455
+Messeniuksenkatu,22,2353
+Messeniuksenkatu,23,1609
+Metsänneidonpolku,0,79
+Metsänneidonpolku,1,47
+Metsänneidonpolku,2,47
+Metsänneidonpolku,3,27
+Metsänneidonpolku,4,15
+Metsänneidonpolku,5,24
+Metsänneidonpolku,6,63
+Metsänneidonpolku,7,349
+Metsänneidonpolku,8,1024
+Metsänneidonpolku,9,1040
+Metsänneidonpolku,10,472
+Metsänneidonpolku,11,629
+Metsänneidonpolku,12,673
+Metsänneidonpolku,13,546
+Metsänneidonpolku,14,595
+Metsänneidonpolku,15,883
+Metsänneidonpolku,16,2306
+Metsänneidonpolku,17,2334
+Metsänneidonpolku,18,1093
+Metsänneidonpolku,19,559
+Metsänneidonpolku,20,372
+Metsänneidonpolku,21,305
+Metsänneidonpolku,22,250
+Metsänneidonpolku,23,155
+Munkkiniemen aukio,0,531
+Munkkiniemen aukio,1,398
+Munkkiniemen aukio,2,294
+Munkkiniemen aukio,3,183
+Munkkiniemen aukio,4,125
+Munkkiniemen aukio,5,132
+Munkkiniemen aukio,6,207
+Munkkiniemen aukio,7,779
+Munkkiniemen aukio,8,2018
+Munkkiniemen aukio,9,1448
+Munkkiniemen aukio,10,967
+Munkkiniemen aukio,11,988
+Munkkiniemen aukio,12,1282
+Munkkiniemen aukio,13,1373
+Munkkiniemen aukio,14,1544
+Munkkiniemen aukio,15,1744
+Munkkiniemen aukio,16,2167
+Munkkiniemen aukio,17,2555
+Munkkiniemen aukio,18,2268
+Munkkiniemen aukio,19,2029
+Munkkiniemen aukio,20,1751
+Munkkiniemen aukio,21,1541
+Munkkiniemen aukio,22,1011
+Munkkiniemen aukio,23,815
+Muotoilijankatu,0,43
+Muotoilijankatu,1,15
+Muotoilijankatu,2,15
+Muotoilijankatu,3,11
+Muotoilijankatu,4,12
+Muotoilijankatu,5,7
+Muotoilijankatu,6,15
+Muotoilijankatu,7,178
+Muotoilijankatu,8,238
+Muotoilijankatu,9,169
+Muotoilijankatu,10,187
+Muotoilijankatu,11,157
+Muotoilijankatu,12,210
+Muotoilijankatu,13,242
+Muotoilijankatu,14,203
+Muotoilijankatu,15,239
+Muotoilijankatu,16,320
+Muotoilijankatu,17,353
+Muotoilijankatu,18,299
+Muotoilijankatu,19,278
+Muotoilijankatu,20,211
+Muotoilijankatu,21,185
+Muotoilijankatu,22,104
+Muotoilijankatu,23,67
+Mustikkamaa,0,232
+Mustikkamaa,1,162
+Mustikkamaa,2,98
+Mustikkamaa,3,38
+Mustikkamaa,4,36
+Mustikkamaa,5,20
+Mustikkamaa,6,12
+Mustikkamaa,7,41
+Mustikkamaa,8,72
+Mustikkamaa,9,187
+Mustikkamaa,10,176
+Mustikkamaa,11,284
+Mustikkamaa,12,475
+Mustikkamaa,13,619
+Mustikkamaa,14,805
+Mustikkamaa,15,939
+Mustikkamaa,16,1183
+Mustikkamaa,17,1186
+Mustikkamaa,18,1362
+Mustikkamaa,19,1443
+Mustikkamaa,20,1390
+Mustikkamaa,21,1171
+Mustikkamaa,22,711
+Mustikkamaa,23,376
+Muurarinkuja,0,50
+Muurarinkuja,1,29
+Muurarinkuja,2,24
+Muurarinkuja,3,18
+Muurarinkuja,4,15
+Muurarinkuja,5,8
+Muurarinkuja,6,22
+Muurarinkuja,7,77
+Muurarinkuja,8,196
+Muurarinkuja,9,145
+Muurarinkuja,10,150
+Muurarinkuja,11,177
+Muurarinkuja,12,172
+Muurarinkuja,13,197
+Muurarinkuja,14,218
+Muurarinkuja,15,192
+Muurarinkuja,16,248
+Muurarinkuja,17,282
+Muurarinkuja,18,296
+Muurarinkuja,19,278
+Muurarinkuja,20,272
+Muurarinkuja,21,189
+Muurarinkuja,22,137
+Muurarinkuja,23,79
+Muusantori,0,136
+Muusantori,1,95
+Muusantori,2,60
+Muusantori,3,55
+Muusantori,4,25
+Muusantori,5,121
+Muusantori,6,112
+Muusantori,7,616
+Muusantori,8,812
+Muusantori,9,455
+Muusantori,10,374
+Muusantori,11,360
+Muusantori,12,479
+Muusantori,13,493
+Muusantori,14,523
+Muusantori,15,580
+Muusantori,16,681
+Muusantori,17,724
+Muusantori,18,747
+Muusantori,19,645
+Muusantori,20,639
+Muusantori,21,490
+Muusantori,22,324
+Muusantori,23,186
+Myllypuro (M),0,96
+Myllypuro (M),1,32
+Myllypuro (M),2,20
+Myllypuro (M),3,19
+Myllypuro (M),4,12
+Myllypuro (M),5,12
+Myllypuro (M),6,14
+Myllypuro (M),7,33
+Myllypuro (M),8,90
+Myllypuro (M),9,136
+Myllypuro (M),10,131
+Myllypuro (M),11,209
+Myllypuro (M),12,292
+Myllypuro (M),13,341
+Myllypuro (M),14,421
+Myllypuro (M),15,466
+Myllypuro (M),16,645
+Myllypuro (M),17,533
+Myllypuro (M),18,425
+Myllypuro (M),19,414
+Myllypuro (M),20,435
+Myllypuro (M),21,324
+Myllypuro (M),22,301
+Myllypuro (M),23,183
+Mäkelänkatu,0,718
+Mäkelänkatu,1,490
+Mäkelänkatu,2,417
+Mäkelänkatu,3,271
+Mäkelänkatu,4,211
+Mäkelänkatu,5,147
+Mäkelänkatu,6,168
+Mäkelänkatu,7,661
+Mäkelänkatu,8,1453
+Mäkelänkatu,9,1539
+Mäkelänkatu,10,916
+Mäkelänkatu,11,879
+Mäkelänkatu,12,1045
+Mäkelänkatu,13,1225
+Mäkelänkatu,14,1390
+Mäkelänkatu,15,1749
+Mäkelänkatu,16,2549
+Mäkelänkatu,17,2656
+Mäkelänkatu,18,2228
+Mäkelänkatu,19,1801
+Mäkelänkatu,20,1620
+Mäkelänkatu,21,1328
+Mäkelänkatu,22,955
+Mäkelänkatu,23,870
+Mäkitorpantie,0,39
+Mäkitorpantie,1,26
+Mäkitorpantie,2,22
+Mäkitorpantie,3,16
+Mäkitorpantie,4,15
+Mäkitorpantie,5,5
+Mäkitorpantie,6,5
+Mäkitorpantie,7,33
+Mäkitorpantie,8,71
+Mäkitorpantie,9,94
+Mäkitorpantie,10,83
+Mäkitorpantie,11,87
+Mäkitorpantie,12,118
+Mäkitorpantie,13,153
+Mäkitorpantie,14,144
+Mäkitorpantie,15,192
+Mäkitorpantie,16,243
+Mäkitorpantie,17,244
+Mäkitorpantie,18,237
+Mäkitorpantie,19,218
+Mäkitorpantie,20,201
+Mäkitorpantie,21,181
+Mäkitorpantie,22,155
+Mäkitorpantie,23,77
+Mäkkylän asema,0,103
+Mäkkylän asema,1,57
+Mäkkylän asema,2,56
+Mäkkylän asema,3,34
+Mäkkylän asema,4,19
+Mäkkylän asema,5,16
+Mäkkylän asema,6,15
+Mäkkylän asema,7,26
+Mäkkylän asema,8,122
+Mäkkylän asema,9,112
+Mäkkylän asema,10,73
+Mäkkylän asema,11,93
+Mäkkylän asema,12,130
+Mäkkylän asema,13,132
+Mäkkylän asema,14,200
+Mäkkylän asema,15,219
+Mäkkylän asema,16,357
+Mäkkylän asema,17,339
+Mäkkylän asema,18,284
+Mäkkylän asema,19,213
+Mäkkylän asema,20,202
+Mäkkylän asema,21,198
+Mäkkylän asema,22,164
+Mäkkylän asema,23,116
+Mäntyviita,0,77
+Mäntyviita,1,50
+Mäntyviita,2,38
+Mäntyviita,3,24
+Mäntyviita,4,44
+Mäntyviita,5,98
+Mäntyviita,6,107
+Mäntyviita,7,269
+Mäntyviita,8,706
+Mäntyviita,9,662
+Mäntyviita,10,350
+Mäntyviita,11,424
+Mäntyviita,12,589
+Mäntyviita,13,494
+Mäntyviita,14,455
+Mäntyviita,15,499
+Mäntyviita,16,564
+Mäntyviita,17,738
+Mäntyviita,18,720
+Mäntyviita,19,624
+Mäntyviita,20,555
+Mäntyviita,21,440
+Mäntyviita,22,243
+Mäntyviita,23,129
+Narinkka,0,1106
+Narinkka,1,841
+Narinkka,2,701
+Narinkka,3,459
+Narinkka,4,355
+Narinkka,5,161
+Narinkka,6,216
+Narinkka,7,822
+Narinkka,8,2341
+Narinkka,9,3113
+Narinkka,10,2378
+Narinkka,11,2668
+Narinkka,12,3848
+Narinkka,13,4908
+Narinkka,14,5402
+Narinkka,15,6211
+Narinkka,16,8101
+Narinkka,17,9620
+Narinkka,18,7999
+Narinkka,19,6296
+Narinkka,20,5001
+Narinkka,21,3656
+Narinkka,22,1893
+Narinkka,23,1320
+Nelikkotie,0,157
+Nelikkotie,1,100
+Nelikkotie,2,61
+Nelikkotie,3,31
+Nelikkotie,4,19
+Nelikkotie,5,48
+Nelikkotie,6,43
+Nelikkotie,7,133
+Nelikkotie,8,231
+Nelikkotie,9,156
+Nelikkotie,10,177
+Nelikkotie,11,218
+Nelikkotie,12,303
+Nelikkotie,13,310
+Nelikkotie,14,366
+Nelikkotie,15,398
+Nelikkotie,16,453
+Nelikkotie,17,487
+Nelikkotie,18,605
+Nelikkotie,19,519
+Nelikkotie,20,487
+Nelikkotie,21,431
+Nelikkotie,22,323
+Nelikkotie,23,190
+Niittykumpu (M),0,708
+Niittykumpu (M),1,332
+Niittykumpu (M),2,206
+Niittykumpu (M),3,127
+Niittykumpu (M),4,104
+Niittykumpu (M),5,67
+Niittykumpu (M),6,229
+Niittykumpu (M),7,490
+Niittykumpu (M),8,1129
+Niittykumpu (M),9,1028
+Niittykumpu (M),10,993
+Niittykumpu (M),11,1305
+Niittykumpu (M),12,1779
+Niittykumpu (M),13,2110
+Niittykumpu (M),14,2346
+Niittykumpu (M),15,2879
+Niittykumpu (M),16,3696
+Niittykumpu (M),17,5014
+Niittykumpu (M),18,4313
+Niittykumpu (M),19,3513
+Niittykumpu (M),20,2922
+Niittykumpu (M),21,2602
+Niittykumpu (M),22,1860
+Niittykumpu (M),23,1303
+Niittymaa,0,540
+Niittymaa,1,429
+Niittymaa,2,316
+Niittymaa,3,147
+Niittymaa,4,113
+Niittymaa,5,93
+Niittymaa,6,148
+Niittymaa,7,365
+Niittymaa,8,920
+Niittymaa,9,748
+Niittymaa,10,699
+Niittymaa,11,736
+Niittymaa,12,990
+Niittymaa,13,1000
+Niittymaa,14,1137
+Niittymaa,15,1232
+Niittymaa,16,1674
+Niittymaa,17,1919
+Niittymaa,18,1860
+Niittymaa,19,1838
+Niittymaa,20,1521
+Niittymaa,21,1358
+Niittymaa,22,761
+Niittymaa,23,556
+Nokkala,0,88
+Nokkala,1,44
+Nokkala,2,35
+Nokkala,3,16
+Nokkala,4,7
+Nokkala,5,9
+Nokkala,6,9
+Nokkala,7,46
+Nokkala,8,68
+Nokkala,9,42
+Nokkala,10,69
+Nokkala,11,145
+Nokkala,12,277
+Nokkala,13,369
+Nokkala,14,515
+Nokkala,15,552
+Nokkala,16,796
+Nokkala,17,733
+Nokkala,18,754
+Nokkala,19,822
+Nokkala,20,882
+Nokkala,21,897
+Nokkala,22,520
+Nokkala,23,251
+Nordenskiöldinaukio,0,659
+Nordenskiöldinaukio,1,376
+Nordenskiöldinaukio,2,265
+Nordenskiöldinaukio,3,140
+Nordenskiöldinaukio,4,123
+Nordenskiöldinaukio,5,136
+Nordenskiöldinaukio,6,401
+Nordenskiöldinaukio,7,1232
+Nordenskiöldinaukio,8,2483
+Nordenskiöldinaukio,9,1948
+Nordenskiöldinaukio,10,1340
+Nordenskiöldinaukio,11,1280
+Nordenskiöldinaukio,12,1333
+Nordenskiöldinaukio,13,1559
+Nordenskiöldinaukio,14,1682
+Nordenskiöldinaukio,15,1962
+Nordenskiöldinaukio,16,2642
+Nordenskiöldinaukio,17,2719
+Nordenskiöldinaukio,18,2781
+Nordenskiöldinaukio,19,2452
+Nordenskiöldinaukio,20,2027
+Nordenskiöldinaukio,21,1514
+Nordenskiöldinaukio,22,1134
+Nordenskiöldinaukio,23,768
+Nuottaniementie,0,79
+Nuottaniementie,1,33
+Nuottaniementie,2,20
+Nuottaniementie,3,14
+Nuottaniementie,4,7
+Nuottaniementie,5,13
+Nuottaniementie,6,17
+Nuottaniementie,7,30
+Nuottaniementie,8,186
+Nuottaniementie,9,137
+Nuottaniementie,10,167
+Nuottaniementie,11,150
+Nuottaniementie,12,182
+Nuottaniementie,13,241
+Nuottaniementie,14,230
+Nuottaniementie,15,252
+Nuottaniementie,16,327
+Nuottaniementie,17,359
+Nuottaniementie,18,323
+Nuottaniementie,19,322
+Nuottaniementie,20,374
+Nuottaniementie,21,259
+Nuottaniementie,22,193
+Nuottaniementie,23,99
+Näkinsilta,0,1017
+Näkinsilta,1,829
+Näkinsilta,2,630
+Näkinsilta,3,528
+Näkinsilta,4,453
+Näkinsilta,5,443
+Näkinsilta,6,826
+Näkinsilta,7,1878
+Näkinsilta,8,4509
+Näkinsilta,9,4252
+Näkinsilta,10,2483
+Näkinsilta,11,2426
+Näkinsilta,12,3107
+Näkinsilta,13,3120
+Näkinsilta,14,3426
+Näkinsilta,15,3948
+Näkinsilta,16,5784
+Näkinsilta,17,6156
+Näkinsilta,18,5671
+Näkinsilta,19,4681
+Näkinsilta,20,3827
+Näkinsilta,21,2901
+Näkinsilta,22,1988
+Näkinsilta,23,1367
+Näyttelijäntie,0,82
+Näyttelijäntie,1,67
+Näyttelijäntie,2,46
+Näyttelijäntie,3,24
+Näyttelijäntie,4,32
+Näyttelijäntie,5,19
+Näyttelijäntie,6,50
+Näyttelijäntie,7,94
+Näyttelijäntie,8,132
+Näyttelijäntie,9,113
+Näyttelijäntie,10,83
+Näyttelijäntie,11,152
+Näyttelijäntie,12,184
+Näyttelijäntie,13,252
+Näyttelijäntie,14,344
+Näyttelijäntie,15,328
+Näyttelijäntie,16,389
+Näyttelijäntie,17,461
+Näyttelijäntie,18,436
+Näyttelijäntie,19,413
+Näyttelijäntie,20,416
+Näyttelijäntie,21,276
+Näyttelijäntie,22,176
+Näyttelijäntie,23,107
+Olarinluoma,0,91
+Olarinluoma,1,64
+Olarinluoma,2,54
+Olarinluoma,3,34
+Olarinluoma,4,13
+Olarinluoma,5,26
+Olarinluoma,6,52
+Olarinluoma,7,247
+Olarinluoma,8,544
+Olarinluoma,9,280
+Olarinluoma,10,165
+Olarinluoma,11,185
+Olarinluoma,12,210
+Olarinluoma,13,172
+Olarinluoma,14,266
+Olarinluoma,15,431
+Olarinluoma,16,479
+Olarinluoma,17,475
+Olarinluoma,18,415
+Olarinluoma,19,369
+Olarinluoma,20,297
+Olarinluoma,21,253
+Olarinluoma,22,190
+Olarinluoma,23,161
+Olympiastadion,0,1037
+Olympiastadion,1,590
+Olympiastadion,2,658
+Olympiastadion,3,296
+Olympiastadion,4,207
+Olympiastadion,5,196
+Olympiastadion,6,388
+Olympiastadion,7,1680
+Olympiastadion,8,3804
+Olympiastadion,9,3370
+Olympiastadion,10,2174
+Olympiastadion,11,2232
+Olympiastadion,12,2834
+Olympiastadion,13,3080
+Olympiastadion,14,3491
+Olympiastadion,15,3931
+Olympiastadion,16,4667
+Olympiastadion,17,4958
+Olympiastadion,18,4685
+Olympiastadion,19,4428
+Olympiastadion,20,4430
+Olympiastadion,21,4134
+Olympiastadion,22,2418
+Olympiastadion,23,1235
+Ooppera,0,1968
+Ooppera,1,1024
+Ooppera,2,965
+Ooppera,3,507
+Ooppera,4,364
+Ooppera,5,397
+Ooppera,6,403
+Ooppera,7,1530
+Ooppera,8,3748
+Ooppera,9,4050
+Ooppera,10,3142
+Ooppera,11,3115
+Ooppera,12,3887
+Ooppera,13,4393
+Ooppera,14,4897
+Ooppera,15,5745
+Ooppera,16,7160
+Ooppera,17,7807
+Ooppera,18,7182
+Ooppera,19,6886
+Ooppera,20,6287
+Ooppera,21,6094
+Ooppera,22,3949
+Ooppera,23,2362
+Opastinsilta,0,252
+Opastinsilta,1,135
+Opastinsilta,2,90
+Opastinsilta,3,49
+Opastinsilta,4,35
+Opastinsilta,5,26
+Opastinsilta,6,111
+Opastinsilta,7,438
+Opastinsilta,8,1646
+Opastinsilta,9,1571
+Opastinsilta,10,686
+Opastinsilta,11,569
+Opastinsilta,12,700
+Opastinsilta,13,683
+Opastinsilta,14,800
+Opastinsilta,15,1061
+Opastinsilta,16,1900
+Opastinsilta,17,1494
+Opastinsilta,18,1089
+Opastinsilta,19,769
+Opastinsilta,20,678
+Opastinsilta,21,539
+Opastinsilta,22,369
+Opastinsilta,23,306
+Oravannahkatori,0,94
+Oravannahkatori,1,56
+Oravannahkatori,2,107
+Oravannahkatori,3,11
+Oravannahkatori,4,19
+Oravannahkatori,5,22
+Oravannahkatori,6,97
+Oravannahkatori,7,503
+Oravannahkatori,8,959
+Oravannahkatori,9,414
+Oravannahkatori,10,278
+Oravannahkatori,11,314
+Oravannahkatori,12,323
+Oravannahkatori,13,367
+Oravannahkatori,14,370
+Oravannahkatori,15,366
+Oravannahkatori,16,494
+Oravannahkatori,17,597
+Oravannahkatori,18,685
+Oravannahkatori,19,648
+Oravannahkatori,20,494
+Oravannahkatori,21,371
+Oravannahkatori,22,172
+Oravannahkatori,23,138
+Orionintie,0,14
+Orionintie,1,10
+Orionintie,2,3
+Orionintie,4,3
+Orionintie,5,19
+Orionintie,6,121
+Orionintie,7,96
+Orionintie,8,37
+Orionintie,9,25
+Orionintie,10,40
+Orionintie,11,41
+Orionintie,12,71
+Orionintie,13,66
+Orionintie,14,250
+Orionintie,15,677
+Orionintie,16,957
+Orionintie,17,596
+Orionintie,18,259
+Orionintie,19,138
+Orionintie,20,130
+Orionintie,21,146
+Orionintie,22,162
+Orionintie,23,174
+Orpaanporras,0,71
+Orpaanporras,1,20
+Orpaanporras,2,23
+Orpaanporras,3,15
+Orpaanporras,4,9
+Orpaanporras,5,5
+Orpaanporras,6,39
+Orpaanporras,7,138
+Orpaanporras,8,146
+Orpaanporras,9,114
+Orpaanporras,10,82
+Orpaanporras,11,101
+Orpaanporras,12,130
+Orpaanporras,13,167
+Orpaanporras,14,149
+Orpaanporras,15,197
+Orpaanporras,16,219
+Orpaanporras,17,272
+Orpaanporras,18,238
+Orpaanporras,19,213
+Orpaanporras,20,173
+Orpaanporras,21,166
+Orpaanporras,22,112
+Orpaanporras,23,105
+Otaranta,0,169
+Otaranta,1,87
+Otaranta,2,77
+Otaranta,3,59
+Otaranta,4,29
+Otaranta,5,51
+Otaranta,6,221
+Otaranta,7,255
+Otaranta,8,968
+Otaranta,9,1131
+Otaranta,10,644
+Otaranta,11,705
+Otaranta,12,895
+Otaranta,13,1036
+Otaranta,14,1012
+Otaranta,15,1141
+Otaranta,16,1071
+Otaranta,17,1438
+Otaranta,18,1622
+Otaranta,19,1578
+Otaranta,20,1526
+Otaranta,21,1103
+Otaranta,22,856
+Otaranta,23,406
+Otsolahti,0,136
+Otsolahti,1,92
+Otsolahti,2,67
+Otsolahti,3,40
+Otsolahti,4,32
+Otsolahti,5,25
+Otsolahti,6,90
+Otsolahti,7,356
+Otsolahti,8,1016
+Otsolahti,9,1198
+Otsolahti,10,600
+Otsolahti,11,606
+Otsolahti,12,703
+Otsolahti,13,695
+Otsolahti,14,712
+Otsolahti,15,708
+Otsolahti,16,860
+Otsolahti,17,1081
+Otsolahti,18,1177
+Otsolahti,19,973
+Otsolahti,20,839
+Otsolahti,21,586
+Otsolahti,22,304
+Otsolahti,23,213
+Otto Brandtin tie,0,50
+Otto Brandtin tie,1,33
+Otto Brandtin tie,2,34
+Otto Brandtin tie,3,28
+Otto Brandtin tie,4,11
+Otto Brandtin tie,5,42
+Otto Brandtin tie,6,74
+Otto Brandtin tie,7,183
+Otto Brandtin tie,8,320
+Otto Brandtin tie,9,196
+Otto Brandtin tie,10,206
+Otto Brandtin tie,11,192
+Otto Brandtin tie,12,268
+Otto Brandtin tie,13,288
+Otto Brandtin tie,14,290
+Otto Brandtin tie,15,336
+Otto Brandtin tie,16,425
+Otto Brandtin tie,17,460
+Otto Brandtin tie,18,411
+Otto Brandtin tie,19,407
+Otto Brandtin tie,20,360
+Otto Brandtin tie,21,280
+Otto Brandtin tie,22,175
+Otto Brandtin tie,23,102
+Oulunkylän asema,0,233
+Oulunkylän asema,1,127
+Oulunkylän asema,2,80
+Oulunkylän asema,3,64
+Oulunkylän asema,4,33
+Oulunkylän asema,5,23
+Oulunkylän asema,6,28
+Oulunkylän asema,7,199
+Oulunkylän asema,8,395
+Oulunkylän asema,9,322
+Oulunkylän asema,10,214
+Oulunkylän asema,11,270
+Oulunkylän asema,12,366
+Oulunkylän asema,13,437
+Oulunkylän asema,14,564
+Oulunkylän asema,15,805
+Oulunkylän asema,16,1037
+Oulunkylän asema,17,1057
+Oulunkylän asema,18,997
+Oulunkylän asema,19,804
+Oulunkylän asema,20,713
+Oulunkylän asema,21,602
+Oulunkylän asema,22,518
+Oulunkylän asema,23,325
+Outotec,0,17
+Outotec,1,12
+Outotec,2,2
+Outotec,3,3
+Outotec,4,1
+Outotec,5,1
+Outotec,6,3
+Outotec,7,3
+Outotec,8,27
+Outotec,9,14
+Outotec,10,9
+Outotec,11,20
+Outotec,12,41
+Outotec,13,46
+Outotec,14,44
+Outotec,15,50
+Outotec,16,97
+Outotec,17,118
+Outotec,18,91
+Outotec,19,55
+Outotec,20,38
+Outotec,21,50
+Outotec,22,46
+Outotec,23,26
+Paavalinpuisto,0,667
+Paavalinpuisto,1,381
+Paavalinpuisto,2,318
+Paavalinpuisto,3,236
+Paavalinpuisto,4,150
+Paavalinpuisto,5,160
+Paavalinpuisto,6,440
+Paavalinpuisto,7,979
+Paavalinpuisto,8,1777
+Paavalinpuisto,9,1071
+Paavalinpuisto,10,813
+Paavalinpuisto,11,917
+Paavalinpuisto,12,1196
+Paavalinpuisto,13,1128
+Paavalinpuisto,14,1227
+Paavalinpuisto,15,1419
+Paavalinpuisto,16,1975
+Paavalinpuisto,17,2391
+Paavalinpuisto,18,2523
+Paavalinpuisto,19,2328
+Paavalinpuisto,20,1904
+Paavalinpuisto,21,1520
+Paavalinpuisto,22,1099
+Paavalinpuisto,23,906
+Paciuksenkaari,0,475
+Paciuksenkaari,1,385
+Paciuksenkaari,2,198
+Paciuksenkaari,3,161
+Paciuksenkaari,4,108
+Paciuksenkaari,5,80
+Paciuksenkaari,6,84
+Paciuksenkaari,7,406
+Paciuksenkaari,8,1049
+Paciuksenkaari,9,1108
+Paciuksenkaari,10,1038
+Paciuksenkaari,11,1035
+Paciuksenkaari,12,1354
+Paciuksenkaari,13,1454
+Paciuksenkaari,14,1676
+Paciuksenkaari,15,2015
+Paciuksenkaari,16,3133
+Paciuksenkaari,17,2991
+Paciuksenkaari,18,2550
+Paciuksenkaari,19,2224
+Paciuksenkaari,20,2101
+Paciuksenkaari,21,1801
+Paciuksenkaari,22,1356
+Paciuksenkaari,23,867
+Paciuksenkatu,0,235
+Paciuksenkatu,1,120
+Paciuksenkatu,2,86
+Paciuksenkatu,3,79
+Paciuksenkatu,4,80
+Paciuksenkatu,5,40
+Paciuksenkatu,6,112
+Paciuksenkatu,7,266
+Paciuksenkatu,8,804
+Paciuksenkatu,9,816
+Paciuksenkatu,10,605
+Paciuksenkatu,11,778
+Paciuksenkatu,12,1028
+Paciuksenkatu,13,1134
+Paciuksenkatu,14,1284
+Paciuksenkatu,15,1538
+Paciuksenkatu,16,2031
+Paciuksenkatu,17,2063
+Paciuksenkatu,18,2152
+Paciuksenkatu,19,2325
+Paciuksenkatu,20,1971
+Paciuksenkatu,21,1442
+Paciuksenkatu,22,897
+Paciuksenkatu,23,418
+Painiitty,0,20
+Painiitty,1,15
+Painiitty,2,19
+Painiitty,3,6
+Painiitty,4,5
+Painiitty,5,8
+Painiitty,6,36
+Painiitty,7,513
+Painiitty,8,273
+Painiitty,9,346
+Painiitty,10,201
+Painiitty,11,140
+Painiitty,12,158
+Painiitty,13,199
+Painiitty,14,187
+Painiitty,15,181
+Painiitty,16,201
+Painiitty,17,206
+Painiitty,18,227
+Painiitty,19,195
+Painiitty,20,208
+Painiitty,21,163
+Painiitty,22,81
+Painiitty,23,38
+Pajamäki,0,72
+Pajamäki,1,34
+Pajamäki,2,38
+Pajamäki,3,11
+Pajamäki,4,7
+Pajamäki,5,36
+Pajamäki,6,115
+Pajamäki,7,300
+Pajamäki,8,329
+Pajamäki,9,364
+Pajamäki,10,195
+Pajamäki,11,230
+Pajamäki,12,295
+Pajamäki,13,325
+Pajamäki,14,345
+Pajamäki,15,361
+Pajamäki,16,528
+Pajamäki,17,535
+Pajamäki,18,554
+Pajamäki,19,416
+Pajamäki,20,392
+Pajamäki,21,292
+Pajamäki,22,170
+Pajamäki,23,129
+Pasilan asema,0,308
+Pasilan asema,1,192
+Pasilan asema,2,131
+Pasilan asema,3,64
+Pasilan asema,4,65
+Pasilan asema,5,53
+Pasilan asema,6,202
+Pasilan asema,7,1071
+Pasilan asema,8,1242
+Pasilan asema,9,1019
+Pasilan asema,10,803
+Pasilan asema,11,1071
+Pasilan asema,12,1492
+Pasilan asema,13,1649
+Pasilan asema,14,1857
+Pasilan asema,15,2209
+Pasilan asema,16,2961
+Pasilan asema,17,2826
+Pasilan asema,18,2383
+Pasilan asema,19,2152
+Pasilan asema,20,1826
+Pasilan asema,21,1441
+Pasilan asema,22,781
+Pasilan asema,23,528
+Pernajantie,0,909
+Pernajantie,1,594
+Pernajantie,2,478
+Pernajantie,3,275
+Pernajantie,4,223
+Pernajantie,5,244
+Pernajantie,6,364
+Pernajantie,7,1472
+Pernajantie,8,2072
+Pernajantie,9,1242
+Pernajantie,10,943
+Pernajantie,11,1092
+Pernajantie,12,1159
+Pernajantie,13,1246
+Pernajantie,14,1309
+Pernajantie,15,1577
+Pernajantie,16,2226
+Pernajantie,17,3010
+Pernajantie,18,2986
+Pernajantie,19,2586
+Pernajantie,20,2281
+Pernajantie,21,1900
+Pernajantie,22,1402
+Pernajantie,23,1042
+Perämiehenkatu,0,580
+Perämiehenkatu,1,319
+Perämiehenkatu,2,208
+Perämiehenkatu,3,118
+Perämiehenkatu,4,223
+Perämiehenkatu,5,122
+Perämiehenkatu,6,417
+Perämiehenkatu,7,1539
+Perämiehenkatu,8,3488
+Perämiehenkatu,9,4879
+Perämiehenkatu,10,2537
+Perämiehenkatu,11,2038
+Perämiehenkatu,12,2307
+Perämiehenkatu,13,2005
+Perämiehenkatu,14,1874
+Perämiehenkatu,15,2345
+Perämiehenkatu,16,3700
+Perämiehenkatu,17,4117
+Perämiehenkatu,18,3389
+Perämiehenkatu,19,2456
+Perämiehenkatu,20,2074
+Perämiehenkatu,21,1698
+Perämiehenkatu,22,1116
+Perämiehenkatu,23,787
+Petter Wetterin tie,0,857
+Petter Wetterin tie,1,497
+Petter Wetterin tie,2,365
+Petter Wetterin tie,3,289
+Petter Wetterin tie,4,195
+Petter Wetterin tie,5,151
+Petter Wetterin tie,6,157
+Petter Wetterin tie,7,199
+Petter Wetterin tie,8,409
+Petter Wetterin tie,9,541
+Petter Wetterin tie,10,481
+Petter Wetterin tie,11,710
+Petter Wetterin tie,12,975
+Petter Wetterin tie,13,1257
+Petter Wetterin tie,14,1417
+Petter Wetterin tie,15,1691
+Petter Wetterin tie,16,2121
+Petter Wetterin tie,17,2603
+Petter Wetterin tie,18,2430
+Petter Wetterin tie,19,2180
+Petter Wetterin tie,20,1924
+Petter Wetterin tie,21,1588
+Petter Wetterin tie,22,1227
+Petter Wetterin tie,23,1085
+Peukaloisentie,0,48
+Peukaloisentie,1,38
+Peukaloisentie,2,17
+Peukaloisentie,3,20
+Peukaloisentie,4,32
+Peukaloisentie,5,39
+Peukaloisentie,6,161
+Peukaloisentie,7,137
+Peukaloisentie,8,225
+Peukaloisentie,9,222
+Peukaloisentie,10,135
+Peukaloisentie,11,170
+Peukaloisentie,12,235
+Peukaloisentie,13,200
+Peukaloisentie,14,218
+Peukaloisentie,15,207
+Peukaloisentie,16,303
+Peukaloisentie,17,329
+Peukaloisentie,18,343
+Peukaloisentie,19,253
+Peukaloisentie,20,177
+Peukaloisentie,21,131
+Peukaloisentie,22,98
+Peukaloisentie,23,49
+Pihlajamäki,0,56
+Pihlajamäki,1,46
+Pihlajamäki,2,34
+Pihlajamäki,3,20
+Pihlajamäki,4,48
+Pihlajamäki,5,31
+Pihlajamäki,6,29
+Pihlajamäki,7,45
+Pihlajamäki,8,96
+Pihlajamäki,9,122
+Pihlajamäki,10,123
+Pihlajamäki,11,160
+Pihlajamäki,12,190
+Pihlajamäki,13,165
+Pihlajamäki,14,178
+Pihlajamäki,15,173
+Pihlajamäki,16,182
+Pihlajamäki,17,190
+Pihlajamäki,18,184
+Pihlajamäki,19,198
+Pihlajamäki,20,182
+Pihlajamäki,21,147
+Pihlajamäki,22,114
+Pihlajamäki,23,71
+Piispankallio,0,61
+Piispankallio,1,38
+Piispankallio,2,27
+Piispankallio,3,25
+Piispankallio,4,13
+Piispankallio,5,34
+Piispankallio,6,86
+Piispankallio,7,310
+Piispankallio,8,811
+Piispankallio,9,356
+Piispankallio,10,187
+Piispankallio,11,185
+Piispankallio,12,205
+Piispankallio,13,225
+Piispankallio,14,227
+Piispankallio,15,276
+Piispankallio,16,388
+Piispankallio,17,356
+Piispankallio,18,419
+Piispankallio,19,313
+Piispankallio,20,244
+Piispankallio,21,170
+Piispankallio,22,118
+Piispankallio,23,69
+Piispanportti,0,211
+Piispanportti,1,128
+Piispanportti,2,103
+Piispanportti,3,54
+Piispanportti,4,29
+Piispanportti,5,29
+Piispanportti,6,55
+Piispanportti,7,133
+Piispanportti,8,588
+Piispanportti,9,503
+Piispanportti,10,331
+Piispanportti,11,412
+Piispanportti,12,527
+Piispanportti,13,523
+Piispanportti,14,566
+Piispanportti,15,571
+Piispanportti,16,855
+Piispanportti,17,829
+Piispanportti,18,891
+Piispanportti,19,810
+Piispanportti,20,690
+Piispanportti,21,654
+Piispanportti,22,338
+Piispanportti,23,212
+Piispansilta,0,453
+Piispansilta,1,266
+Piispansilta,2,214
+Piispansilta,3,107
+Piispansilta,4,66
+Piispansilta,5,52
+Piispansilta,6,42
+Piispansilta,7,128
+Piispansilta,8,563
+Piispansilta,9,679
+Piispansilta,10,754
+Piispansilta,11,1147
+Piispansilta,12,1706
+Piispansilta,13,2277
+Piispansilta,14,2782
+Piispansilta,15,3338
+Piispansilta,16,4075
+Piispansilta,17,4937
+Piispansilta,18,4306
+Piispansilta,19,3466
+Piispansilta,20,2875
+Piispansilta,21,2136
+Piispansilta,22,1248
+Piispansilta,23,796
+Pitäjänmäen asema,0,76
+Pitäjänmäen asema,1,51
+Pitäjänmäen asema,2,62
+Pitäjänmäen asema,3,35
+Pitäjänmäen asema,4,32
+Pitäjänmäen asema,5,21
+Pitäjänmäen asema,6,28
+Pitäjänmäen asema,7,259
+Pitäjänmäen asema,8,218
+Pitäjänmäen asema,9,170
+Pitäjänmäen asema,10,146
+Pitäjänmäen asema,11,184
+Pitäjänmäen asema,12,226
+Pitäjänmäen asema,13,274
+Pitäjänmäen asema,14,326
+Pitäjänmäen asema,15,352
+Pitäjänmäen asema,16,457
+Pitäjänmäen asema,17,481
+Pitäjänmäen asema,18,485
+Pitäjänmäen asema,19,421
+Pitäjänmäen asema,20,372
+Pitäjänmäen asema,21,305
+Pitäjänmäen asema,22,221
+Pitäjänmäen asema,23,133
+Pohjankulma,0,187
+Pohjankulma,1,192
+Pohjankulma,2,112
+Pohjankulma,3,82
+Pohjankulma,4,86
+Pohjankulma,5,43
+Pohjankulma,6,260
+Pohjankulma,7,519
+Pohjankulma,8,1425
+Pohjankulma,9,818
+Pohjankulma,10,519
+Pohjankulma,11,503
+Pohjankulma,12,678
+Pohjankulma,13,714
+Pohjankulma,14,702
+Pohjankulma,15,719
+Pohjankulma,16,882
+Pohjankulma,17,1084
+Pohjankulma,18,1091
+Pohjankulma,19,948
+Pohjankulma,20,847
+Pohjankulma,21,690
+Pohjankulma,22,473
+Pohjankulma,23,254
+Pohjois-Haagan asema,0,117
+Pohjois-Haagan asema,1,75
+Pohjois-Haagan asema,2,30
+Pohjois-Haagan asema,3,26
+Pohjois-Haagan asema,4,25
+Pohjois-Haagan asema,5,63
+Pohjois-Haagan asema,6,86
+Pohjois-Haagan asema,7,194
+Pohjois-Haagan asema,8,300
+Pohjois-Haagan asema,9,227
+Pohjois-Haagan asema,10,175
+Pohjois-Haagan asema,11,220
+Pohjois-Haagan asema,12,268
+Pohjois-Haagan asema,13,340
+Pohjois-Haagan asema,14,392
+Pohjois-Haagan asema,15,445
+Pohjois-Haagan asema,16,606
+Pohjois-Haagan asema,17,673
+Pohjois-Haagan asema,18,591
+Pohjois-Haagan asema,19,556
+Pohjois-Haagan asema,20,462
+Pohjois-Haagan asema,21,393
+Pohjois-Haagan asema,22,316
+Pohjois-Haagan asema,23,162
+Pohjolanaukio,0,216
+Pohjolanaukio,1,155
+Pohjolanaukio,2,101
+Pohjolanaukio,3,49
+Pohjolanaukio,4,45
+Pohjolanaukio,5,34
+Pohjolanaukio,6,50
+Pohjolanaukio,7,206
+Pohjolanaukio,8,470
+Pohjolanaukio,9,398
+Pohjolanaukio,10,308
+Pohjolanaukio,11,323
+Pohjolanaukio,12,434
+Pohjolanaukio,13,584
+Pohjolanaukio,14,620
+Pohjolanaukio,15,793
+Pohjolanaukio,16,891
+Pohjolanaukio,17,1040
+Pohjolanaukio,18,967
+Pohjolanaukio,19,927
+Pohjolanaukio,20,874
+Pohjolanaukio,21,874
+Pohjolanaukio,22,528
+Pohjolanaukio,23,418
+Pohjolankatu,0,206
+Pohjolankatu,1,165
+Pohjolankatu,2,107
+Pohjolankatu,3,82
+Pohjolankatu,4,50
+Pohjolankatu,5,64
+Pohjolankatu,6,40
+Pohjolankatu,7,205
+Pohjolankatu,8,357
+Pohjolankatu,9,260
+Pohjolankatu,10,196
+Pohjolankatu,11,247
+Pohjolankatu,12,328
+Pohjolankatu,13,381
+Pohjolankatu,14,369
+Pohjolankatu,15,456
+Pohjolankatu,16,685
+Pohjolankatu,17,680
+Pohjolankatu,18,607
+Pohjolankatu,19,535
+Pohjolankatu,20,500
+Pohjolankatu,21,447
+Pohjolankatu,22,368
+Pohjolankatu,23,261
+Porolahden koulu,0,94
+Porolahden koulu,1,97
+Porolahden koulu,2,73
+Porolahden koulu,3,54
+Porolahden koulu,4,16
+Porolahden koulu,5,9
+Porolahden koulu,6,54
+Porolahden koulu,7,254
+Porolahden koulu,8,329
+Porolahden koulu,9,314
+Porolahden koulu,10,207
+Porolahden koulu,11,255
+Porolahden koulu,12,375
+Porolahden koulu,13,433
+Porolahden koulu,14,437
+Porolahden koulu,15,491
+Porolahden koulu,16,574
+Porolahden koulu,17,574
+Porolahden koulu,18,563
+Porolahden koulu,19,593
+Porolahden koulu,20,509
+Porolahden koulu,21,345
+Porolahden koulu,22,266
+Porolahden koulu,23,138
+Porthania,0,563
+Porthania,1,336
+Porthania,2,267
+Porthania,3,199
+Porthania,4,127
+Porthania,5,55
+Porthania,6,111
+Porthania,7,907
+Porthania,8,3527
+Porthania,9,4688
+Porthania,10,2778
+Porthania,11,3021
+Porthania,12,4546
+Porthania,13,5423
+Porthania,14,6296
+Porthania,15,7216
+Porthania,16,9942
+Porthania,17,10961
+Porthania,18,8906
+Porthania,19,6447
+Porthania,20,5161
+Porthania,21,3274
+Porthania,22,1621
+Porthania,23,986
+Postipuun koulu,0,21
+Postipuun koulu,1,15
+Postipuun koulu,2,12
+Postipuun koulu,3,10
+Postipuun koulu,4,16
+Postipuun koulu,5,3
+Postipuun koulu,6,18
+Postipuun koulu,7,142
+Postipuun koulu,8,203
+Postipuun koulu,9,268
+Postipuun koulu,10,104
+Postipuun koulu,11,115
+Postipuun koulu,12,113
+Postipuun koulu,13,112
+Postipuun koulu,14,117
+Postipuun koulu,15,143
+Postipuun koulu,16,182
+Postipuun koulu,17,223
+Postipuun koulu,18,210
+Postipuun koulu,19,191
+Postipuun koulu,20,168
+Postipuun koulu,21,125
+Postipuun koulu,22,92
+Postipuun koulu,23,40
+Prinsessantie,0,44
+Prinsessantie,1,30
+Prinsessantie,2,22
+Prinsessantie,3,4
+Prinsessantie,4,12
+Prinsessantie,5,35
+Prinsessantie,6,76
+Prinsessantie,7,220
+Prinsessantie,8,328
+Prinsessantie,9,320
+Prinsessantie,10,221
+Prinsessantie,11,155
+Prinsessantie,12,181
+Prinsessantie,13,191
+Prinsessantie,14,219
+Prinsessantie,15,246
+Prinsessantie,16,246
+Prinsessantie,17,215
+Prinsessantie,18,195
+Prinsessantie,19,191
+Prinsessantie,20,188
+Prinsessantie,21,144
+Prinsessantie,22,166
+Prinsessantie,23,69
+Puistokaari,0,250
+Puistokaari,1,143
+Puistokaari,2,100
+Puistokaari,3,55
+Puistokaari,4,39
+Puistokaari,5,33
+Puistokaari,6,72
+Puistokaari,7,215
+Puistokaari,8,561
+Puistokaari,9,620
+Puistokaari,10,449
+Puistokaari,11,586
+Puistokaari,12,668
+Puistokaari,13,764
+Puistokaari,14,811
+Puistokaari,15,998
+Puistokaari,16,1020
+Puistokaari,17,1252
+Puistokaari,18,1253
+Puistokaari,19,1176
+Puistokaari,20,1042
+Puistokaari,21,890
+Puistokaari,22,594
+Puistokaari,23,382
+Puotila (M),0,238
+Puotila (M),1,109
+Puotila (M),2,57
+Puotila (M),3,45
+Puotila (M),4,26
+Puotila (M),5,53
+Puotila (M),6,25
+Puotila (M),7,85
+Puotila (M),8,139
+Puotila (M),9,104
+Puotila (M),10,155
+Puotila (M),11,167
+Puotila (M),12,280
+Puotila (M),13,288
+Puotila (M),14,385
+Puotila (M),15,504
+Puotila (M),16,600
+Puotila (M),17,727
+Puotila (M),18,590
+Puotila (M),19,540
+Puotila (M),20,510
+Puotila (M),21,477
+Puotila (M),22,343
+Puotila (M),23,290
+Puotilan ostoskeskus,0,207
+Puotilan ostoskeskus,1,64
+Puotilan ostoskeskus,2,60
+Puotilan ostoskeskus,3,36
+Puotilan ostoskeskus,4,27
+Puotilan ostoskeskus,5,9
+Puotilan ostoskeskus,6,18
+Puotilan ostoskeskus,7,31
+Puotilan ostoskeskus,8,97
+Puotilan ostoskeskus,9,103
+Puotilan ostoskeskus,10,106
+Puotilan ostoskeskus,11,139
+Puotilan ostoskeskus,12,237
+Puotilan ostoskeskus,13,255
+Puotilan ostoskeskus,14,269
+Puotilan ostoskeskus,15,316
+Puotilan ostoskeskus,16,385
+Puotilan ostoskeskus,17,515
+Puotilan ostoskeskus,18,402
+Puotilan ostoskeskus,19,389
+Puotilan ostoskeskus,20,394
+Puotilan ostoskeskus,21,310
+Puotilan ostoskeskus,22,231
+Puotilan ostoskeskus,23,163
+Puotilantie,0,43
+Puotilantie,1,41
+Puotilantie,2,38
+Puotilantie,3,25
+Puotilantie,4,22
+Puotilantie,5,12
+Puotilantie,6,158
+Puotilantie,7,107
+Puotilantie,8,168
+Puotilantie,9,74
+Puotilantie,10,95
+Puotilantie,11,113
+Puotilantie,12,158
+Puotilantie,13,182
+Puotilantie,14,163
+Puotilantie,15,218
+Puotilantie,16,220
+Puotilantie,17,259
+Puotilantie,18,226
+Puotilantie,19,230
+Puotilantie,20,251
+Puotilantie,21,155
+Puotilantie,22,64
+Puotilantie,23,57
+Puotinharju,0,181
+Puotinharju,1,80
+Puotinharju,2,55
+Puotinharju,3,42
+Puotinharju,4,22
+Puotinharju,5,10
+Puotinharju,6,15
+Puotinharju,7,39
+Puotinharju,8,53
+Puotinharju,9,30
+Puotinharju,10,50
+Puotinharju,11,133
+Puotinharju,12,179
+Puotinharju,13,247
+Puotinharju,14,363
+Puotinharju,15,436
+Puotinharju,16,506
+Puotinharju,17,492
+Puotinharju,18,527
+Puotinharju,19,411
+Puotinharju,20,414
+Puotinharju,21,338
+Puotinharju,22,205
+Puotinharju,23,158
+Puotinkylän kartano,0,55
+Puotinkylän kartano,1,11
+Puotinkylän kartano,2,12
+Puotinkylän kartano,3,5
+Puotinkylän kartano,4,7
+Puotinkylän kartano,5,6
+Puotinkylän kartano,6,54
+Puotinkylän kartano,7,149
+Puotinkylän kartano,8,253
+Puotinkylän kartano,9,316
+Puotinkylän kartano,10,184
+Puotinkylän kartano,11,201
+Puotinkylän kartano,12,237
+Puotinkylän kartano,13,249
+Puotinkylän kartano,14,253
+Puotinkylän kartano,15,268
+Puotinkylän kartano,16,289
+Puotinkylän kartano,17,297
+Puotinkylän kartano,18,306
+Puotinkylän kartano,19,295
+Puotinkylän kartano,20,208
+Puotinkylän kartano,21,244
+Puotinkylän kartano,22,148
+Puotinkylän kartano,23,90
+Päijänteentie,0,547
+Päijänteentie,1,307
+Päijänteentie,2,253
+Päijänteentie,3,208
+Päijänteentie,4,149
+Päijänteentie,5,147
+Päijänteentie,6,240
+Päijänteentie,7,938
+Päijänteentie,8,1421
+Päijänteentie,9,837
+Päijänteentie,10,614
+Päijänteentie,11,635
+Päijänteentie,12,723
+Päijänteentie,13,798
+Päijänteentie,14,980
+Päijänteentie,15,1120
+Päijänteentie,16,1715
+Päijänteentie,17,2185
+Päijänteentie,18,1861
+Päijänteentie,19,1557
+Päijänteentie,20,1414
+Päijänteentie,21,1029
+Päijänteentie,22,661
+Päijänteentie,23,529
+Radiokatu,0,163
+Radiokatu,1,39
+Radiokatu,2,33
+Radiokatu,3,28
+Radiokatu,4,19
+Radiokatu,5,20
+Radiokatu,6,56
+Radiokatu,7,284
+Radiokatu,8,625
+Radiokatu,9,592
+Radiokatu,10,358
+Radiokatu,11,394
+Radiokatu,12,536
+Radiokatu,13,566
+Radiokatu,14,535
+Radiokatu,15,765
+Radiokatu,16,1043
+Radiokatu,17,1024
+Radiokatu,18,791
+Radiokatu,19,690
+Radiokatu,20,634
+Radiokatu,21,510
+Radiokatu,22,418
+Radiokatu,23,233
+Rajasaarentie,0,342
+Rajasaarentie,1,187
+Rajasaarentie,2,106
+Rajasaarentie,3,85
+Rajasaarentie,4,38
+Rajasaarentie,5,33
+Rajasaarentie,6,96
+Rajasaarentie,7,483
+Rajasaarentie,8,1235
+Rajasaarentie,9,1231
+Rajasaarentie,10,834
+Rajasaarentie,11,948
+Rajasaarentie,12,1280
+Rajasaarentie,13,1622
+Rajasaarentie,14,1881
+Rajasaarentie,15,2461
+Rajasaarentie,16,3036
+Rajasaarentie,17,2539
+Rajasaarentie,18,2477
+Rajasaarentie,19,2394
+Rajasaarentie,20,2193
+Rajasaarentie,21,2164
+Rajasaarentie,22,1359
+Rajasaarentie,23,725
+Ratapihantie,0,512
+Ratapihantie,1,334
+Ratapihantie,2,203
+Ratapihantie,3,137
+Ratapihantie,4,115
+Ratapihantie,5,84
+Ratapihantie,6,281
+Ratapihantie,7,830
+Ratapihantie,8,2478
+Ratapihantie,9,2502
+Ratapihantie,10,1500
+Ratapihantie,11,1286
+Ratapihantie,12,1653
+Ratapihantie,13,1731
+Ratapihantie,14,2110
+Ratapihantie,15,2710
+Ratapihantie,16,3913
+Ratapihantie,17,3862
+Ratapihantie,18,3232
+Ratapihantie,19,2895
+Ratapihantie,20,2554
+Ratapihantie,21,1992
+Ratapihantie,22,1277
+Ratapihantie,23,732
+Ratsutori,0,182
+Ratsutori,1,58
+Ratsutori,2,48
+Ratsutori,3,37
+Ratsutori,4,25
+Ratsutori,5,17
+Ratsutori,6,19
+Ratsutori,7,52
+Ratsutori,8,231
+Ratsutori,9,262
+Ratsutori,10,337
+Ratsutori,11,489
+Ratsutori,12,975
+Ratsutori,13,973
+Ratsutori,14,1011
+Ratsutori,15,1104
+Ratsutori,16,1350
+Ratsutori,17,1600
+Ratsutori,18,1767
+Ratsutori,19,1542
+Ratsutori,20,1451
+Ratsutori,21,1135
+Ratsutori,22,600
+Ratsutori,23,372
+Rautatieläisenkatu,0,314
+Rautatieläisenkatu,1,161
+Rautatieläisenkatu,2,127
+Rautatieläisenkatu,3,62
+Rautatieläisenkatu,4,42
+Rautatieläisenkatu,5,53
+Rautatieläisenkatu,6,208
+Rautatieläisenkatu,7,1670
+Rautatieläisenkatu,8,2929
+Rautatieläisenkatu,9,2283
+Rautatieläisenkatu,10,948
+Rautatieläisenkatu,11,820
+Rautatieläisenkatu,12,1305
+Rautatieläisenkatu,13,1407
+Rautatieläisenkatu,14,1723
+Rautatieläisenkatu,15,2535
+Rautatieläisenkatu,16,3692
+Rautatieläisenkatu,17,3588
+Rautatieläisenkatu,18,2298
+Rautatieläisenkatu,19,1639
+Rautatieläisenkatu,20,1478
+Rautatieläisenkatu,21,1062
+Rautatieläisenkatu,22,786
+Rautatieläisenkatu,23,468
+Rautatientori / itä,0,2730
+Rautatientori / itä,1,2055
+Rautatientori / itä,2,1633
+Rautatientori / itä,3,1057
+Rautatientori / itä,4,687
+Rautatientori / itä,5,427
+Rautatientori / itä,6,531
+Rautatientori / itä,7,2338
+Rautatientori / itä,8,4832
+Rautatientori / itä,9,5569
+Rautatientori / itä,10,2945
+Rautatientori / itä,11,2597
+Rautatientori / itä,12,3749
+Rautatientori / itä,13,4515
+Rautatientori / itä,14,5294
+Rautatientori / itä,15,6572
+Rautatientori / itä,16,9138
+Rautatientori / itä,17,11658
+Rautatientori / itä,18,10295
+Rautatientori / itä,19,8077
+Rautatientori / itä,20,6370
+Rautatientori / itä,21,4724
+Rautatientori / itä,22,3081
+Rautatientori / itä,23,2561
+Rautatientori / länsi,0,2726
+Rautatientori / länsi,1,1992
+Rautatientori / länsi,2,1462
+Rautatientori / länsi,3,881
+Rautatientori / länsi,4,594
+Rautatientori / länsi,5,487
+Rautatientori / länsi,6,646
+Rautatientori / länsi,7,2160
+Rautatientori / länsi,8,4769
+Rautatientori / länsi,9,5482
+Rautatientori / länsi,10,3601
+Rautatientori / länsi,11,3220
+Rautatientori / länsi,12,4732
+Rautatientori / länsi,13,5680
+Rautatientori / länsi,14,6362
+Rautatientori / länsi,15,7493
+Rautatientori / länsi,16,9867
+Rautatientori / länsi,17,12762
+Rautatientori / länsi,18,11668
+Rautatientori / länsi,19,9465
+Rautatientori / länsi,20,7396
+Rautatientori / länsi,21,5022
+Rautatientori / länsi,22,3561
+Rautatientori / länsi,23,2870
+Reiherintie,0,40
+Reiherintie,1,21
+Reiherintie,2,26
+Reiherintie,3,27
+Reiherintie,4,10
+Reiherintie,5,28
+Reiherintie,6,46
+Reiherintie,7,34
+Reiherintie,8,57
+Reiherintie,9,82
+Reiherintie,10,84
+Reiherintie,11,106
+Reiherintie,12,139
+Reiherintie,13,165
+Reiherintie,14,238
+Reiherintie,15,238
+Reiherintie,16,229
+Reiherintie,17,263
+Reiherintie,18,260
+Reiherintie,19,256
+Reiherintie,20,238
+Reiherintie,21,159
+Reiherintie,22,97
+Reiherintie,23,64
+Relanderinaukio,0,128
+Relanderinaukio,1,85
+Relanderinaukio,2,65
+Relanderinaukio,3,69
+Relanderinaukio,4,32
+Relanderinaukio,5,23
+Relanderinaukio,6,37
+Relanderinaukio,7,52
+Relanderinaukio,8,204
+Relanderinaukio,9,243
+Relanderinaukio,10,215
+Relanderinaukio,11,227
+Relanderinaukio,12,330
+Relanderinaukio,13,394
+Relanderinaukio,14,414
+Relanderinaukio,15,439
+Relanderinaukio,16,462
+Relanderinaukio,17,507
+Relanderinaukio,18,533
+Relanderinaukio,19,531
+Relanderinaukio,20,501
+Relanderinaukio,21,417
+Relanderinaukio,22,230
+Relanderinaukio,23,167
+Revontulentie,0,139
+Revontulentie,1,105
+Revontulentie,2,67
+Revontulentie,3,89
+Revontulentie,4,124
+Revontulentie,5,18
+Revontulentie,6,14
+Revontulentie,7,72
+Revontulentie,8,288
+Revontulentie,9,254
+Revontulentie,10,205
+Revontulentie,11,306
+Revontulentie,12,399
+Revontulentie,13,374
+Revontulentie,14,480
+Revontulentie,15,728
+Revontulentie,16,1417
+Revontulentie,17,1393
+Revontulentie,18,883
+Revontulentie,19,538
+Revontulentie,20,414
+Revontulentie,21,333
+Revontulentie,22,262
+Revontulentie,23,184
+Ritarikatu,0,572
+Ritarikatu,1,396
+Ritarikatu,2,349
+Ritarikatu,3,269
+Ritarikatu,4,219
+Ritarikatu,5,119
+Ritarikatu,6,248
+Ritarikatu,7,956
+Ritarikatu,8,2892
+Ritarikatu,9,3257
+Ritarikatu,10,1776
+Ritarikatu,11,1592
+Ritarikatu,12,1655
+Ritarikatu,13,1607
+Ritarikatu,14,1635
+Ritarikatu,15,2058
+Ritarikatu,16,3006
+Ritarikatu,17,3120
+Ritarikatu,18,2429
+Ritarikatu,19,1876
+Ritarikatu,20,1563
+Ritarikatu,21,1222
+Ritarikatu,22,940
+Ritarikatu,23,774
+Roihupelto,0,103
+Roihupelto,1,76
+Roihupelto,2,73
+Roihupelto,3,43
+Roihupelto,4,32
+Roihupelto,5,16
+Roihupelto,6,21
+Roihupelto,7,57
+Roihupelto,8,148
+Roihupelto,9,152
+Roihupelto,10,122
+Roihupelto,11,185
+Roihupelto,12,241
+Roihupelto,13,266
+Roihupelto,14,367
+Roihupelto,15,614
+Roihupelto,16,1028
+Roihupelto,17,1001
+Roihupelto,18,641
+Roihupelto,19,518
+Roihupelto,20,387
+Roihupelto,21,308
+Roihupelto,22,192
+Roihupelto,23,108
+Rummunlyöjänkatu,0,108
+Rummunlyöjänkatu,1,60
+Rummunlyöjänkatu,2,32
+Rummunlyöjänkatu,3,23
+Rummunlyöjänkatu,4,22
+Rummunlyöjänkatu,5,15
+Rummunlyöjänkatu,6,30
+Rummunlyöjänkatu,7,222
+Rummunlyöjänkatu,8,524
+Rummunlyöjänkatu,9,361
+Rummunlyöjänkatu,10,246
+Rummunlyöjänkatu,11,260
+Rummunlyöjänkatu,12,356
+Rummunlyöjänkatu,13,310
+Rummunlyöjänkatu,14,360
+Rummunlyöjänkatu,15,304
+Rummunlyöjänkatu,16,427
+Rummunlyöjänkatu,17,430
+Rummunlyöjänkatu,18,516
+Rummunlyöjänkatu,19,465
+Rummunlyöjänkatu,20,450
+Rummunlyöjänkatu,21,342
+Rummunlyöjänkatu,22,190
+Rummunlyöjänkatu,23,168
+Ruomelantie,0,55
+Ruomelantie,1,51
+Ruomelantie,2,28
+Ruomelantie,3,22
+Ruomelantie,4,12
+Ruomelantie,5,27
+Ruomelantie,6,72
+Ruomelantie,7,233
+Ruomelantie,8,450
+Ruomelantie,9,261
+Ruomelantie,10,195
+Ruomelantie,11,251
+Ruomelantie,12,309
+Ruomelantie,13,308
+Ruomelantie,14,298
+Ruomelantie,15,355
+Ruomelantie,16,433
+Ruomelantie,17,415
+Ruomelantie,18,413
+Ruomelantie,19,444
+Ruomelantie,20,369
+Ruomelantie,21,245
+Ruomelantie,22,189
+Ruomelantie,23,100
+Ruskeasuon varikko,0,120
+Ruskeasuon varikko,1,75
+Ruskeasuon varikko,2,75
+Ruskeasuon varikko,3,50
+Ruskeasuon varikko,4,31
+Ruskeasuon varikko,5,47
+Ruskeasuon varikko,6,53
+Ruskeasuon varikko,7,156
+Ruskeasuon varikko,8,319
+Ruskeasuon varikko,9,266
+Ruskeasuon varikko,10,249
+Ruskeasuon varikko,11,286
+Ruskeasuon varikko,12,319
+Ruskeasuon varikko,13,388
+Ruskeasuon varikko,14,415
+Ruskeasuon varikko,15,527
+Ruskeasuon varikko,16,708
+Ruskeasuon varikko,17,609
+Ruskeasuon varikko,18,456
+Ruskeasuon varikko,19,399
+Ruskeasuon varikko,20,404
+Ruskeasuon varikko,21,316
+Ruskeasuon varikko,22,252
+Ruskeasuon varikko,23,156
+Ruutikatu,0,22
+Ruutikatu,1,19
+Ruutikatu,2,10
+Ruutikatu,3,2
+Ruutikatu,4,5
+Ruutikatu,5,1
+Ruutikatu,6,17
+Ruutikatu,7,153
+Ruutikatu,8,219
+Ruutikatu,9,96
+Ruutikatu,10,51
+Ruutikatu,11,73
+Ruutikatu,12,89
+Ruutikatu,13,81
+Ruutikatu,14,68
+Ruutikatu,15,74
+Ruutikatu,16,117
+Ruutikatu,17,161
+Ruutikatu,18,161
+Ruutikatu,19,182
+Ruutikatu,20,139
+Ruutikatu,21,131
+Ruutikatu,22,55
+Ruutikatu,23,18
+Salmisaarenranta,0,57
+Salmisaarenranta,1,34
+Salmisaarenranta,2,23
+Salmisaarenranta,3,14
+Salmisaarenranta,4,13
+Salmisaarenranta,5,13
+Salmisaarenranta,6,23
+Salmisaarenranta,7,56
+Salmisaarenranta,8,708
+Salmisaarenranta,9,1001
+Salmisaarenranta,10,514
+Salmisaarenranta,11,1288
+Salmisaarenranta,12,2378
+Salmisaarenranta,13,1961
+Salmisaarenranta,14,2757
+Salmisaarenranta,15,3881
+Salmisaarenranta,16,7937
+Salmisaarenranta,17,7336
+Salmisaarenranta,18,4360
+Salmisaarenranta,19,3206
+Salmisaarenranta,20,2251
+Salmisaarenranta,21,1411
+Salmisaarenranta,22,650
+Salmisaarenranta,23,158
+Sammonpuistikko,0,1185
+Sammonpuistikko,1,704
+Sammonpuistikko,2,524
+Sammonpuistikko,3,298
+Sammonpuistikko,4,276
+Sammonpuistikko,5,231
+Sammonpuistikko,6,657
+Sammonpuistikko,7,1268
+Sammonpuistikko,8,1902
+Sammonpuistikko,9,1457
+Sammonpuistikko,10,1234
+Sammonpuistikko,11,1363
+Sammonpuistikko,12,1625
+Sammonpuistikko,13,1825
+Sammonpuistikko,14,1999
+Sammonpuistikko,15,2294
+Sammonpuistikko,16,2906
+Sammonpuistikko,17,3837
+Sammonpuistikko,18,4053
+Sammonpuistikko,19,3429
+Sammonpuistikko,20,2735
+Sammonpuistikko,21,2477
+Sammonpuistikko,22,1801
+Sammonpuistikko,23,1335
+Sateentie,0,252
+Sateentie,1,208
+Sateentie,2,178
+Sateentie,3,98
+Sateentie,4,82
+Sateentie,5,46
+Sateentie,6,47
+Sateentie,7,283
+Sateentie,8,762
+Sateentie,9,670
+Sateentie,10,333
+Sateentie,11,315
+Sateentie,12,382
+Sateentie,13,467
+Sateentie,14,500
+Sateentie,15,461
+Sateentie,16,615
+Sateentie,17,687
+Sateentie,18,775
+Sateentie,19,709
+Sateentie,20,671
+Sateentie,21,470
+Sateentie,22,289
+Sateentie,23,162
+Saunalahdentie,0,212
+Saunalahdentie,1,133
+Saunalahdentie,2,91
+Saunalahdentie,3,99
+Saunalahdentie,4,59
+Saunalahdentie,5,41
+Saunalahdentie,6,65
+Saunalahdentie,7,198
+Saunalahdentie,8,315
+Saunalahdentie,9,394
+Saunalahdentie,10,327
+Saunalahdentie,11,403
+Saunalahdentie,12,513
+Saunalahdentie,13,641
+Saunalahdentie,14,723
+Saunalahdentie,15,843
+Saunalahdentie,16,997
+Saunalahdentie,17,1076
+Saunalahdentie,18,1079
+Saunalahdentie,19,985
+Saunalahdentie,20,782
+Saunalahdentie,21,730
+Saunalahdentie,22,498
+Saunalahdentie,23,298
+Senaatintori,0,644
+Senaatintori,1,495
+Senaatintori,2,360
+Senaatintori,3,231
+Senaatintori,4,161
+Senaatintori,5,62
+Senaatintori,6,65
+Senaatintori,7,157
+Senaatintori,8,461
+Senaatintori,9,648
+Senaatintori,10,772
+Senaatintori,11,1045
+Senaatintori,12,1419
+Senaatintori,13,1752
+Senaatintori,14,1986
+Senaatintori,15,2809
+Senaatintori,16,3761
+Senaatintori,17,3984
+Senaatintori,18,3161
+Senaatintori,19,2479
+Senaatintori,20,2061
+Senaatintori,21,1606
+Senaatintori,22,1332
+Senaatintori,23,960
+Sepetlahdentie,0,85
+Sepetlahdentie,1,40
+Sepetlahdentie,2,32
+Sepetlahdentie,3,21
+Sepetlahdentie,4,8
+Sepetlahdentie,5,67
+Sepetlahdentie,6,315
+Sepetlahdentie,7,942
+Sepetlahdentie,8,974
+Sepetlahdentie,9,511
+Sepetlahdentie,10,382
+Sepetlahdentie,11,384
+Sepetlahdentie,12,420
+Sepetlahdentie,13,473
+Sepetlahdentie,14,436
+Sepetlahdentie,15,474
+Sepetlahdentie,16,555
+Sepetlahdentie,17,625
+Sepetlahdentie,18,591
+Sepetlahdentie,19,548
+Sepetlahdentie,20,445
+Sepetlahdentie,21,382
+Sepetlahdentie,22,213
+Sepetlahdentie,23,121
+Sepänkatu,0,1122
+Sepänkatu,1,756
+Sepänkatu,2,512
+Sepänkatu,3,229
+Sepänkatu,4,139
+Sepänkatu,5,259
+Sepänkatu,6,643
+Sepänkatu,7,2304
+Sepänkatu,8,5343
+Sepänkatu,9,6272
+Sepänkatu,10,3773
+Sepänkatu,11,2866
+Sepänkatu,12,3428
+Sepänkatu,13,3295
+Sepänkatu,14,3178
+Sepänkatu,15,3804
+Sepänkatu,16,5462
+Sepänkatu,17,6484
+Sepänkatu,18,5473
+Sepänkatu,19,4411
+Sepänkatu,20,3610
+Sepänkatu,21,2889
+Sepänkatu,22,1913
+Sepänkatu,23,1634
+Seurasaari,0,193
+Seurasaari,1,136
+Seurasaari,2,41
+Seurasaari,3,39
+Seurasaari,4,24
+Seurasaari,5,13
+Seurasaari,6,17
+Seurasaari,7,32
+Seurasaari,8,104
+Seurasaari,9,184
+Seurasaari,10,265
+Seurasaari,11,558
+Seurasaari,12,958
+Seurasaari,13,1582
+Seurasaari,14,1974
+Seurasaari,15,2314
+Seurasaari,16,2602
+Seurasaari,17,3189
+Seurasaari,18,2877
+Seurasaari,19,2753
+Seurasaari,20,2832
+Seurasaari,21,2253
+Seurasaari,22,1144
+Seurasaari,23,525
+Siilitie (M),0,237
+Siilitie (M),1,104
+Siilitie (M),2,71
+Siilitie (M),3,50
+Siilitie (M),4,28
+Siilitie (M),5,19
+Siilitie (M),6,226
+Siilitie (M),7,408
+Siilitie (M),8,769
+Siilitie (M),9,646
+Siilitie (M),10,385
+Siilitie (M),11,339
+Siilitie (M),12,471
+Siilitie (M),13,558
+Siilitie (M),14,641
+Siilitie (M),15,751
+Siilitie (M),16,1052
+Siilitie (M),17,1272
+Siilitie (M),18,1079
+Siilitie (M),19,990
+Siilitie (M),20,843
+Siilitie (M),21,764
+Siilitie (M),22,646
+Siilitie (M),23,454
+Siilitie 13,0,37
+Siilitie 13,1,23
+Siilitie 13,2,18
+Siilitie 13,3,21
+Siilitie 13,4,5
+Siilitie 13,5,20
+Siilitie 13,6,29
+Siilitie 13,7,51
+Siilitie 13,8,113
+Siilitie 13,9,106
+Siilitie 13,10,99
+Siilitie 13,11,112
+Siilitie 13,12,118
+Siilitie 13,13,137
+Siilitie 13,14,117
+Siilitie 13,15,182
+Siilitie 13,16,160
+Siilitie 13,17,184
+Siilitie 13,18,189
+Siilitie 13,19,156
+Siilitie 13,20,149
+Siilitie 13,21,104
+Siilitie 13,22,90
+Siilitie 13,23,58
+Siilitie 9,0,54
+Siilitie 9,1,35
+Siilitie 9,2,16
+Siilitie 9,3,24
+Siilitie 9,4,20
+Siilitie 9,5,24
+Siilitie 9,6,20
+Siilitie 9,7,110
+Siilitie 9,8,88
+Siilitie 9,9,129
+Siilitie 9,10,131
+Siilitie 9,11,149
+Siilitie 9,12,175
+Siilitie 9,13,225
+Siilitie 9,14,217
+Siilitie 9,15,284
+Siilitie 9,16,296
+Siilitie 9,17,389
+Siilitie 9,18,319
+Siilitie 9,19,326
+Siilitie 9,20,288
+Siilitie 9,21,211
+Siilitie 9,22,160
+Siilitie 9,23,67
+Siltavoudintie,0,49
+Siltavoudintie,1,31
+Siltavoudintie,2,15
+Siltavoudintie,3,22
+Siltavoudintie,4,28
+Siltavoudintie,5,7
+Siltavoudintie,6,19
+Siltavoudintie,7,15
+Siltavoudintie,8,69
+Siltavoudintie,9,83
+Siltavoudintie,10,39
+Siltavoudintie,11,67
+Siltavoudintie,12,106
+Siltavoudintie,13,168
+Siltavoudintie,14,231
+Siltavoudintie,15,229
+Siltavoudintie,16,238
+Siltavoudintie,17,227
+Siltavoudintie,18,206
+Siltavoudintie,19,203
+Siltavoudintie,20,197
+Siltavoudintie,21,186
+Siltavoudintie,22,103
+Siltavoudintie,23,57
+Sofianlehdonkatu,0,201
+Sofianlehdonkatu,1,94
+Sofianlehdonkatu,2,73
+Sofianlehdonkatu,3,36
+Sofianlehdonkatu,4,24
+Sofianlehdonkatu,5,49
+Sofianlehdonkatu,6,162
+Sofianlehdonkatu,7,470
+Sofianlehdonkatu,8,1020
+Sofianlehdonkatu,9,776
+Sofianlehdonkatu,10,490
+Sofianlehdonkatu,11,500
+Sofianlehdonkatu,12,617
+Sofianlehdonkatu,13,679
+Sofianlehdonkatu,14,689
+Sofianlehdonkatu,15,853
+Sofianlehdonkatu,16,1114
+Sofianlehdonkatu,17,1163
+Sofianlehdonkatu,18,1081
+Sofianlehdonkatu,19,917
+Sofianlehdonkatu,20,901
+Sofianlehdonkatu,21,737
+Sofianlehdonkatu,22,474
+Sofianlehdonkatu,23,321
+Stenbäckinkatu,0,207
+Stenbäckinkatu,1,153
+Stenbäckinkatu,2,114
+Stenbäckinkatu,3,70
+Stenbäckinkatu,4,49
+Stenbäckinkatu,5,28
+Stenbäckinkatu,6,82
+Stenbäckinkatu,7,501
+Stenbäckinkatu,8,2025
+Stenbäckinkatu,9,2373
+Stenbäckinkatu,10,1414
+Stenbäckinkatu,11,1234
+Stenbäckinkatu,12,1307
+Stenbäckinkatu,13,1166
+Stenbäckinkatu,14,1473
+Stenbäckinkatu,15,2249
+Stenbäckinkatu,16,1890
+Stenbäckinkatu,17,1560
+Stenbäckinkatu,18,1405
+Stenbäckinkatu,19,1103
+Stenbäckinkatu,20,1143
+Stenbäckinkatu,21,1169
+Stenbäckinkatu,22,707
+Stenbäckinkatu,23,294
+Suomenlahdentie,0,782
+Suomenlahdentie,1,223
+Suomenlahdentie,2,156
+Suomenlahdentie,3,70
+Suomenlahdentie,4,54
+Suomenlahdentie,5,35
+Suomenlahdentie,6,179
+Suomenlahdentie,7,325
+Suomenlahdentie,8,917
+Suomenlahdentie,9,809
+Suomenlahdentie,10,732
+Suomenlahdentie,11,919
+Suomenlahdentie,12,1324
+Suomenlahdentie,13,1747
+Suomenlahdentie,14,2307
+Suomenlahdentie,15,3079
+Suomenlahdentie,16,4465
+Suomenlahdentie,17,6146
+Suomenlahdentie,18,5564
+Suomenlahdentie,19,4264
+Suomenlahdentie,20,3557
+Suomenlahdentie,21,3094
+Suomenlahdentie,22,2159
+Suomenlahdentie,23,1666
+Suurpellonaukio,0,79
+Suurpellonaukio,1,40
+Suurpellonaukio,2,21
+Suurpellonaukio,3,23
+Suurpellonaukio,4,11
+Suurpellonaukio,5,8
+Suurpellonaukio,6,104
+Suurpellonaukio,7,275
+Suurpellonaukio,8,369
+Suurpellonaukio,9,247
+Suurpellonaukio,10,144
+Suurpellonaukio,11,162
+Suurpellonaukio,12,206
+Suurpellonaukio,13,276
+Suurpellonaukio,14,276
+Suurpellonaukio,15,292
+Suurpellonaukio,16,324
+Suurpellonaukio,17,321
+Suurpellonaukio,18,351
+Suurpellonaukio,19,324
+Suurpellonaukio,20,254
+Suurpellonaukio,21,209
+Suurpellonaukio,22,163
+Suurpellonaukio,23,85
+Sähkömies,0,42
+Sähkömies,1,19
+Sähkömies,2,13
+Sähkömies,3,23
+Sähkömies,4,11
+Sähkömies,5,11
+Sähkömies,6,12
+Sähkömies,7,45
+Sähkömies,8,353
+Sähkömies,9,713
+Sähkömies,10,617
+Sähkömies,11,534
+Sähkömies,12,895
+Sähkömies,13,828
+Sähkömies,14,672
+Sähkömies,15,614
+Sähkömies,16,997
+Sähkömies,17,837
+Sähkömies,18,556
+Sähkömies,19,339
+Sähkömies,20,243
+Sähkömies,21,183
+Sähkömies,22,114
+Sähkömies,23,82
+Säteri,0,33
+Säteri,1,32
+Säteri,2,16
+Säteri,3,8
+Säteri,4,10
+Säteri,5,5
+Säteri,6,18
+Säteri,7,59
+Säteri,8,294
+Säteri,9,165
+Säteri,10,157
+Säteri,11,308
+Säteri,12,408
+Säteri,13,306
+Säteri,14,279
+Säteri,15,490
+Säteri,16,1000
+Säteri,17,768
+Säteri,18,392
+Säteri,19,237
+Säteri,20,218
+Säteri,21,119
+Säteri,22,74
+Säteri,23,50
+Säterinniitty,0,61
+Säterinniitty,1,25
+Säterinniitty,2,21
+Säterinniitty,3,49
+Säterinniitty,4,92
+Säterinniitty,5,39
+Säterinniitty,6,69
+Säterinniitty,7,102
+Säterinniitty,8,392
+Säterinniitty,9,299
+Säterinniitty,10,137
+Säterinniitty,11,137
+Säterinniitty,12,193
+Säterinniitty,13,177
+Säterinniitty,14,207
+Säterinniitty,15,193
+Säterinniitty,16,239
+Säterinniitty,17,302
+Säterinniitty,18,310
+Säterinniitty,19,326
+Säterinniitty,20,294
+Säterinniitty,21,244
+Säterinniitty,22,266
+Säterinniitty,23,108
+Säterinrinne,0,32
+Säterinrinne,1,14
+Säterinrinne,2,3
+Säterinrinne,3,8
+Säterinrinne,4,7
+Säterinrinne,5,4
+Säterinrinne,6,69
+Säterinrinne,7,228
+Säterinrinne,8,445
+Säterinrinne,9,177
+Säterinrinne,10,109
+Säterinrinne,11,88
+Säterinrinne,12,110
+Säterinrinne,13,134
+Säterinrinne,14,120
+Säterinrinne,15,128
+Säterinrinne,16,161
+Säterinrinne,17,186
+Säterinrinne,18,185
+Säterinrinne,19,150
+Säterinrinne,20,178
+Säterinrinne,21,112
+Säterinrinne,22,80
+Säterinrinne,23,57
+Sörnäinen (M),0,2934
+Sörnäinen (M),1,1992
+Sörnäinen (M),2,1524
+Sörnäinen (M),3,764
+Sörnäinen (M),4,551
+Sörnäinen (M),5,383
+Sörnäinen (M),6,654
+Sörnäinen (M),7,2147
+Sörnäinen (M),8,3554
+Sörnäinen (M),9,3360
+Sörnäinen (M),10,2363
+Sörnäinen (M),11,2262
+Sörnäinen (M),12,3045
+Sörnäinen (M),13,3364
+Sörnäinen (M),14,3931
+Sörnäinen (M),15,5174
+Sörnäinen (M),16,7420
+Sörnäinen (M),17,8934
+Sörnäinen (M),18,8315
+Sörnäinen (M),19,7680
+Sörnäinen (M),20,6906
+Sörnäinen (M),21,6259
+Sörnäinen (M),22,4964
+Sörnäinen (M),23,3923
+Takomotie,0,153
+Takomotie,1,91
+Takomotie,2,51
+Takomotie,3,35
+Takomotie,4,19
+Takomotie,5,15
+Takomotie,6,103
+Takomotie,7,193
+Takomotie,8,351
+Takomotie,9,342
+Takomotie,10,248
+Takomotie,11,292
+Takomotie,12,473
+Takomotie,13,572
+Takomotie,14,554
+Takomotie,15,706
+Takomotie,16,857
+Takomotie,17,901
+Takomotie,18,908
+Takomotie,19,799
+Takomotie,20,654
+Takomotie,21,516
+Takomotie,22,415
+Takomotie,23,244
+Tammisalon aukio,0,99
+Tammisalon aukio,1,68
+Tammisalon aukio,2,34
+Tammisalon aukio,3,16
+Tammisalon aukio,4,16
+Tammisalon aukio,5,10
+Tammisalon aukio,6,22
+Tammisalon aukio,7,117
+Tammisalon aukio,8,214
+Tammisalon aukio,9,265
+Tammisalon aukio,10,172
+Tammisalon aukio,11,193
+Tammisalon aukio,12,189
+Tammisalon aukio,13,230
+Tammisalon aukio,14,226
+Tammisalon aukio,15,243
+Tammisalon aukio,16,290
+Tammisalon aukio,17,336
+Tammisalon aukio,18,313
+Tammisalon aukio,19,312
+Tammisalon aukio,20,295
+Tammisalon aukio,21,255
+Tammisalon aukio,22,160
+Tammisalon aukio,23,117
+Tapiolan urheilupuisto,0,108
+Tapiolan urheilupuisto,1,38
+Tapiolan urheilupuisto,2,11
+Tapiolan urheilupuisto,3,3
+Tapiolan urheilupuisto,4,6
+Tapiolan urheilupuisto,5,7
+Tapiolan urheilupuisto,6,9
+Tapiolan urheilupuisto,7,57
+Tapiolan urheilupuisto,8,129
+Tapiolan urheilupuisto,9,184
+Tapiolan urheilupuisto,10,158
+Tapiolan urheilupuisto,11,213
+Tapiolan urheilupuisto,12,294
+Tapiolan urheilupuisto,13,402
+Tapiolan urheilupuisto,14,412
+Tapiolan urheilupuisto,15,450
+Tapiolan urheilupuisto,16,506
+Tapiolan urheilupuisto,17,567
+Tapiolan urheilupuisto,18,736
+Tapiolan urheilupuisto,19,873
+Tapiolan urheilupuisto,20,762
+Tapiolan urheilupuisto,21,695
+Tapiolan urheilupuisto,22,485
+Tapiolan urheilupuisto,23,149
+Tapionaukio,0,169
+Tapionaukio,1,85
+Tapionaukio,2,41
+Tapionaukio,3,29
+Tapionaukio,4,23
+Tapionaukio,5,11
+Tapionaukio,6,9
+Tapionaukio,7,105
+Tapionaukio,8,330
+Tapionaukio,9,559
+Tapionaukio,10,394
+Tapionaukio,11,588
+Tapionaukio,12,1055
+Tapionaukio,13,1266
+Tapionaukio,14,1244
+Tapionaukio,15,1430
+Tapionaukio,16,1741
+Tapionaukio,17,2162
+Tapionaukio,18,2366
+Tapionaukio,19,1963
+Tapionaukio,20,1719
+Tapionaukio,21,1197
+Tapionaukio,22,484
+Tapionaukio,23,237
+Tekniikantie,0,92
+Tekniikantie,1,41
+Tekniikantie,2,48
+Tekniikantie,3,35
+Tekniikantie,4,16
+Tekniikantie,5,12
+Tekniikantie,6,17
+Tekniikantie,7,32
+Tekniikantie,8,99
+Tekniikantie,9,291
+Tekniikantie,10,262
+Tekniikantie,11,524
+Tekniikantie,12,787
+Tekniikantie,13,784
+Tekniikantie,14,540
+Tekniikantie,15,858
+Tekniikantie,16,839
+Tekniikantie,17,891
+Tekniikantie,18,529
+Tekniikantie,19,423
+Tekniikantie,20,288
+Tekniikantie,21,227
+Tekniikantie,22,152
+Tekniikantie,23,98
+Teljäntie,0,173
+Teljäntie,1,102
+Teljäntie,2,45
+Teljäntie,3,20
+Teljäntie,4,17
+Teljäntie,5,54
+Teljäntie,6,130
+Teljäntie,7,316
+Teljäntie,8,888
+Teljäntie,9,727
+Teljäntie,10,408
+Teljäntie,11,405
+Teljäntie,12,495
+Teljäntie,13,588
+Teljäntie,14,562
+Teljäntie,15,652
+Teljäntie,16,667
+Teljäntie,17,884
+Teljäntie,18,842
+Teljäntie,19,758
+Teljäntie,20,649
+Teljäntie,21,603
+Teljäntie,22,364
+Teljäntie,23,235
+Tenholantie,0,193
+Tenholantie,1,117
+Tenholantie,2,57
+Tenholantie,3,39
+Tenholantie,4,35
+Tenholantie,5,63
+Tenholantie,6,314
+Tenholantie,7,1513
+Tenholantie,8,3128
+Tenholantie,9,1630
+Tenholantie,10,997
+Tenholantie,11,855
+Tenholantie,12,1183
+Tenholantie,13,1163
+Tenholantie,14,1172
+Tenholantie,15,1400
+Tenholantie,16,2059
+Tenholantie,17,1947
+Tenholantie,18,1885
+Tenholantie,19,1596
+Tenholantie,20,1230
+Tenholantie,21,1002
+Tenholantie,22,527
+Tenholantie,23,297
+Teollisuuskatu,0,199
+Teollisuuskatu,1,129
+Teollisuuskatu,2,127
+Teollisuuskatu,3,105
+Teollisuuskatu,4,72
+Teollisuuskatu,5,68
+Teollisuuskatu,6,93
+Teollisuuskatu,7,308
+Teollisuuskatu,8,1122
+Teollisuuskatu,9,2130
+Teollisuuskatu,10,1154
+Teollisuuskatu,11,1280
+Teollisuuskatu,12,1418
+Teollisuuskatu,13,1282
+Teollisuuskatu,14,1319
+Teollisuuskatu,15,2511
+Teollisuuskatu,16,2278
+Teollisuuskatu,17,1436
+Teollisuuskatu,18,1012
+Teollisuuskatu,19,753
+Teollisuuskatu,20,608
+Teollisuuskatu,21,532
+Teollisuuskatu,22,504
+Teollisuuskatu,23,359
+Teurastamo,0,706
+Teurastamo,1,518
+Teurastamo,2,355
+Teurastamo,3,153
+Teurastamo,4,74
+Teurastamo,5,72
+Teurastamo,6,169
+Teurastamo,7,348
+Teurastamo,8,1032
+Teurastamo,9,1366
+Teurastamo,10,1040
+Teurastamo,11,1212
+Teurastamo,12,2436
+Teurastamo,13,2858
+Teurastamo,14,2780
+Teurastamo,15,3185
+Teurastamo,16,5001
+Teurastamo,17,4702
+Teurastamo,18,3308
+Teurastamo,19,2467
+Teurastamo,20,2187
+Teurastamo,21,1984
+Teurastamo,22,1570
+Teurastamo,23,949
+Thalianaukio,0,53
+Thalianaukio,1,57
+Thalianaukio,2,28
+Thalianaukio,3,28
+Thalianaukio,4,16
+Thalianaukio,5,73
+Thalianaukio,6,109
+Thalianaukio,7,299
+Thalianaukio,8,405
+Thalianaukio,9,321
+Thalianaukio,10,169
+Thalianaukio,11,236
+Thalianaukio,12,269
+Thalianaukio,13,300
+Thalianaukio,14,351
+Thalianaukio,15,451
+Thalianaukio,16,459
+Thalianaukio,17,441
+Thalianaukio,18,504
+Thalianaukio,19,446
+Thalianaukio,20,411
+Thalianaukio,21,283
+Thalianaukio,22,178
+Thalianaukio,23,118
+Tietäjä,0,95
+Tietäjä,1,63
+Tietäjä,2,56
+Tietäjä,3,35
+Tietäjä,4,18
+Tietäjä,5,10
+Tietäjä,6,36
+Tietäjä,7,151
+Tietäjä,8,421
+Tietäjä,9,361
+Tietäjä,10,254
+Tietäjä,11,271
+Tietäjä,12,284
+Tietäjä,13,345
+Tietäjä,14,381
+Tietäjä,15,521
+Tietäjä,16,829
+Tietäjä,17,811
+Tietäjä,18,544
+Tietäjä,19,387
+Tietäjä,20,304
+Tietäjä,21,247
+Tietäjä,22,144
+Tietäjä,23,104
+Tiistiläntie,0,110
+Tiistiläntie,1,58
+Tiistiläntie,2,22
+Tiistiläntie,3,14
+Tiistiläntie,4,16
+Tiistiläntie,5,23
+Tiistiläntie,6,60
+Tiistiläntie,7,200
+Tiistiläntie,8,405
+Tiistiläntie,9,217
+Tiistiläntie,10,189
+Tiistiläntie,11,202
+Tiistiläntie,12,228
+Tiistiläntie,13,241
+Tiistiläntie,14,255
+Tiistiläntie,15,280
+Tiistiläntie,16,335
+Tiistiläntie,17,350
+Tiistiläntie,18,330
+Tiistiläntie,19,387
+Tiistiläntie,20,320
+Tiistiläntie,21,252
+Tiistiläntie,22,192
+Tiistiläntie,23,167
+Tiistinkallio,0,78
+Tiistinkallio,1,35
+Tiistinkallio,2,26
+Tiistinkallio,3,15
+Tiistinkallio,4,9
+Tiistinkallio,5,41
+Tiistinkallio,6,109
+Tiistinkallio,7,164
+Tiistinkallio,8,344
+Tiistinkallio,9,308
+Tiistinkallio,10,230
+Tiistinkallio,11,280
+Tiistinkallio,12,321
+Tiistinkallio,13,377
+Tiistinkallio,14,417
+Tiistinkallio,15,377
+Tiistinkallio,16,454
+Tiistinkallio,17,479
+Tiistinkallio,18,505
+Tiistinkallio,19,550
+Tiistinkallio,20,417
+Tiistinkallio,21,309
+Tiistinkallio,22,216
+Tiistinkallio,23,150
+Tilkantori,0,269
+Tilkantori,1,141
+Tilkantori,2,97
+Tilkantori,3,48
+Tilkantori,4,64
+Tilkantori,5,90
+Tilkantori,6,202
+Tilkantori,7,524
+Tilkantori,8,1115
+Tilkantori,9,1104
+Tilkantori,10,647
+Tilkantori,11,715
+Tilkantori,12,937
+Tilkantori,13,987
+Tilkantori,14,1174
+Tilkantori,15,1339
+Tilkantori,16,1810
+Tilkantori,17,1867
+Tilkantori,18,1565
+Tilkantori,19,1496
+Tilkantori,20,1456
+Tilkantori,21,1084
+Tilkantori,22,716
+Tilkantori,23,427
+Tilkanvierto,0,497
+Tilkanvierto,1,376
+Tilkanvierto,2,207
+Tilkanvierto,3,142
+Tilkanvierto,4,84
+Tilkanvierto,5,110
+Tilkanvierto,6,484
+Tilkanvierto,7,1373
+Tilkanvierto,8,3562
+Tilkanvierto,9,2291
+Tilkanvierto,10,1810
+Tilkanvierto,11,1785
+Tilkanvierto,12,2051
+Tilkanvierto,13,2206
+Tilkanvierto,14,2366
+Tilkanvierto,15,2637
+Tilkanvierto,16,3760
+Tilkanvierto,17,4130
+Tilkanvierto,18,4077
+Tilkanvierto,19,3426
+Tilkanvierto,20,2752
+Tilkanvierto,21,2282
+Tilkanvierto,22,1035
+Tilkanvierto,23,615
+Toinen linja,0,599
+Toinen linja,1,339
+Toinen linja,2,286
+Toinen linja,3,130
+Toinen linja,4,120
+Toinen linja,5,206
+Toinen linja,6,693
+Toinen linja,7,1262
+Toinen linja,8,2119
+Toinen linja,9,1826
+Toinen linja,10,1130
+Toinen linja,11,1078
+Toinen linja,12,1311
+Toinen linja,13,1352
+Toinen linja,14,1368
+Toinen linja,15,1829
+Toinen linja,16,2475
+Toinen linja,17,2846
+Toinen linja,18,2673
+Toinen linja,19,2314
+Toinen linja,20,1855
+Toinen linja,21,1408
+Toinen linja,22,1157
+Toinen linja,23,699
+Tontunmäentie,0,51
+Tontunmäentie,1,38
+Tontunmäentie,2,36
+Tontunmäentie,3,21
+Tontunmäentie,4,10
+Tontunmäentie,5,9
+Tontunmäentie,6,100
+Tontunmäentie,7,321
+Tontunmäentie,8,880
+Tontunmäentie,9,516
+Tontunmäentie,10,231
+Tontunmäentie,11,226
+Tontunmäentie,12,266
+Tontunmäentie,13,267
+Tontunmäentie,14,279
+Tontunmäentie,15,344
+Tontunmäentie,16,375
+Tontunmäentie,17,466
+Tontunmäentie,18,442
+Tontunmäentie,19,420
+Tontunmäentie,20,322
+Tontunmäentie,21,276
+Tontunmäentie,22,144
+Tontunmäentie,23,92
+Toppelundinportti,0,57
+Toppelundinportti,1,61
+Toppelundinportti,2,35
+Toppelundinportti,3,22
+Toppelundinportti,4,13
+Toppelundinportti,5,38
+Toppelundinportti,6,64
+Toppelundinportti,7,190
+Toppelundinportti,8,454
+Toppelundinportti,9,219
+Toppelundinportti,10,167
+Toppelundinportti,11,202
+Toppelundinportti,12,261
+Toppelundinportti,13,257
+Toppelundinportti,14,220
+Toppelundinportti,15,336
+Toppelundinportti,16,372
+Toppelundinportti,17,434
+Toppelundinportti,18,410
+Toppelundinportti,19,392
+Toppelundinportti,20,390
+Toppelundinportti,21,293
+Toppelundinportti,22,125
+Toppelundinportti,23,86
+Toppelundintie,0,68
+Toppelundintie,1,36
+Toppelundintie,2,28
+Toppelundintie,3,19
+Toppelundintie,4,20
+Toppelundintie,5,11
+Toppelundintie,6,25
+Toppelundintie,7,60
+Toppelundintie,8,280
+Toppelundintie,9,196
+Toppelundintie,10,151
+Toppelundintie,11,138
+Toppelundintie,12,174
+Toppelundintie,13,224
+Toppelundintie,14,220
+Toppelundintie,15,264
+Toppelundintie,16,332
+Toppelundintie,17,361
+Toppelundintie,18,332
+Toppelundintie,19,372
+Toppelundintie,20,308
+Toppelundintie,21,206
+Toppelundintie,22,190
+Toppelundintie,23,101
+Torpanranta,0,232
+Torpanranta,1,105
+Torpanranta,2,83
+Torpanranta,3,60
+Torpanranta,4,15
+Torpanranta,5,13
+Torpanranta,6,15
+Torpanranta,7,42
+Torpanranta,8,188
+Torpanranta,9,152
+Torpanranta,10,160
+Torpanranta,11,275
+Torpanranta,12,473
+Torpanranta,13,647
+Torpanranta,14,871
+Torpanranta,15,1082
+Torpanranta,16,1179
+Torpanranta,17,1227
+Torpanranta,18,1390
+Torpanranta,19,1458
+Torpanranta,20,1422
+Torpanranta,21,1192
+Torpanranta,22,845
+Torpanranta,23,510
+Tulisuontie,0,74
+Tulisuontie,1,49
+Tulisuontie,2,37
+Tulisuontie,3,32
+Tulisuontie,4,38
+Tulisuontie,5,60
+Tulisuontie,6,44
+Tulisuontie,7,206
+Tulisuontie,8,367
+Tulisuontie,9,241
+Tulisuontie,10,231
+Tulisuontie,11,227
+Tulisuontie,12,282
+Tulisuontie,13,307
+Tulisuontie,14,303
+Tulisuontie,15,405
+Tulisuontie,16,460
+Tulisuontie,17,481
+Tulisuontie,18,483
+Tulisuontie,19,456
+Tulisuontie,20,402
+Tulisuontie,21,297
+Tulisuontie,22,206
+Tulisuontie,23,152
+Tunnelitie,0,101
+Tunnelitie,1,77
+Tunnelitie,2,37
+Tunnelitie,3,35
+Tunnelitie,4,26
+Tunnelitie,5,35
+Tunnelitie,6,28
+Tunnelitie,7,148
+Tunnelitie,8,515
+Tunnelitie,9,304
+Tunnelitie,10,271
+Tunnelitie,11,318
+Tunnelitie,12,452
+Tunnelitie,13,470
+Tunnelitie,14,524
+Tunnelitie,15,486
+Tunnelitie,16,630
+Tunnelitie,17,803
+Tunnelitie,18,709
+Tunnelitie,19,758
+Tunnelitie,20,681
+Tunnelitie,21,539
+Tunnelitie,22,303
+Tunnelitie,23,206
+Tupasaarentie,0,46
+Tupasaarentie,1,30
+Tupasaarentie,2,20
+Tupasaarentie,3,17
+Tupasaarentie,4,13
+Tupasaarentie,5,13
+Tupasaarentie,6,17
+Tupasaarentie,7,28
+Tupasaarentie,8,140
+Tupasaarentie,9,171
+Tupasaarentie,10,167
+Tupasaarentie,11,173
+Tupasaarentie,12,257
+Tupasaarentie,13,255
+Tupasaarentie,14,267
+Tupasaarentie,15,341
+Tupasaarentie,16,452
+Tupasaarentie,17,431
+Tupasaarentie,18,374
+Tupasaarentie,19,360
+Tupasaarentie,20,302
+Tupasaarentie,21,214
+Tupasaarentie,22,147
+Tupasaarentie,23,87
+Tuulimäki,0,47
+Tuulimäki,1,20
+Tuulimäki,2,19
+Tuulimäki,3,15
+Tuulimäki,4,7
+Tuulimäki,5,2
+Tuulimäki,7,54
+Tuulimäki,8,139
+Tuulimäki,9,172
+Tuulimäki,10,95
+Tuulimäki,11,68
+Tuulimäki,12,98
+Tuulimäki,13,129
+Tuulimäki,14,127
+Tuulimäki,15,137
+Tuulimäki,16,158
+Tuulimäki,17,194
+Tuulimäki,18,212
+Tuulimäki,19,205
+Tuulimäki,20,150
+Tuulimäki,21,151
+Tuulimäki,22,116
+Tuulimäki,23,59
+Tyynenmerenkatu,0,451
+Tyynenmerenkatu,1,401
+Tyynenmerenkatu,2,127
+Tyynenmerenkatu,3,79
+Tyynenmerenkatu,4,66
+Tyynenmerenkatu,5,172
+Tyynenmerenkatu,6,626
+Tyynenmerenkatu,7,1849
+Tyynenmerenkatu,8,4322
+Tyynenmerenkatu,9,5428
+Tyynenmerenkatu,10,2881
+Tyynenmerenkatu,11,2872
+Tyynenmerenkatu,12,3651
+Tyynenmerenkatu,13,4407
+Tyynenmerenkatu,14,4668
+Tyynenmerenkatu,15,5618
+Tyynenmerenkatu,16,6483
+Tyynenmerenkatu,17,7293
+Tyynenmerenkatu,18,6293
+Tyynenmerenkatu,19,5759
+Tyynenmerenkatu,20,4137
+Tyynenmerenkatu,21,4198
+Tyynenmerenkatu,22,1983
+Tyynenmerenkatu,23,814
+Töölönkatu,0,919
+Töölönkatu,1,624
+Töölönkatu,2,478
+Töölönkatu,3,436
+Töölönkatu,4,366
+Töölönkatu,5,269
+Töölönkatu,6,512
+Töölönkatu,7,1558
+Töölönkatu,8,3211
+Töölönkatu,9,3191
+Töölönkatu,10,2468
+Töölönkatu,11,2163
+Töölönkatu,12,2586
+Töölönkatu,13,2544
+Töölönkatu,14,2867
+Töölönkatu,15,3392
+Töölönkatu,16,4560
+Töölönkatu,17,5622
+Töölönkatu,18,5290
+Töölönkatu,19,4367
+Töölönkatu,20,3611
+Töölönkatu,21,3043
+Töölönkatu,22,2010
+Töölönkatu,23,1393
+Töölönlahden puisto,0,541
+Töölönlahden puisto,1,366
+Töölönlahden puisto,2,255
+Töölönlahden puisto,3,194
+Töölönlahden puisto,4,158
+Töölönlahden puisto,5,99
+Töölönlahden puisto,6,45
+Töölönlahden puisto,7,205
+Töölönlahden puisto,8,1429
+Töölönlahden puisto,9,2525
+Töölönlahden puisto,10,1762
+Töölönlahden puisto,11,1849
+Töölönlahden puisto,12,2425
+Töölönlahden puisto,13,2755
+Töölönlahden puisto,14,2965
+Töölönlahden puisto,15,3475
+Töölönlahden puisto,16,4454
+Töölönlahden puisto,17,5019
+Töölönlahden puisto,18,4614
+Töölönlahden puisto,19,3906
+Töölönlahden puisto,20,3200
+Töölönlahden puisto,21,2586
+Töölönlahden puisto,22,1654
+Töölönlahden puisto,23,987
+Töölönlahdenkatu,0,1577
+Töölönlahdenkatu,1,953
+Töölönlahdenkatu,2,717
+Töölönlahdenkatu,3,418
+Töölönlahdenkatu,4,392
+Töölönlahdenkatu,5,429
+Töölönlahdenkatu,6,1413
+Töölönlahdenkatu,7,6129
+Töölönlahdenkatu,8,13415
+Töölönlahdenkatu,9,11774
+Töölönlahdenkatu,10,5684
+Töölönlahdenkatu,11,4193
+Töölönlahdenkatu,12,5647
+Töölönlahdenkatu,13,6210
+Töölönlahdenkatu,14,7358
+Töölönlahdenkatu,15,9874
+Töölönlahdenkatu,16,17009
+Töölönlahdenkatu,17,21044
+Töölönlahdenkatu,18,15349
+Töölönlahdenkatu,19,11733
+Töölönlahdenkatu,20,9719
+Töölönlahdenkatu,21,6678
+Töölönlahdenkatu,22,4363
+Töölönlahdenkatu,23,2415
+Töölöntori,0,674
+Töölöntori,1,370
+Töölöntori,2,276
+Töölöntori,3,181
+Töölöntori,4,148
+Töölöntori,5,156
+Töölöntori,6,319
+Töölöntori,7,1232
+Töölöntori,8,3052
+Töölöntori,9,2298
+Töölöntori,10,1722
+Töölöntori,11,1988
+Töölöntori,12,2522
+Töölöntori,13,2678
+Töölöntori,14,2510
+Töölöntori,15,2732
+Töölöntori,16,3249
+Töölöntori,17,3516
+Töölöntori,18,3799
+Töölöntori,19,3087
+Töölöntori,20,2793
+Töölöntori,21,2235
+Töölöntori,22,1321
+Töölöntori,23,868
+Töölöntulli,0,946
+Töölöntulli,1,667
+Töölöntulli,2,440
+Töölöntulli,3,321
+Töölöntulli,4,257
+Töölöntulli,5,184
+Töölöntulli,6,291
+Töölöntulli,7,787
+Töölöntulli,8,2886
+Töölöntulli,9,2417
+Töölöntulli,10,1582
+Töölöntulli,11,1464
+Töölöntulli,12,1773
+Töölöntulli,13,1891
+Töölöntulli,14,2079
+Töölöntulli,15,2851
+Töölöntulli,16,3372
+Töölöntulli,17,3886
+Töölöntulli,18,3708
+Töölöntulli,19,3218
+Töölöntulli,20,2884
+Töölöntulli,21,2713
+Töölöntulli,22,1913
+Töölöntulli,23,1180
+Uimastadion,0,133
+Uimastadion,1,66
+Uimastadion,2,46
+Uimastadion,3,22
+Uimastadion,4,22
+Uimastadion,5,11
+Uimastadion,6,9
+Uimastadion,7,511
+Uimastadion,8,1245
+Uimastadion,9,1924
+Uimastadion,10,1292
+Uimastadion,11,1693
+Uimastadion,12,2174
+Uimastadion,13,2681
+Uimastadion,14,3151
+Uimastadion,15,3399
+Uimastadion,16,3492
+Uimastadion,17,3742
+Uimastadion,18,3933
+Uimastadion,19,3894
+Uimastadion,20,2734
+Uimastadion,21,1044
+Uimastadion,22,410
+Uimastadion,23,227
+Ulvilantie,0,165
+Ulvilantie,1,83
+Ulvilantie,2,53
+Ulvilantie,3,32
+Ulvilantie,4,35
+Ulvilantie,5,72
+Ulvilantie,6,168
+Ulvilantie,7,823
+Ulvilantie,8,925
+Ulvilantie,9,384
+Ulvilantie,10,270
+Ulvilantie,11,340
+Ulvilantie,12,429
+Ulvilantie,13,403
+Ulvilantie,14,430
+Ulvilantie,15,473
+Ulvilantie,16,666
+Ulvilantie,17,809
+Ulvilantie,18,922
+Ulvilantie,19,766
+Ulvilantie,20,635
+Ulvilantie,21,549
+Ulvilantie,22,334
+Ulvilantie,23,241
+Unioninkatu,0,1276
+Unioninkatu,1,763
+Unioninkatu,2,619
+Unioninkatu,3,374
+Unioninkatu,4,269
+Unioninkatu,5,141
+Unioninkatu,6,122
+Unioninkatu,7,278
+Unioninkatu,8,939
+Unioninkatu,9,1329
+Unioninkatu,10,1209
+Unioninkatu,11,1687
+Unioninkatu,12,2616
+Unioninkatu,13,3215
+Unioninkatu,14,3879
+Unioninkatu,15,4762
+Unioninkatu,16,7745
+Unioninkatu,17,9007
+Unioninkatu,18,6692
+Unioninkatu,19,5254
+Unioninkatu,20,4034
+Unioninkatu,21,3443
+Unioninkatu,22,2651
+Unioninkatu,23,1781
+Upseerinkatu,0,22
+Upseerinkatu,1,27
+Upseerinkatu,2,19
+Upseerinkatu,3,6
+Upseerinkatu,4,4
+Upseerinkatu,5,1
+Upseerinkatu,6,60
+Upseerinkatu,7,39
+Upseerinkatu,8,226
+Upseerinkatu,9,144
+Upseerinkatu,10,142
+Upseerinkatu,11,287
+Upseerinkatu,12,251
+Upseerinkatu,13,282
+Upseerinkatu,14,374
+Upseerinkatu,15,326
+Upseerinkatu,16,445
+Upseerinkatu,17,361
+Upseerinkatu,18,264
+Upseerinkatu,19,247
+Upseerinkatu,20,250
+Upseerinkatu,21,129
+Upseerinkatu,22,64
+Upseerinkatu,23,37
+Urheilupuisto (M),0,472
+Urheilupuisto (M),1,180
+Urheilupuisto (M),2,120
+Urheilupuisto (M),3,58
+Urheilupuisto (M),4,47
+Urheilupuisto (M),5,59
+Urheilupuisto (M),6,383
+Urheilupuisto (M),7,726
+Urheilupuisto (M),8,1861
+Urheilupuisto (M),9,1398
+Urheilupuisto (M),10,1135
+Urheilupuisto (M),11,1106
+Urheilupuisto (M),12,1190
+Urheilupuisto (M),13,1520
+Urheilupuisto (M),14,1748
+Urheilupuisto (M),15,2202
+Urheilupuisto (M),16,2708
+Urheilupuisto (M),17,3497
+Urheilupuisto (M),18,3236
+Urheilupuisto (M),19,2711
+Urheilupuisto (M),20,2341
+Urheilupuisto (M),21,1993
+Urheilupuisto (M),22,1458
+Urheilupuisto (M),23,993
+Valimon asema,0,49
+Valimon asema,1,47
+Valimon asema,2,28
+Valimon asema,3,21
+Valimon asema,4,11
+Valimon asema,5,15
+Valimon asema,6,23
+Valimon asema,7,91
+Valimon asema,8,202
+Valimon asema,9,132
+Valimon asema,10,199
+Valimon asema,11,216
+Valimon asema,12,201
+Valimon asema,13,257
+Valimon asema,14,304
+Valimon asema,15,630
+Valimon asema,16,1115
+Valimon asema,17,762
+Valimon asema,18,383
+Valimon asema,19,264
+Valimon asema,20,230
+Valimon asema,21,159
+Valimon asema,22,110
+Valimon asema,23,74
+Valimotie,0,93
+Valimotie,1,55
+Valimotie,2,49
+Valimotie,3,26
+Valimotie,4,15
+Valimotie,5,23
+Valimotie,6,15
+Valimotie,7,126
+Valimotie,8,185
+Valimotie,9,152
+Valimotie,10,252
+Valimotie,11,371
+Valimotie,12,617
+Valimotie,13,654
+Valimotie,14,841
+Valimotie,15,1334
+Valimotie,16,1636
+Valimotie,17,1382
+Valimotie,18,1089
+Valimotie,19,958
+Valimotie,20,786
+Valimotie,21,652
+Valimotie,22,390
+Valimotie,23,221
+Vallikatu,0,73
+Vallikatu,1,33
+Vallikatu,2,25
+Vallikatu,3,20
+Vallikatu,4,37
+Vallikatu,5,30
+Vallikatu,6,105
+Vallikatu,7,187
+Vallikatu,8,275
+Vallikatu,9,179
+Vallikatu,10,126
+Vallikatu,11,152
+Vallikatu,12,195
+Vallikatu,13,210
+Vallikatu,14,207
+Vallikatu,15,214
+Vallikatu,16,291
+Vallikatu,17,365
+Vallikatu,18,331
+Vallikatu,19,347
+Vallikatu,20,313
+Vallikatu,21,230
+Vallikatu,22,188
+Vallikatu,23,107
+Vallilan varikko,0,117
+Vallilan varikko,1,78
+Vallilan varikko,2,77
+Vallilan varikko,3,50
+Vallilan varikko,4,37
+Vallilan varikko,5,30
+Vallilan varikko,6,49
+Vallilan varikko,7,192
+Vallilan varikko,8,592
+Vallilan varikko,9,210
+Vallilan varikko,10,195
+Vallilan varikko,11,191
+Vallilan varikko,12,248
+Vallilan varikko,13,237
+Vallilan varikko,14,193
+Vallilan varikko,15,253
+Vallilan varikko,16,388
+Vallilan varikko,17,433
+Vallilan varikko,18,426
+Vallilan varikko,19,363
+Vallilan varikko,20,301
+Vallilan varikko,21,239
+Vallilan varikko,22,134
+Vallilan varikko,23,118
+Vallipolku,0,50
+Vallipolku,1,10
+Vallipolku,2,8
+Vallipolku,3,8
+Vallipolku,4,2
+Vallipolku,5,27
+Vallipolku,6,50
+Vallipolku,7,109
+Vallipolku,8,361
+Vallipolku,9,172
+Vallipolku,10,118
+Vallipolku,11,101
+Vallipolku,12,132
+Vallipolku,13,141
+Vallipolku,14,154
+Vallipolku,15,134
+Vallipolku,16,212
+Vallipolku,17,246
+Vallipolku,18,222
+Vallipolku,19,211
+Vallipolku,20,156
+Vallipolku,21,137
+Vallipolku,22,74
+Vallipolku,23,62
+Vanha Kauppahalli,0,369
+Vanha Kauppahalli,1,225
+Vanha Kauppahalli,2,146
+Vanha Kauppahalli,3,132
+Vanha Kauppahalli,4,122
+Vanha Kauppahalli,5,62
+Vanha Kauppahalli,6,54
+Vanha Kauppahalli,7,82
+Vanha Kauppahalli,8,250
+Vanha Kauppahalli,9,358
+Vanha Kauppahalli,10,437
+Vanha Kauppahalli,11,633
+Vanha Kauppahalli,12,968
+Vanha Kauppahalli,13,1318
+Vanha Kauppahalli,14,1494
+Vanha Kauppahalli,15,1934
+Vanha Kauppahalli,16,2611
+Vanha Kauppahalli,17,2982
+Vanha Kauppahalli,18,2400
+Vanha Kauppahalli,19,1690
+Vanha Kauppahalli,20,1653
+Vanha Kauppahalli,21,1423
+Vanha Kauppahalli,22,1030
+Vanha Kauppahalli,23,679
+Vanha Viertotie,0,73
+Vanha Viertotie,1,55
+Vanha Viertotie,2,58
+Vanha Viertotie,3,36
+Vanha Viertotie,4,22
+Vanha Viertotie,5,29
+Vanha Viertotie,6,46
+Vanha Viertotie,7,71
+Vanha Viertotie,8,285
+Vanha Viertotie,9,294
+Vanha Viertotie,10,275
+Vanha Viertotie,11,339
+Vanha Viertotie,12,469
+Vanha Viertotie,13,460
+Vanha Viertotie,14,581
+Vanha Viertotie,15,616
+Vanha Viertotie,16,680
+Vanha Viertotie,17,651
+Vanha Viertotie,18,719
+Vanha Viertotie,19,723
+Vanha Viertotie,20,636
+Vanha Viertotie,21,531
+Vanha Viertotie,22,322
+Vanha Viertotie,23,138
+Vanha kirkkopuisto,0,1439
+Vanha kirkkopuisto,1,1050
+Vanha kirkkopuisto,2,706
+Vanha kirkkopuisto,3,429
+Vanha kirkkopuisto,4,273
+Vanha kirkkopuisto,5,136
+Vanha kirkkopuisto,6,159
+Vanha kirkkopuisto,7,515
+Vanha kirkkopuisto,8,2683
+Vanha kirkkopuisto,9,4057
+Vanha kirkkopuisto,10,2347
+Vanha kirkkopuisto,11,2451
+Vanha kirkkopuisto,12,3715
+Vanha kirkkopuisto,13,3747
+Vanha kirkkopuisto,14,3818
+Vanha kirkkopuisto,15,4321
+Vanha kirkkopuisto,16,6181
+Vanha kirkkopuisto,17,7421
+Vanha kirkkopuisto,18,5554
+Vanha kirkkopuisto,19,4240
+Vanha kirkkopuisto,20,3435
+Vanha kirkkopuisto,21,2718
+Vanha kirkkopuisto,22,2012
+Vanha kirkkopuisto,23,1682
+Varsapuistikko,0,1168
+Varsapuistikko,1,793
+Varsapuistikko,2,593
+Varsapuistikko,3,437
+Varsapuistikko,4,290
+Varsapuistikko,5,127
+Varsapuistikko,6,172
+Varsapuistikko,7,544
+Varsapuistikko,8,2472
+Varsapuistikko,9,3645
+Varsapuistikko,10,2529
+Varsapuistikko,11,2208
+Varsapuistikko,12,3252
+Varsapuistikko,13,3336
+Varsapuistikko,14,3971
+Varsapuistikko,15,4692
+Varsapuistikko,16,6483
+Varsapuistikko,17,6654
+Varsapuistikko,18,5369
+Varsapuistikko,19,3855
+Varsapuistikko,20,3200
+Varsapuistikko,21,2645
+Varsapuistikko,22,1817
+Varsapuistikko,23,1374
+Velodrominrinne,0,526
+Velodrominrinne,1,358
+Velodrominrinne,2,241
+Velodrominrinne,3,173
+Velodrominrinne,4,142
+Velodrominrinne,5,138
+Velodrominrinne,6,235
+Velodrominrinne,7,635
+Velodrominrinne,8,1364
+Velodrominrinne,9,1367
+Velodrominrinne,10,984
+Velodrominrinne,11,957
+Velodrominrinne,12,1230
+Velodrominrinne,13,1212
+Velodrominrinne,14,1301
+Velodrominrinne,15,1630
+Velodrominrinne,16,2354
+Velodrominrinne,17,2379
+Velodrominrinne,18,2100
+Velodrominrinne,19,1975
+Velodrominrinne,20,2088
+Velodrominrinne,21,1693
+Velodrominrinne,22,1153
+Velodrominrinne,23,741
+Venttiilikuja,0,679
+Venttiilikuja,1,405
+Venttiilikuja,2,317
+Venttiilikuja,3,184
+Venttiilikuja,4,124
+Venttiilikuja,5,225
+Venttiilikuja,6,748
+Venttiilikuja,7,1937
+Venttiilikuja,8,1931
+Venttiilikuja,9,1313
+Venttiilikuja,10,1176
+Venttiilikuja,11,1138
+Venttiilikuja,12,1361
+Venttiilikuja,13,1264
+Venttiilikuja,14,1381
+Venttiilikuja,15,1804
+Venttiilikuja,16,2861
+Venttiilikuja,17,3563
+Venttiilikuja,18,3165
+Venttiilikuja,19,2641
+Venttiilikuja,20,2261
+Venttiilikuja,21,1757
+Venttiilikuja,22,1343
+Venttiilikuja,23,984
+Verkatehtaanpuisto,0,437
+Verkatehtaanpuisto,1,252
+Verkatehtaanpuisto,2,167
+Verkatehtaanpuisto,3,110
+Verkatehtaanpuisto,4,62
+Verkatehtaanpuisto,5,60
+Verkatehtaanpuisto,6,85
+Verkatehtaanpuisto,7,545
+Verkatehtaanpuisto,8,1188
+Verkatehtaanpuisto,9,1406
+Verkatehtaanpuisto,10,901
+Verkatehtaanpuisto,11,1005
+Verkatehtaanpuisto,12,1476
+Verkatehtaanpuisto,13,1777
+Verkatehtaanpuisto,14,2138
+Verkatehtaanpuisto,15,2382
+Verkatehtaanpuisto,16,2963
+Verkatehtaanpuisto,17,3008
+Verkatehtaanpuisto,18,2802
+Verkatehtaanpuisto,19,2561
+Verkatehtaanpuisto,20,2402
+Verkatehtaanpuisto,21,1862
+Verkatehtaanpuisto,22,1191
+Verkatehtaanpuisto,23,657
+Vesakkotie,0,48
+Vesakkotie,1,30
+Vesakkotie,2,25
+Vesakkotie,3,23
+Vesakkotie,4,5
+Vesakkotie,5,8
+Vesakkotie,6,20
+Vesakkotie,7,111
+Vesakkotie,8,182
+Vesakkotie,9,154
+Vesakkotie,10,129
+Vesakkotie,11,138
+Vesakkotie,12,184
+Vesakkotie,13,304
+Vesakkotie,14,237
+Vesakkotie,15,289
+Vesakkotie,16,329
+Vesakkotie,17,289
+Vesakkotie,18,278
+Vesakkotie,19,273
+Vesakkotie,20,281
+Vesakkotie,21,238
+Vesakkotie,22,125
+Vesakkotie,23,61
+Vihdintie,0,386
+Vihdintie,1,289
+Vihdintie,2,176
+Vihdintie,3,108
+Vihdintie,4,108
+Vihdintie,5,101
+Vihdintie,6,184
+Vihdintie,7,561
+Vihdintie,8,1152
+Vihdintie,9,895
+Vihdintie,10,799
+Vihdintie,11,949
+Vihdintie,12,1153
+Vihdintie,13,1147
+Vihdintie,14,1215
+Vihdintie,15,1281
+Vihdintie,16,1839
+Vihdintie,17,1711
+Vihdintie,18,1801
+Vihdintie,19,1581
+Vihdintie,20,1471
+Vihdintie,21,1233
+Vihdintie,22,880
+Vihdintie,23,610
+Viikin normaalikoulu,0,77
+Viikin normaalikoulu,1,58
+Viikin normaalikoulu,2,35
+Viikin normaalikoulu,3,25
+Viikin normaalikoulu,4,12
+Viikin normaalikoulu,5,32
+Viikin normaalikoulu,6,39
+Viikin normaalikoulu,7,112
+Viikin normaalikoulu,8,250
+Viikin normaalikoulu,9,182
+Viikin normaalikoulu,10,185
+Viikin normaalikoulu,11,213
+Viikin normaalikoulu,12,303
+Viikin normaalikoulu,13,361
+Viikin normaalikoulu,14,412
+Viikin normaalikoulu,15,445
+Viikin normaalikoulu,16,452
+Viikin normaalikoulu,17,543
+Viikin normaalikoulu,18,543
+Viikin normaalikoulu,19,539
+Viikin normaalikoulu,20,434
+Viikin normaalikoulu,21,348
+Viikin normaalikoulu,22,271
+Viikin normaalikoulu,23,175
+Viikin tiedepuisto,0,298
+Viikin tiedepuisto,1,154
+Viikin tiedepuisto,2,89
+Viikin tiedepuisto,3,53
+Viikin tiedepuisto,4,43
+Viikin tiedepuisto,5,46
+Viikin tiedepuisto,6,40
+Viikin tiedepuisto,7,74
+Viikin tiedepuisto,8,131
+Viikin tiedepuisto,9,203
+Viikin tiedepuisto,10,253
+Viikin tiedepuisto,11,386
+Viikin tiedepuisto,12,680
+Viikin tiedepuisto,13,883
+Viikin tiedepuisto,14,1086
+Viikin tiedepuisto,15,1254
+Viikin tiedepuisto,16,1496
+Viikin tiedepuisto,17,1618
+Viikin tiedepuisto,18,1753
+Viikin tiedepuisto,19,1533
+Viikin tiedepuisto,20,1325
+Viikin tiedepuisto,21,1089
+Viikin tiedepuisto,22,715
+Viikin tiedepuisto,23,435
+Viiskulma,0,1579
+Viiskulma,1,1009
+Viiskulma,2,683
+Viiskulma,3,494
+Viiskulma,4,439
+Viiskulma,5,685
+Viiskulma,6,612
+Viiskulma,7,1617
+Viiskulma,8,2949
+Viiskulma,9,2747
+Viiskulma,10,2246
+Viiskulma,11,2025
+Viiskulma,12,2353
+Viiskulma,13,2496
+Viiskulma,14,2560
+Viiskulma,15,2782
+Viiskulma,16,3756
+Viiskulma,17,4833
+Viiskulma,18,4698
+Viiskulma,19,4091
+Viiskulma,20,3587
+Viiskulma,21,2936
+Viiskulma,22,2278
+Viiskulma,23,1657
+Vilhonvuorenkatu,0,1783
+Vilhonvuorenkatu,1,1335
+Vilhonvuorenkatu,2,1031
+Vilhonvuorenkatu,3,683
+Vilhonvuorenkatu,4,432
+Vilhonvuorenkatu,5,332
+Vilhonvuorenkatu,6,467
+Vilhonvuorenkatu,7,774
+Vilhonvuorenkatu,8,2535
+Vilhonvuorenkatu,9,3286
+Vilhonvuorenkatu,10,2416
+Vilhonvuorenkatu,11,2552
+Vilhonvuorenkatu,12,3132
+Vilhonvuorenkatu,13,3083
+Vilhonvuorenkatu,14,3169
+Vilhonvuorenkatu,15,3683
+Vilhonvuorenkatu,16,5053
+Vilhonvuorenkatu,17,6250
+Vilhonvuorenkatu,18,5874
+Vilhonvuorenkatu,19,5046
+Vilhonvuorenkatu,20,4525
+Vilhonvuorenkatu,21,3803
+Vilhonvuorenkatu,22,2508
+Vilhonvuorenkatu,23,1908
+Voikukantie,0,230
+Voikukantie,1,165
+Voikukantie,2,110
+Voikukantie,3,74
+Voikukantie,4,62
+Voikukantie,5,41
+Voikukantie,6,29
+Voikukantie,7,58
+Voikukantie,8,131
+Voikukantie,9,126
+Voikukantie,10,122
+Voikukantie,11,197
+Voikukantie,12,304
+Voikukantie,13,410
+Voikukantie,14,447
+Voikukantie,15,535
+Voikukantie,16,641
+Voikukantie,17,644
+Voikukantie,18,786
+Voikukantie,19,718
+Voikukantie,20,727
+Voikukantie,21,616
+Voikukantie,22,397
+Voikukantie,23,301
+Von Daehnin katu,0,30
+Von Daehnin katu,1,23
+Von Daehnin katu,2,20
+Von Daehnin katu,3,6
+Von Daehnin katu,4,6
+Von Daehnin katu,5,5
+Von Daehnin katu,6,21
+Von Daehnin katu,7,57
+Von Daehnin katu,8,140
+Von Daehnin katu,9,114
+Von Daehnin katu,10,76
+Von Daehnin katu,11,100
+Von Daehnin katu,12,134
+Von Daehnin katu,13,124
+Von Daehnin katu,14,126
+Von Daehnin katu,15,143
+Von Daehnin katu,16,168
+Von Daehnin katu,17,162
+Von Daehnin katu,18,191
+Von Daehnin katu,19,175
+Von Daehnin katu,20,131
+Von Daehnin katu,21,117
+Von Daehnin katu,22,69
+Von Daehnin katu,23,46
+Westendinasema,0,268
+Westendinasema,1,235
+Westendinasema,2,187
+Westendinasema,3,105
+Westendinasema,4,72
+Westendinasema,5,48
+Westendinasema,6,43
+Westendinasema,7,100
+Westendinasema,8,297
+Westendinasema,9,238
+Westendinasema,10,252
+Westendinasema,11,377
+Westendinasema,12,536
+Westendinasema,13,600
+Westendinasema,14,661
+Westendinasema,15,799
+Westendinasema,16,1108
+Westendinasema,17,1316
+Westendinasema,18,1135
+Westendinasema,19,991
+Westendinasema,20,873
+Westendinasema,21,701
+Westendinasema,22,530
+Westendinasema,23,323
+Westendintie,0,59
+Westendintie,1,33
+Westendintie,2,8
+Westendintie,3,5
+Westendintie,4,12
+Westendintie,5,11
+Westendintie,6,3
+Westendintie,7,13
+Westendintie,8,67
+Westendintie,9,92
+Westendintie,10,117
+Westendintie,11,192
+Westendintie,12,276
+Westendintie,13,394
+Westendintie,14,443
+Westendintie,15,403
+Westendintie,16,491
+Westendintie,17,522
+Westendintie,18,514
+Westendintie,19,539
+Westendintie,20,440
+Westendintie,21,360
+Westendintie,22,250
+Westendintie,23,125
+Yhdyskunnankuja,0,56
+Yhdyskunnankuja,1,47
+Yhdyskunnankuja,2,8
+Yhdyskunnankuja,3,6
+Yhdyskunnankuja,4,10
+Yhdyskunnankuja,5,14
+Yhdyskunnankuja,6,128
+Yhdyskunnankuja,7,153
+Yhdyskunnankuja,8,314
+Yhdyskunnankuja,9,336
+Yhdyskunnankuja,10,227
+Yhdyskunnankuja,11,295
+Yhdyskunnankuja,12,392
+Yhdyskunnankuja,13,369
+Yhdyskunnankuja,14,351
+Yhdyskunnankuja,15,449
+Yhdyskunnankuja,16,591
+Yhdyskunnankuja,17,723
+Yhdyskunnankuja,18,620
+Yhdyskunnankuja,19,462
+Yhdyskunnankuja,20,384
+Yhdyskunnankuja,21,241
+Yhdyskunnankuja,22,147
+Yhdyskunnankuja,23,67
+Ympyrätalo,0,2656
+Ympyrätalo,1,1775
+Ympyrätalo,2,1748
+Ympyrätalo,3,1184
+Ympyrätalo,4,781
+Ympyrätalo,5,790
+Ympyrätalo,6,832
+Ympyrätalo,7,2577
+Ympyrätalo,8,6970
+Ympyrätalo,9,7331
+Ympyrätalo,10,4299
+Ympyrätalo,11,4349
+Ympyrätalo,12,5451
+Ympyrätalo,13,5827
+Ympyrätalo,14,5952
+Ympyrätalo,15,7270
+Ympyrätalo,16,9227
+Ympyrätalo,17,9650
+Ympyrätalo,18,9290
+Ympyrätalo,19,7637
+Ympyrätalo,20,6528
+Ympyrätalo,21,5277
+Ympyrätalo,22,4041
+Ympyrätalo,23,2992
