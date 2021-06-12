@@ -51,7 +51,11 @@ data_table['Traffic'] = pd.Categorical(
 external_stylesheets = [dbc.themes.SKETCHY]
 assets_path = os.getcwd() + '/assets'
 
-px.set_mapbox_access_token(open(mapbox_token).read())
+token = os.environ.get('MAPBOX_TOKEN', None)
+if token is None:
+    token = open(mapbox_token).read()
+
+px.set_mapbox_access_token(token)
 
 app = dash.Dash(
     __name__,
@@ -59,6 +63,8 @@ app = dash.Dash(
     assets_folder=assets_path,
     suppress_callback_exceptions=True
 )
+
+server = app.server
 
 app.layout = dbc.Container([
     dcc.Store(id="store"),
